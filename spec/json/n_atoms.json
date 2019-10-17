@@ -1,0 +1,425 @@
+[
+  {
+    "id": 9068,
+    "id_cdxml": 9073,
+    "reactants": [
+      {
+        "smiles": "O=C1NC(c2ccc(Cl)cc2)=NC2C3C=CC(C3)C12",
+        "label": "",
+        "text": "n  "
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1ccnc(-c2ccc(Cl)cc2)[nH]1",
+        "label": "9",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "1: di-exo, n = 1\n2a,b: di-endo a: n = 1, b: n = 2\n(i)",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 9069,
+    "id_cdxml": 9074,
+    "reactants": [
+      {
+        "smiles": "*C1CCC2=NC3C4C=CC(C4)C3C(=O)N21",
+        "label": "3-6",
+        "text": "(  )m  di-exo"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "*C1CCc2nccc(=O)n21",
+        "label": "10-13",
+        "text": "(  )m "
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "3, 10 m = 1, R = H\n4, 11 m = 1, R = Me     \n5, 12 m = 2, R = H    \n6, 13 m = 3, R = H\n(ii)",
+    "temperature": "",
+    "yield": "",
+    "time": "10 m;11 m;12 m;13 m",
+    "details": {
+    }
+  },
+  {
+    "id": 9070,
+    "id_cdxml": 9075,
+    "reactants": [
+      {
+        "smiles": "O=C1C2C3C=CC(C3)C2NC(=S)N1c1ccccc1",
+        "label": "",
+        "text": "n di-exo, n = 1\n: di-endo : n = 1, : n = 2  "
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1cc[nH]c(=S)n1-c1ccccc1",
+        "label": "14",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(iii)",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000024,
+    "id_cdxml": 10000024,
+    "reactants": [
+      {
+        "smiles": "O=C1NC(c2ccc(Cl)cc2)=NC2C3C=CC(C3)C12",
+        "label": "1",
+        "text": "n  "
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1ccnc(-c2ccc(Cl)cc2)[nH]1",
+        "label": "9",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "1: di-exo, n = 1\n2a,b: di-endo a: n = 1, b: n = 2\n(i)",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000029,
+    "id_cdxml": 10000029,
+    "reactants": [
+      {
+        "smiles": "O=C1NC(c2ccc(Cl)cc2)=NC2C3C=CC(C3)C12",
+        "label": "2a",
+        "text": "n  "
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1ccnc(-c2ccc(Cl)cc2)[nH]1",
+        "label": "9",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "1: di-exo, n = 1\n2a,b: di-endo a: n = 1, b: n = 2\n(i)",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000034,
+    "id_cdxml": 10000034,
+    "reactants": [
+      {
+        "smiles": "O=C1NC(c2ccc(Cl)cc2)=NC2C3C=CC(CC3)C12",
+        "label": "2b",
+        "text": "n  . Generated with: n - 2"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1ccnc(-c2ccc(Cl)cc2)[nH]1",
+        "label": "9",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "1: di-exo, n = 1\n2a,b: di-endo a: n = 1, b: n = 2\n(i)",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000041,
+    "reactants": [
+      {
+        "smiles": "O=C1C2C3C=CC(C3)C2N=C2CCCN12",
+        "label": "3",
+        "text": "(  )m  di-exo. Generated with: R - H"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1ccnc2n1CCC2",
+        "label": "10",
+        "text": "(  )m . Generated with: R - H"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "3, 10 m = 1, R = H\n4, 11 m = 1, R = Me     \n5, 12 m = 2, R = H    \n6, 13 m = 3, R = H\n(ii)",
+    "temperature": "",
+    "yield": "",
+    "time": "10 m;11 m;12 m;13 m",
+    "details": {
+    }
+  },
+  {
+    "id": 10000047,
+    "reactants": [
+      {
+        "smiles": "CC1CCC2=NC3C4C=CC(C4)C3C(=O)N21",
+        "label": "4",
+        "text": "(  )m  di-exo. Generated with: R - Me"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "CC1CCc2nccc(=O)n21",
+        "label": "11",
+        "text": "(  )m . Generated with: R - Me"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "3, 10 m = 1, R = H\n4, 11 m = 1, R = Me     \n5, 12 m = 2, R = H    \n6, 13 m = 3, R = H\n(ii)",
+    "temperature": "",
+    "yield": "",
+    "time": "10 m;11 m;12 m;13 m",
+    "details": {
+    }
+  },
+  {
+    "id": 10000053,
+    "reactants": [
+      {
+        "smiles": "O=C1C2C3C=CC(C3)C2N=C2CCCCN12",
+        "label": "5",
+        "text": "(  )m  di-exo. Generated with: R - H; m - 2"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1ccnc2n1CCCC2",
+        "label": "12",
+        "text": "(  )m . Generated with: R - H; m - 2"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "3, 10 m = 1, R = H\n4, 11 m = 1, R = Me     \n5, 12 m = 2, R = H    \n6, 13 m = 3, R = H\n(ii)",
+    "temperature": "",
+    "yield": "",
+    "time": "10 m;11 m;12 m;13 m",
+    "details": {
+    }
+  },
+  {
+    "id": 10000063,
+    "id_cdxml": 10000063,
+    "reactants": [
+      {
+        "smiles": "O=C1C2C3C=CC(C3)C2N=C2CCCCCN12",
+        "label": "6",
+        "text": "(  )m  di-exo. Generated with: R - H; m - 3"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1ccnc2n1CCCCC2",
+        "label": "13",
+        "text": "(  )m . Generated with: R - H; m - 3"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "3, 10 m = 1, R = H\n4, 11 m = 1, R = Me     \n5, 12 m = 2, R = H    \n6, 13 m = 3, R = H\n(ii)",
+    "temperature": "",
+    "yield": "",
+    "time": "10 m;11 m;12 m;13 m",
+    "details": {
+    }
+  },
+  {
+    "id": 10000075,
+    "reactants": [
+      {
+        "smiles": "O=C1C2C3C=CC(C3)C2NC(=S)N1c1ccccc1",
+        "label": "7",
+        "text": "n di-exo, n = 1\n: di-endo : n = 1, : n = 2  "
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1cc[nH]c(=S)n1-c1ccccc1",
+        "label": "14",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(iii)",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000080,
+    "reactants": [
+      {
+        "smiles": "O=C1C2C3C=CC(C3)C2NC(=S)N1c1ccccc1",
+        "label": "8a",
+        "text": "n di-exo, n = 1\n: di-endo : n = 1, : n = 2  "
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1cc[nH]c(=S)n1-c1ccccc1",
+        "label": "14",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(iii)",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000085,
+    "reactants": [
+      {
+        "smiles": "O=C1C2C3C=CC(CC3)C2NC(=S)N1c1ccccc1",
+        "label": "8b",
+        "text": "n di-exo, n = 1\n: di-endo : n = 1, : n = 2  . Generated with: n - 2"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1cc[nH]c(=S)n1-c1ccccc1",
+        "label": "14",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(iii)",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  }
+]

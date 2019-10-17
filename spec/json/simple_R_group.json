@@ -1,0 +1,409 @@
+[
+  {
+    "id": 5519,
+    "id_cdxml": 5539,
+    "reactants": [
+      {
+        "smiles": "*OC(*)(C#C)c1ccccc1CCC=C",
+        "label": "",
+        "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl[Au]*c1ccc2ccccc2c1-c1c(*[Au]Cl)ccc2ccccc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "*/C1=C(\\*)[C@@]2([H])C[C@@]2([H])CCc2ccccc21",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(2.5 mol %)\nAgSbF6 ( 5 mol %)\nMeNO2, -25 °C",
+    "temperature": "-25 °C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000014,
+    "id_cdxml": 10000018,
+    "reactants": [
+      {
+        "smiles": "C#CC(OOCC(C)(C)C)c1ccccc1CCC=C",
+        "label": "",
+        "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - H; R2 - Piv"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl[Au]*c1ccc2ccccc2c1-c1c(*[Au]Cl)ccc2ccccc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@@]1([H])CCc1ccccc1/C=C\\2OC(O)C(C)(C)C",
+        "label": "",
+        "text": ". Generated with: R2 - Piv; R1 - H"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(2.5 mol %)\nAgSbF6 ( 5 mol %)\nMeNO2, -25 °C",
+    "temperature": "-25 °C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000021,
+    "id_cdxml": 10000025,
+    "reactants": [
+      {
+        "smiles": "C#CC(OC(C)=O)c1ccccc1CCC=C",
+        "label": "",
+        "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - H; R2 - Ac"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl[Au]*c1ccc2ccccc2c1-c1c(*[Au]Cl)ccc2ccccc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@@]1([H])CCc1ccccc1/C=C\\2OC(C)=O",
+        "label": "",
+        "text": ". Generated with: R2 - Ac; R1 - H"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(2.5 mol %)\nAgSbF6 ( 5 mol %)\nMeNO2, -25 °C",
+    "temperature": "-25 °C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000028,
+    "id_cdxml": 10000032,
+    "reactants": [
+      {
+        "smiles": "C#CC(C)(OOCC(C)(C)C)c1ccccc1CCC=C",
+        "label": "",
+        "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Me; R2 - Piv"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl[Au]*c1ccc2ccccc2c1-c1c(*[Au]Cl)ccc2ccccc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@@]1([H])CCc1ccccc1/C(C)=C\\2OC(O)C(C)(C)C",
+        "label": "",
+        "text": ". Generated with: R2 - Piv; R1 - Me"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(2.5 mol %)\nAgSbF6 ( 5 mol %)\nMeNO2, -25 °C",
+    "temperature": "-25 °C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000035,
+    "id_cdxml": 10000039,
+    "reactants": [
+      {
+        "smiles": "C#CC(C)(OC(C)=O)c1ccccc1CCC=C",
+        "label": "",
+        "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Me; R2 - Ac"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl[Au]*c1ccc2ccccc2c1-c1c(*[Au]Cl)ccc2ccccc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@@]1([H])CCc1ccccc1/C(C)=C\\2OC(C)=O",
+        "label": "",
+        "text": ". Generated with: R2 - Ac; R1 - Me"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(2.5 mol %)\nAgSbF6 ( 5 mol %)\nMeNO2, -25 °C",
+    "temperature": "-25 °C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000042,
+    "id_cdxml": 10000046,
+    "reactants": [
+      {
+        "smiles": "C#CC(CC)(OOCC(C)(C)C)c1ccccc1CCC=C",
+        "label": "",
+        "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Et; R2 - Piv"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl[Au]*c1ccc2ccccc2c1-c1c(*[Au]Cl)ccc2ccccc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@@]1([H])CCc1ccccc1/C(CC)=C\\2OC(O)C(C)(C)C",
+        "label": "",
+        "text": ". Generated with: R2 - Piv; R1 - Et"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(2.5 mol %)\nAgSbF6 ( 5 mol %)\nMeNO2, -25 °C",
+    "temperature": "-25 °C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000049,
+    "id_cdxml": 10000053,
+    "reactants": [
+      {
+        "smiles": "C#CC(CC)(OC(C)=O)c1ccccc1CCC=C",
+        "label": "",
+        "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Et; R2 - Ac"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl[Au]*c1ccc2ccccc2c1-c1c(*[Au]Cl)ccc2ccccc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@@]1([H])CCc1ccccc1/C(CC)=C\\2OC(C)=O",
+        "label": "",
+        "text": ". Generated with: R2 - Ac; R1 - Et"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(2.5 mol %)\nAgSbF6 ( 5 mol %)\nMeNO2, -25 °C",
+    "temperature": "-25 °C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000056,
+    "id_cdxml": 10000060,
+    "reactants": [
+      {
+        "smiles": "C#CC(CC=C)(OOCC(C)(C)C)c1ccccc1CCC=C",
+        "label": "",
+        "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Allyl; R2 - Piv"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl[Au]*c1ccc2ccccc2c1-c1c(*[Au]Cl)ccc2ccccc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@@]1([H])CCc1ccccc1/C(CC=C)=C\\2OC(O)C(C)(C)C",
+        "label": "",
+        "text": ". Generated with: R2 - Piv; R1 - Allyl"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(2.5 mol %)\nAgSbF6 ( 5 mol %)\nMeNO2, -25 °C",
+    "temperature": "-25 °C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000063,
+    "id_cdxml": 10000067,
+    "reactants": [
+      {
+        "smiles": "C#CC(CC=C)(OC(C)=O)c1ccccc1CCC=C",
+        "label": "",
+        "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Allyl; R2 - Ac"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl[Au]*c1ccc2ccccc2c1-c1c(*[Au]Cl)ccc2ccccc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@@]1([H])CCc1ccccc1/C(CC=C)=C\\2OC(C)=O",
+        "label": "",
+        "text": ". Generated with: R2 - Ac; R1 - Allyl"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(2.5 mol %)\nAgSbF6 ( 5 mol %)\nMeNO2, -25 °C",
+    "temperature": "-25 °C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000070,
+    "id_cdxml": 10000074,
+    "reactants": [
+      {
+        "smiles": "C#CC(CCc1ccccc1)(OOCC(C)(C)C)c1ccccc1CCC=C",
+        "label": "",
+        "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - (CH2)2Ph; R2 - Piv"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl[Au]*c1ccc2ccccc2c1-c1c(*[Au]Cl)ccc2ccccc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@@]1([H])CCc1ccccc1/C(CCc1ccccc1)=C\\2OC(O)C(C)(C)C",
+        "label": "",
+        "text": ". Generated with: R2 - Piv; R1 - (CH2)2Ph"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(2.5 mol %)\nAgSbF6 ( 5 mol %)\nMeNO2, -25 °C",
+    "temperature": "-25 °C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000077,
+    "id_cdxml": 10000081,
+    "reactants": [
+      {
+        "smiles": "C#CC(CCc1ccccc1)(OC(C)=O)c1ccccc1CCC=C",
+        "label": "",
+        "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - (CH2)2Ph; R2 - Ac"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl[Au]*c1ccc2ccccc2c1-c1c(*[Au]Cl)ccc2ccccc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@@]1([H])CCc1ccccc1/C(CCc1ccccc1)=C\\2OC(C)=O",
+        "label": "",
+        "text": ". Generated with: R2 - Ac; R1 - (CH2)2Ph"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "(2.5 mol %)\nAgSbF6 ( 5 mol %)\nMeNO2, -25 °C",
+    "temperature": "-25 °C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  }
+]

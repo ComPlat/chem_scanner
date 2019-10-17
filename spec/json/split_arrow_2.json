@@ -1,0 +1,602 @@
+[
+  {
+    "id": 32610,
+    "reactants": [
+      {
+        "smiles": "*C1(*)OC2COC(c3ccccc3)O[C@H]2C(OC(=O)c2ccccc2)C1N=[N+]=[N-]",
+        "label": "7a 7b",
+        "text": ": X = SPh, Y = H\n: X = H, Y = SPh"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "CC(C)(C)[Si](OCC1O[C@H](Sc2ccccc2)C(N=[N+]=[N-])C(OC(=O)c2ccccc2)[C@H]1O)(c1ccccc1)c1ccccc1",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "TsOH·H2O, CH2Cl2/MeOH 1:1, 95%\n",
+        "time": "",
+        "temperature": "",
+        "reagents": [
+          "Cc1ccc(cc1)S(=O)(=O)O",
+          "O",
+          "ClCCl",
+          "CO"
+        ]
+      },
+      {
+        "number": 2,
+        "description": "TBDPS-Cl, IM, MeCN, 90%\n",
+        "time": "",
+        "temperature": "",
+        "reagents": [
+          "c1ncc[nH]1",
+          "CC#N"
+        ]
+      },
+      {
+        "number": 3,
+        "description": "Tf2O, py, CH2Cl2, 0 °C\n",
+        "time": "",
+        "temperature": "0 °C",
+        "reagents": [
+          "ClCCl",
+          "FC(S(=O)(=O)OS(=O)(=O)C(F)(F)F)(F)F",
+          "c1cccnc1"
+        ]
+      },
+      {
+        "number": 4,
+        "description": "TBANO2, MeCN, 0 °C -> rt, 82% (2 steps)",
+        "time": "",
+        "temperature": "0 °C; 20°C ~ 25°C",
+        "reagents": [
+          "CC#N"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "CC#N",
+      "CO",
+      "Cc1ccc(cc1)S(=O)(=O)O",
+      "ClCCl",
+      "FC(S(=O)(=O)OS(=O)(=O)C(F)(F)F)(F)F",
+      "O",
+      "c1cccnc1",
+      "c1ncc[nH]1"
+    ],
+    "description": "i) TsOH·H2O, CH2Cl2/MeOH 1:1, 95%\nii) TBDPS-Cl, IM, MeCN, 90%\niii) Tf2O, py, CH2Cl2, 0 °C\niv) TBANO2, MeCN, 0 °C -> rt, 82% (2 steps)",
+    "temperature": "",
+    "yield": "95%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 32612,
+    "reactants": [
+      {
+        "smiles": "CC(C)(C)[Si](OCC1O[C@H](Sc2ccccc2)C(N=[N+]=[N-])C(OC(=O)c2ccccc2)[C@H]1O)(c1ccccc1)c1ccccc1",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "CC(C)(C)[Si](OCC1O[C@H](Sc2ccccc2)C(N=[N+]=[N-])C(O)[C@H]1O)(c1ccccc1)c1ccccc1",
+        "label": "9",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CO",
+      "[O-]C.[Na+]"
+    ],
+    "description": "NaOMe, MeOH, 94%",
+    "temperature": "",
+    "yield": "94%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 32613,
+    "reactants": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(O)[C@@H](OC(=O)c2ccccc2)C(COCc2ccccc2)O[C@H]1Sc1ccccc1",
+        "label": "8",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(O)[C@@H](O)C(COCc2ccccc2)O[C@H]1Sc1ccccc1",
+        "label": "10",
+        "text": "acceptors "
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CO",
+      "[O-]C.[Na+]"
+    ],
+    "description": "NaOMe, MeOH, 90%",
+    "temperature": "",
+    "yield": "90%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 32614,
+    "reactants": [
+      {
+        "smiles": "Cl.NC(=O)CO",
+        "label": "",
+        "text": "GlcNH2.HCl"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "*C1(*)OC2COC(c3ccccc3)O[C@H]2C(OC(=O)c2ccccc2)C1N=[N+]=[N-]",
+        "label": "7a 7b",
+        "text": ": X = SPh, Y = H\n: X = H, Y = SPh"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "ref [44]",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 32615,
+    "reactants": [
+      {
+        "smiles": "*C1(*)OC2COC(c3ccccc3)O[C@H]2C(OC(=O)c2ccccc2)C1N=[N+]=[N-]",
+        "label": "7a 7b",
+        "text": ": X = SPh, Y = H\n: X = H, Y = SPh"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(O)[C@@H](OC(=O)c2ccccc2)C(COCc2ccccc2)O[C@H]1Sc1ccccc1",
+        "label": "8",
+        "text": ""
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "Et3SiH, BF3·OEt2, CH2Cl2, -78 °C -> 5 °C, 78%\n",
+        "time": "",
+        "temperature": "-78 °C",
+        "reagents": [
+          "FB(F)F",
+          "ClCCl"
+        ]
+      },
+      {
+        "number": 2,
+        "description": "Tf2O, py, CH2Cl2, 0 °C\n",
+        "time": "",
+        "temperature": "0 °C",
+        "reagents": [
+          "ClCCl",
+          "FC(S(=O)(=O)OS(=O)(=O)C(F)(F)F)(F)F",
+          "c1cccnc1"
+        ]
+      },
+      {
+        "number": 3,
+        "description": "H2O, py, THF, 40 °C, 74% (2 steps)",
+        "time": "",
+        "temperature": "40 °C",
+        "reagents": [
+          "c1cccnc1",
+          "O",
+          "C1CCCO1"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "C1CCCO1",
+      "ClCCl",
+      "FB(F)F",
+      "FC(S(=O)(=O)OS(=O)(=O)C(F)(F)F)(F)F",
+      "O",
+      "c1cccnc1"
+    ],
+    "description": "i) Et3SiH, BF3·OEt2, CH2Cl2, -78 °C -> 5 °C, 78%\nii) Tf2O, py, CH2Cl2, 0 °C\niii) H2O, py, THF, 40 °C, 74% (2 steps)",
+    "temperature": "",
+    "yield": "78%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 32616,
+    "reactants": [
+      {
+        "smiles": "CC(C)(C)[Si](OCC1O[C@H](Sc2ccccc2)C(N=[N+]=[N-])C(O)[C@H]1O)(c1ccccc1)c1ccccc1",
+        "label": "9",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "CC(C)(C)[Si](OCC1O[C@@H](OC(=N)C(Cl)(Cl)Cl)C(N=[N+]=[N-])C(OCc2ccccc2)[C@H]1OCc1ccccc1)(c1ccccc1)c1ccccc1",
+        "label": "15",
+        "text": "donors α /β  1:0.6 "
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "BnBr, TBAI, NaH, DMF, 0 °C, 87% 11\n",
+        "time": "",
+        "temperature": "0 °C",
+        "reagents": [
+          "BrCc1ccccc1",
+          "CCCC[N+](CCCC)(CCCC)CCCC.[I-]",
+          "[H-].[Na+]",
+          "O=CN(C)C"
+        ]
+      },
+      {
+        "number": 2,
+        "description": "NBS, (CH3)2CO/H2O 10:1, 0 °C, 95% 13\n",
+        "time": "",
+        "temperature": "0 °C",
+        "reagents": [
+          "BrN1C(=O)CCC1=O",
+          "O"
+        ]
+      },
+      {
+        "number": 3,
+        "description": "Cl3CCN, DBU, CH2Cl2, 0 °C, 94%",
+        "time": "",
+        "temperature": "0 °C",
+        "reagents": [
+          "C1N=CC2N(CC1)CCCC2",
+          "ClCCl"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "BrCc1ccccc1",
+      "BrN1C(=O)CCC1=O",
+      "C1N=CC2N(CC1)CCCC2",
+      "CCCC[N+](CCCC)(CCCC)CCCC.[I-]",
+      "ClCCl",
+      "O",
+      "O=CN(C)C",
+      "[H-].[Na+]"
+    ],
+    "description": "i) BnBr, TBAI, NaH, DMF, 0 °C, 87% 11\nii) NBS, (CH3)2CO/H2O 10:1, 0 °C, 95% 13\niii) Cl3CCN, DBU, CH2Cl2, 0 °C, 94%",
+    "temperature": "",
+    "yield": "87%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 32617,
+    "reactants": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(O)[C@@H](O)C(COCc2ccccc2)O[C@H]1Sc1ccccc1",
+        "label": "10",
+        "text": "acceptors "
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(OCc2ccccc2)[C@@H](OCc2ccccc2)C(COCc2ccccc2)O[C@H]1OC(=N)C(Cl)(Cl)Cl",
+        "label": "16",
+        "text": "α /β  1:0.9 "
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "BnBr, NaH, DMF, 0 °C, 74% 12\n",
+        "time": "",
+        "temperature": "0 °C",
+        "reagents": [
+          "BrCc1ccccc1",
+          "[H-].[Na+]",
+          "O=CN(C)C"
+        ]
+      },
+      {
+        "number": 2,
+        "description": "NBS, (CH3)2CO/H2O 10:1, 0 °C, 91% 14\n",
+        "time": "",
+        "temperature": "0 °C",
+        "reagents": [
+          "BrN1C(=O)CCC1=O",
+          "O"
+        ]
+      },
+      {
+        "number": 3,
+        "description": "Cl3CCN, DBU, CH2Cl2, 0 °C, 83%",
+        "time": "",
+        "temperature": "0 °C",
+        "reagents": [
+          "C1N=CC2N(CC1)CCCC2",
+          "ClCCl"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "BrCc1ccccc1",
+      "BrN1C(=O)CCC1=O",
+      "C1N=CC2N(CC1)CCCC2",
+      "ClCCl",
+      "O",
+      "O=CN(C)C",
+      "[H-].[Na+]"
+    ],
+    "description": "i) BnBr, NaH, DMF, 0 °C, 74% 12\nii) NBS, (CH3)2CO/H2O 10:1, 0 °C, 91% 14\niii) Cl3CCN, DBU, CH2Cl2, 0 °C, 83%",
+    "temperature": "",
+    "yield": "74%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000082,
+    "reactants": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(OC(=O)c2ccccc2)[C@@H]2OC(c3ccccc3)OCC2O[C@@H]1Sc1ccccc1",
+        "label": "7a",
+        "text": ": X = SPh, Y = H\n: X = H, Y = SPh. Generated with: X - SPh; Y - H"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "CC(C)(C)[Si](OCC1O[C@H](Sc2ccccc2)C(N=[N+]=[N-])C(OC(=O)c2ccccc2)[C@H]1O)(c1ccccc1)c1ccccc1",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC#N",
+      "CO",
+      "Cc1ccc(cc1)S(=O)(=O)O",
+      "ClCCl",
+      "FC(S(=O)(=O)OS(=O)(=O)C(F)(F)F)(F)F",
+      "O",
+      "c1cccnc1",
+      "c1ncc[nH]1"
+    ],
+    "description": "i) TsOH·H2O, CH2Cl2/MeOH 1:1, 95%\nii) TBDPS-Cl, IM, MeCN, 90%\niii) Tf2O, py, CH2Cl2, 0 °C\niv) TBANO2, MeCN, 0 °C -> rt, 82% (2 steps)",
+    "temperature": "",
+    "yield": "95%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000087,
+    "reactants": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(OC(=O)c2ccccc2)[C@@H]2OC(c3ccccc3)OCC2O[C@@H]1Sc1ccccc1",
+        "label": "7b",
+        "text": ": X = SPh, Y = H\n: X = H, Y = SPh. Generated with: X - H; Y - SPh"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "CC(C)(C)[Si](OCC1O[C@H](Sc2ccccc2)C(N=[N+]=[N-])C(OC(=O)c2ccccc2)[C@H]1O)(c1ccccc1)c1ccccc1",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC#N",
+      "CO",
+      "Cc1ccc(cc1)S(=O)(=O)O",
+      "ClCCl",
+      "FC(S(=O)(=O)OS(=O)(=O)C(F)(F)F)(F)F",
+      "O",
+      "c1cccnc1",
+      "c1ncc[nH]1"
+    ],
+    "description": "i) TsOH·H2O, CH2Cl2/MeOH 1:1, 95%\nii) TBDPS-Cl, IM, MeCN, 90%\niii) Tf2O, py, CH2Cl2, 0 °C\niv) TBANO2, MeCN, 0 °C -> rt, 82% (2 steps)",
+    "temperature": "",
+    "yield": "95%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000100,
+    "reactants": [
+      {
+        "smiles": "Cl.NC(=O)CO",
+        "label": "",
+        "text": "GlcNH2.HCl"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(OC(=O)c2ccccc2)[C@@H]2OC(c3ccccc3)OCC2O[C@@H]1Sc1ccccc1",
+        "label": "7a",
+        "text": ": X = SPh, Y = H\n: X = H, Y = SPh. Generated with: X - SPh; Y - H"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "ref [44]",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000104,
+    "reactants": [
+      {
+        "smiles": "Cl.NC(=O)CO",
+        "label": "",
+        "text": "GlcNH2.HCl"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(OC(=O)c2ccccc2)[C@@H]2OC(c3ccccc3)OCC2O[C@@H]1Sc1ccccc1",
+        "label": "7b",
+        "text": ": X = SPh, Y = H\n: X = H, Y = SPh. Generated with: X - H; Y - SPh"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "ref [44]",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000108,
+    "reactants": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(OC(=O)c2ccccc2)[C@@H]2OC(c3ccccc3)OCC2O[C@@H]1Sc1ccccc1",
+        "label": "7a",
+        "text": ": X = SPh, Y = H\n: X = H, Y = SPh. Generated with: X - SPh; Y - H"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(O)[C@@H](OC(=O)c2ccccc2)C(COCc2ccccc2)O[C@H]1Sc1ccccc1",
+        "label": "8",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "C1CCCO1",
+      "ClCCl",
+      "FB(F)F",
+      "FC(S(=O)(=O)OS(=O)(=O)C(F)(F)F)(F)F",
+      "O",
+      "c1cccnc1"
+    ],
+    "description": "i) Et3SiH, BF3·OEt2, CH2Cl2, -78 °C -> 5 °C, 78%\nii) Tf2O, py, CH2Cl2, 0 °C\niii) H2O, py, THF, 40 °C, 74% (2 steps)",
+    "temperature": "",
+    "yield": "78%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000113,
+    "reactants": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(OC(=O)c2ccccc2)[C@@H]2OC(c3ccccc3)OCC2O[C@@H]1Sc1ccccc1",
+        "label": "7b",
+        "text": ": X = SPh, Y = H\n: X = H, Y = SPh. Generated with: X - H; Y - SPh"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "[N-]=[N+]=NC1C(O)[C@@H](OC(=O)c2ccccc2)C(COCc2ccccc2)O[C@H]1Sc1ccccc1",
+        "label": "8",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "C1CCCO1",
+      "ClCCl",
+      "FB(F)F",
+      "FC(S(=O)(=O)OS(=O)(=O)C(F)(F)F)(F)F",
+      "O",
+      "c1cccnc1"
+    ],
+    "description": "i) Et3SiH, BF3·OEt2, CH2Cl2, -78 °C -> 5 °C, 78%\nii) Tf2O, py, CH2Cl2, 0 °C\niii) H2O, py, THF, 40 °C, 74% (2 steps)",
+    "temperature": "",
+    "yield": "78%",
+    "time": "",
+    "details": {
+    }
+  }
+]

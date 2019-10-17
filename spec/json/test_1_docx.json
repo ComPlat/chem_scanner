@@ -1,0 +1,207 @@
+{
+  "oleObject1": [
+    {
+      "id": 172,
+      "reactants": [
+        {
+          "smiles": "Brc1ccc(cc1)c1ccc(cc1)Br",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "CCCC[Mg]Cl",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "O=C(C(F)(F)F)OC(=O)C(F)(F)F",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "[Li]CCCC",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "products": [
+        {
+          "smiles": "O=C(C(F)(F)F)c1ccc(cc1)c1ccc(cc1)Br",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CCCO1"
+      ],
+      "description": "+\n+\n40 %\nTHF",
+      "temperature": "",
+      "yield": "40 %",
+      "time": "",
+      "details": {
+      }
+    }
+  ],
+  "oleObject2": [
+    {
+      "id": 172,
+      "reactants": [
+        {
+          "smiles": "Cc1cc(Br)cc([n+]1[O-])C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "BrP(Br)Br",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "products": [
+        {
+          "smiles": "Brc1cc(C)nc(c1)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "ClCCl"
+      ],
+      "description": "98 %\nDCM",
+      "temperature": "",
+      "yield": "98 %",
+      "time": "",
+      "details": {
+      }
+    }
+  ],
+  "oleObject3": [
+    {
+      "id": 172,
+      "reactants": [
+        {
+          "smiles": "Cc1cc(Br)cc([n+]1[O-])C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "BrP(Br)Br",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "products": [
+        {
+          "smiles": "Brc1cc(C)nc(c1)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "ClCCl"
+      ],
+      "description": "0 %\nDCM",
+      "temperature": "",
+      "yield": "0 %",
+      "time": "",
+      "details": {
+      }
+    }
+  ],
+  "oleObject4": [
+    {
+      "id": 172,
+      "reactants": [
+        {
+          "smiles": "O=C(C(F)(F)F)c1ccc(cc1)c1ccc(cc1)Br",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "C#C[Si](C)(C)C",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "[Cu+].[I-]",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.[Cl-].[Cl-].[Pd+2]",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "products": [
+        {
+          "smiles": "O=C(C(F)(F)F)c1ccc(cc1)c1ccc(cc1)C#C[Si](C)(C)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "+\n+\n50 °C",
+      "temperature": "50 °C",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ],
+  "oleObject5": [
+    {
+      "id": 172,
+      "reactants": [
+        {
+          "smiles": "Clc1cc(Cl)cc(c1)c1cc(nc(n1)c1ccccc1)c1cc(Cl)cc(c1)Cl",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "C1CCC(CC1)P(C1CCCCC1)C1CCCCC1",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "CC1(C)OB(OC1(C)C)c1ccncc1",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.O=C(/C=C/c1ccccc1)/C=C/c1ccccc1.[Pd].[Pd]",
+          "label": " ",
+          "text": " "
+        }
+      ],
+      "products": [
+        {
+          "smiles": "c1ccc(cc1)c1nc(cc(n1)c1cc(cc(c1)c1ccncc1)c1ccncc1)c1cc(cc(c1)c1ccncc1)c1ccncc1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "+\n100 °C\n1,4-Dioxane",
+      "temperature": "100 °C",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 2078,
+    "id_cdxml": 2088,
+    "reactants": [
+      {
+        "smiles": "O=C(O)C[C@@H]1NC(=O)c2ccccc21",
+        "label": "9",
+        "text": "95% ee"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "COC(=O)C[C@@H]1NC(=O)c2ccccc21",
+        "label": "12",
+        "text": ", 98%"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CI",
+      "O=CN(C)C",
+      "[O-]C(=O)[O-].[K+].[K+]"
+    ],
+    "description": "K2CO3, CH3I\nDMF",
+    "temperature": "",
+    "yield": "98%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 2079,
+    "id_cdxml": 2089,
+    "reactants": [
+      {
+        "smiles": "COC(=O)C[C@@H]1NC(=O)c2ccccc21",
+        "label": "12",
+        "text": ", 98%"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=C1N[C@@H](CCO)c2ccccc21",
+        "label": "13",
+        "text": ", 88%"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "C1CCCO1",
+      "[Li+].[BH4-]"
+    ],
+    "description": "THF, 0 °C\nLiBH4",
+    "temperature": "0 °C",
+    "yield": "88%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 2080,
+    "id_cdxml": 2090,
+    "reactants": [
+      {
+        "smiles": "CS(=O)(=O)OCC[C@@H]1NC(=O)c2ccccc21",
+        "label": "14",
+        "text": ", 88%"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "Cc1ccc(N2CCN(CC[C@@H]3NC(=O)c4ccccc43)CC2)cc1C",
+        "label": "3",
+        "text": "87%, 95% ee\n(S)-PD172938"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CCN(CC)CC",
+      "ClCCl"
+    ],
+    "description": "TEA, 15\nCH2Cl2, 50 °C",
+    "temperature": "50 °C",
+    "yield": "87%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 2081,
+    "id_cdxml": 2091,
+    "reactants": [
+      {
+        "smiles": "O=C1N[C@@H](CCO)c2ccccc21",
+        "label": "13",
+        "text": ", 88%"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "CS(=O)(=O)Cl",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CS(=O)(=O)OCC[C@@H]1NC(=O)c2ccccc21",
+        "label": "14",
+        "text": ", 88%"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CCN(CC)CC"
+    ],
+    "description": "TEA\nMsCl",
+    "temperature": "",
+    "yield": "88%",
+    "time": "",
+    "details": {
+    }
+  }
+]

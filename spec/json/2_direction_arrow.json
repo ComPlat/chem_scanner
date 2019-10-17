@@ -1,0 +1,212 @@
+[
+  {
+    "id": 4056,
+    "reactants": [
+      {
+        "smiles": "COc1cc2ccncc2cc1OCc1ccccc1",
+        "label": "3",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "COc1cc2ccnc(CN(C)C)c2cc1OCc1ccccc1",
+        "label": "5",
+        "text": "(37%)"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "TMPMgCl·LiCl\n    THF, 25 °C, 4 h\n\n",
+        "time": "",
+        "temperature": "25 °C",
+        "reagents": [
+          "[Li+].[Cl-]",
+          "C1CCCO1"
+        ]
+      },
+      {
+        "number": 2,
+        "description": "Eschenmoser's\n    salt\n    THF, 25 °C, 2 h",
+        "time": "",
+        "temperature": "25 °C",
+        "reagents": [
+          "C1CCCO1",
+          "[Na+].[Cl-]"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "C1CCCO1",
+      "[Li+].[Cl-]",
+      "[Na+].[Cl-]"
+    ],
+    "description": "1) TMPMgCl·LiCl\n    THF, 25 °C, 4 h\n\n2) Eschenmoser's\n    salt\n    THF, 25 °C, 2 h",
+    "temperature": "",
+    "yield": "37%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 4057,
+    "reactants": [
+      {
+        "smiles": "COc1cc2ccnc(CN(C)C)c2cc1OCc1ccccc1",
+        "label": "5",
+        "text": "(37%)"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "COc1cc2ccnc(CN(C)C)c2cc1O",
+        "label": "6",
+        "text": "(92%)"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CO",
+      "OS(=O)(=O)O",
+      "[H][H]",
+      "[Pd]"
+    ],
+    "description": "H2 (1 bar)\nPd/C (10%)\n\nH2SO4/MeOH, \n25 °C, 45 h",
+    "temperature": "25 °C",
+    "yield": "92%",
+    "time": "45 h",
+    "details": {
+    }
+  },
+  {
+    "id": 4058,
+    "reactants": [
+      {
+        "smiles": "COc1cc2ccnc(CN(C)C)c2cc1OCc1ccccc1",
+        "label": "5",
+        "text": "(37%)"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "COc1cc2ccnc(C[N+](C)(C)C)c2cc1OCc1ccccc1.[I-]",
+        "label": "7",
+        "text": "(78%)"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC(=O)C",
+      "CI"
+    ],
+    "description": "CH3I\nacetone, 25 °C, 2 h",
+    "temperature": "25 °C",
+    "yield": "78%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 4059,
+    "reactants": [
+      {
+        "smiles": "COc1cc2ccnc(C[N+](C)(C)C)c2cc1OCc1ccccc1.[I-]",
+        "label": "7",
+        "text": "(78%)"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "COc1cc2ccnc(C)c2cc1OCc1ccccc1",
+        "label": "4",
+        "text": "(54%)"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CO",
+      "[H][H]",
+      "[Pd]"
+    ],
+    "description": "H2 (80 bar)\nPd/C (10%)\n\nMeOH, \n25 °C, 65 h",
+    "temperature": "25 °C",
+    "yield": "54%",
+    "time": "65 h",
+    "details": {
+    }
+  },
+  {
+    "id": 4060,
+    "reactants": [
+      {
+        "smiles": "COc1cc2ccnc(C[N+](C)(C)C)c2cc1OCc1ccccc1.[I-]",
+        "label": "7",
+        "text": "(78%)"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "COc1cc2ccnc(C)c2cc1O",
+        "label": "1",
+        "text": "(94%)"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "ion exchange\n    (I- to Cl-)\n",
+        "time": "",
+        "temperature": "",
+        "reagents": [
+
+        ]
+      },
+      {
+        "number": 2,
+        "description": "H2 (80 bar)\n    Pd/C (10%)\n    H2SO4/MeOH, \n    25 °C, 15 h",
+        "time": "15 h",
+        "temperature": "25 °C",
+        "reagents": [
+          "[H][H]",
+          "[Pd]",
+          "OS(=O)(=O)O",
+          "CO"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "CO",
+      "OS(=O)(=O)O",
+      "[H][H]",
+      "[Pd]"
+    ],
+    "description": "1) ion exchange\n    (I- to Cl-)\n2) H2 (80 bar)\n    Pd/C (10%)\n    H2SO4/MeOH, \n    25 °C, 15 h",
+    "temperature": "",
+    "yield": "94%",
+    "time": "",
+    "details": {
+    }
+  }
+]

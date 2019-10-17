@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<collection name="PH-a-086" inboxSectionCount="0" noteSectionCount="0">
+  <collectionType name="Chemistry Experiment" />
+  <sectionSetView sectionCount="1">
+    <section name="Reaction" active="true">
+      <sectionType name="Reaction" />
+      <object>
+        <field name="Reaction" />
+        <chemicalStructure><![CDATA[<?xml version="1.0"  ?>
+<!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
+<CDXML
+ CreationProgram="ChemDraw 13.0.0.3015"
+ Name="Untitled Document"
+ BoundingBox="104.25 55.26 501.81 210.67"
+ WindowPosition="0 0"
+ WindowSize="-2147483648 1073741824"
+ FractionalWidths="yes"
+ InterpretChemically="yes"
+ ShowAtomQuery="yes"
+ ShowAtomStereo="no"
+ ShowAtomEnhancedStereo="yes"
+ ShowAtomNumber="no"
+ ShowResidueID="no"
+ ShowBondQuery="yes"
+ ShowBondRxn="yes"
+ ShowBondStereo="no"
+ ShowTerminalCarbonLabels="no"
+ ShowNonTerminalCarbonLabels="no"
+ HideImplicitHydrogens="no"
+ LabelFont="3"
+ LabelSize="10"
+ LabelFace="96"
+ CaptionFont="3"
+ CaptionSize="10"
+ HashSpacing="2.5"
+ MarginWidth="1.6"
+ LineWidth="0.6"
+ BoldWidth="2"
+ BondLength="14.4"
+ BondSpacing="18"
+ ChainAngle="120"
+ LabelJustification="Auto"
+ CaptionJustification="Left"
+ AminoAcidTermini="HOH"
+ ShowSequenceTermini="yes"
+ ShowSequenceBonds="yes"
+ ResidueWrapCount="40"
+ ResidueBlockCount="10"
+ ResidueZigZag="yes"
+ NumberResidueBlocks="no"
+ PrintMargins="36 36 36 36"
+ ChemPropName=""
+ ChemPropFormula="Chemical Formula: "
+ ChemPropExactMass="Exact Mass: "
+ ChemPropMolWt="Molecular Weight: "
+ ChemPropMOverZ="m/z: "
+ ChemPropAnalysis="Elemental Analysis: "
+ ChemPropBoilingPt="Boiling Point: "
+ ChemPropMeltingPt="Melting Point: "
+ ChemPropCritTemp="Critical Temp: "
+ ChemPropCritPres="Critical Pres: "
+ ChemPropCritVol="Critical Vol: "
+ ChemPropGibbs="Gibbs Energy: "
+ ChemPropLogP="Log P: "
+ ChemPropMR="MR: "
+ ChemPropHenry="Henry&apos;s Law: "
+ ChemPropEForm="Heat of Form: "
+ ChemProptPSA="tPSA: "
+ ChemPropLogS="LogS: "
+ ChemPropPKa="pKa: "
+ color="0"
+ bgcolor="1"
+><colortable>
+<color r="1" g="1" b="1"/>
+<color r="0" g="0" b="0"/>
+<color r="1" g="0" b="0"/>
+<color r="1" g="1" b="0"/>
+<color r="0" g="1" b="0"/>
+<color r="0" g="1" b="1"/>
+<color r="0" g="0" b="1"/>
+<color r="1" g="0" b="1"/>
+</colortable><fonttable>
+<font id="3" charset="iso-8859-1" name="Arial"/>
+</fonttable><page
+ id="1382"
+ BoundingBox="0 0 1539.75 1140.75"
+ HeaderPosition="36"
+ FooterPosition="36"
+ PrintTrimMarks="yes"
+ HeightPages="1"
+ WidthPages="1"
+><group
+ id="17"
+ BoundingBox="212.26 55.26 252.37 100.12"
+ Z="54"
+><fragment
+ id="4"
+ BoundingBox="214.76 70.05 252.37 100.12"
+ Z="55"
+><n
+ id="1"
+ p="233.35 81.66"
+ Z="71"
+/><n
+ id="3"
+ p="233.35 96.12"
+ Z="72"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="229.45 100.02"
+ BoundingBox="229.45 91.56 237.25 100.12"
+ LabelJustification="Left"
+><s font="3" size="10" face="96">O</s></t></n><n
+ id="5"
+ p="221.17 74.61"
+ Z="73"
+ Element="8"
+ NumHydrogens="0"
+ Charge="-1"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="225.07 78.51"
+ BoundingBox="214.76 70.05 225.07 78.61"
+ LabelJustification="Right"
+ Justification="Right"
+ LabelAlignment="Right"
+><s font="3" size="10" face="96">O-</s></t></n><n
+ id="7"
+ p="245.96 74.72"
+ Z="74"
+ Element="8"
+ NumHydrogens="0"
+ Charge="-1"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="242.06 78.62"
+ BoundingBox="242.06 70.16 252.37 78.72"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="3" size="10" face="96">O-</s></t></n><b
+ id="13"
+ Z="77"
+ B="1"
+ E="3"
+ Order="2"
+/><b
+ id="14"
+ Z="78"
+ B="1"
+ E="5"
+ BS="N"
+/><b
+ id="15"
+ Z="79"
+ B="1"
+ E="7"
+ BS="N"
+/></fragment><fragment
+ id="10"
+ BoundingBox="228.68 55.26 245.29 64.69"
+ Z="56"
+><n
+ id="9"
+ p="232.28 60.69"
+ Z="75"
+ Element="55"
+ NumHydrogens="0"
+ Charge="1"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="228.68 64.59"
+ BoundingBox="228.68 55.26 245.29 64.69"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="3" size="10" face="96">Cs+</s></t></n></fragment><fragment
+ id="12"
+ BoundingBox="212.26 89.6 228.87 99.03"
+ Z="57"
+><n
+ id="11"
+ p="215.86 95.03"
+ Z="76"
+ Element="55"
+ NumHydrogens="0"
+ Charge="1"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="212.26 98.93"
+ BoundingBox="212.26 89.6 228.87 99.03"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="3" size="10" face="96">Cs+</s></t></n></fragment></group><group
+ id="1281"
+ BoundingBox="214.7 102.77 250.36 112.1"
+ Z="58"
+><fragment
+ id="1282"
+ BoundingBox="214.7 102.77 225.76 112.1"
+ Z="59"
+><n
+ id="1283"
+ p="218.03 108.2"
+ Z="80"
+ Element="19"
+ NumHydrogens="0"
+ Charge="1"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="214.7 112.1"
+ BoundingBox="214.7 102.77 225.76 112.1"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="3" size="10" face="96">K+</s></t></n></fragment><fragment
+ id="1284"
+ BoundingBox="245.05 103.21 250.36 111.55"
+ Z="60"
+><n
+ id="1285"
+ p="246.45 107.65"
+ Z="81"
+ Element="53"
+ NumHydrogens="0"
+ Charge="-1"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="245.05 111.55"
+ BoundingBox="245.05 103.21 250.36 111.55"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="3" size="10" face="96">I-</s></t></n></fragment></group><fragment
+ id="1256"
+ BoundingBox="120.15 141.15 179.24 154.9"
+ Z="61"
+><n
+ id="1255"
+ p="148.5 148.7"
+ Z="64"
+ Warning="An atom in this label has an invalid valence."
+ NodeType="Unspecified"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="151.27 152.6"
+ BoundingBox="120.15 144.14 151.27 154.9"
+ LabelJustification="Right"
+ Justification="Right"
+ LabelAlignment="Right"
+><s font="3" size="10" face="96">C74H73</s></t></n><n
+ id="1257"
+ p="160.97 141.5"
+ Z="65"
+ AS="N"
+/><n
+ id="1259"
+ p="173.4 148.68"
+ Z="67"
+ Element="17"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="169.8 152.58"
+ BoundingBox="169.8 144.12 179.24 152.68"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="3" size="10" face="96">Cl</s></t></n><b
+ id="1258"
+ Z="66"
+ B="1255"
+ E="1257"
+ BS="N"
+/><b
+ id="1260"
+ Z="68"
+ B="1257"
+ E="1259"
+ BS="N"
+/></fragment><fragment
+ id="1286"
+ BoundingBox="207.93 114.44 256.54 144.52"
+ Z="62"
+><n
+ id="1287"
+ p="231.56 133.33"
+ Z="82"
+/><n
+ id="1288"
+ p="243.92 140.52"
+ Z="83"
+ AS="N"
+/><n
+ id="1289"
+ p="219.05 140.52"
+ Z="84"
+ Element="8"
+ NumHydrogens="1"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="222.95 144.42"
+ BoundingBox="207.93 135.96 222.95 144.52"
+ LabelJustification="Right"
+ Justification="Right"
+ LabelAlignment="Right"
+><s font="3" size="10" face="96">OH</s></t></n><n
+ id="1290"
+ p="231.56 119"
+ Z="85"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="227.66 122.9"
+ BoundingBox="227.66 114.44 235.46 123"
+ LabelJustification="Left"
+><s font="3" size="10" face="96">O</s></t></n><n
+ id="1291"
+ p="256.39 133.33"
+ Z="86"
+ AS="N"
+/><b
+ id="1292"
+ Z="87"
+ B="1287"
+ E="1288"
+ BS="N"
+/><b
+ id="8"
+ Z="88"
+ B="1287"
+ E="1289"
+ BS="N"
+/><b
+ id="1293"
+ Z="89"
+ B="1287"
+ E="1290"
+ Order="2"
+/><b
+ id="1294"
+ Z="90"
+ B="1288"
+ E="1291"
+ Order="2"
+/></fragment><fragment
+ id="1295"
+ BoundingBox="285.07 131.41 375.75 163.72"
+ Z="63"
+><n
+ id="1296"
+ p="313.42 157.52"
+ Z="91"
+ Warning="An atom in this label has an invalid valence."
+ NodeType="Unspecified"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="316.19 161.42"
+ BoundingBox="285.07 152.96 316.19 163.72"
+ LabelJustification="Right"
+ Justification="Right"
+ LabelAlignment="Right"
+><s font="3" size="10" face="96">C74H73</s></t></n><n
+ id="1297"
+ p="325.89 150.32"
+ Z="92"
+ AS="N"
+/><n
+ id="1298"
+ p="338.32 157.49"
+ Z="94"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="334.42 161.39"
+ BoundingBox="334.42 152.93 342.22 161.49"
+ LabelJustification="Left"
+ LabelAlignment="Below"
+><s font="3" size="10" face="96">O</s></t></n><n
+ id="1301"
+ p="350.75 150.32"
+ Z="96"
+/><n
+ id="1303"
+ p="363.18 157.49"
+ Z="98"
+ AS="N"
+/><n
+ id="1305"
+ p="350.75 135.97"
+ Z="100"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="346.85 139.87"
+ BoundingBox="346.85 131.41 354.65 139.97"
+ LabelJustification="Left"
+><s font="3" size="10" face="96">O</s></t></n><n
+ id="1307"
+ p="375.6 150.32"
+ Z="102"
+ AS="N"
+/><b
+ id="1299"
+ Z="93"
+ B="1296"
+ E="1297"
+ BS="N"
+/><b
+ id="1300"
+ Z="95"
+ B="1297"
+ E="1298"
+ BS="N"
+/><b
+ id="1302"
+ Z="97"
+ B="1298"
+ E="1301"
+ BS="N"
+/><b
+ id="1304"
+ Z="99"
+ B="1301"
+ E="1303"
+ BS="N"
+/><b
+ id="1306"
+ Z="101"
+ B="1301"
+ E="1305"
+ Order="2"
+/><b
+ id="1308"
+ Z="103"
+ B="1303"
+ E="1307"
+ Order="2"
+/></fragment><t
+ id="1261"
+ p="104.25 174.95"
+ BoundingBox="104.25 166 196.62 189"
+ Z="69"
+ Warning="Chemical Interpretation is not possible for this label"
+ LineHeight="auto"
+ LineStarts="21 36"
+><s font="3" size="10">New Marrifield Resin
+Loading 0,99000</s></t><t
+ id="1322"
+ p="330.41 180.17"
+ BoundingBox="228.21 171.22 432.61 210.67"
+ Z="104"
+ InterpretChemically="no"
+ CaptionJustification="Center"
+ Justification="Center"
+ LineHeight="auto"
+ LineStarts="27 47 93"
+><s font="3" size="10" color="0">Chemical Formula: </s><s font="3" size="10" color="0" face="96">C</s><s font="3" size="10" color="0" face="32">78</s><s font="3" size="10" color="0" face="96">H</s><s font="3" size="10" color="0" face="32">78</s><s font="3" size="10" color="0" face="96">O</s><s font="3" size="10" color="0" face="32">2</s><s font="3" size="10" color="0">
+Exact Mass: 1046,60
+Elemental Analysis: C, 89.44; H, 7.51; O, 3.05</s></t><t
+ id="1355"
+ p="405 107.25"
+ BoundingBox="405 98.3 501.81 132.8"
+ Z="105"
+ Warning="Chemical Interpretation is not possible for this label"
+ LineHeight="auto"
+ LineStarts="6 26 41"
+><s font="3" size="10">PH086
+Loading 0,978673264
+(assumed quant)</s></t><graphic
+ id="1380"
+ SupersededBy="1383"
+ BoundingBox="270.94 147.84 193.6 147.84"
+ Z="70"
+ GraphicType="Line"
+ ArrowType="FullHead"
+ HeadSize="1500"
+/><scheme
+ id="1384"
+><step
+ id="1385"
+ ReactionStepReactants="1256"
+ ReactionStepProducts="1295"
+ ReactionStepArrows="1380"
+ ReactionStepObjectsAboveArrow="1286 1281 17"
+/></scheme><chemicalproperty
+ id="1323"
+ ChemicalPropertyDisplayID="1322"
+ ChemicalPropertyIsActive="yes"
+ ChemicalPropertyType="2 3 6"
+ BasisObjects="1295 1296 1297 1299 1298 1300 1301 1302 1303 1304 1305 1306 1307 1308"
+/><arrow
+ id="1383"
+ BoundingBox="193.6 144.84 270.94 150.09"
+ Z="70"
+ FillType="None"
+ ArrowheadHead="Full"
+ ArrowheadType="Solid"
+ HeadSize="1500"
+ ArrowheadCenterSize="1313"
+ ArrowheadWidth="375"
+ Head3D="270.94 147.84 0"
+ Tail3D="193.6 147.84 0"
+ Center3D="396.89 222.79 0"
+ MajorAxisEnd3D="474.22 222.79 0"
+ MinorAxisEnd3D="396.89 300.12 0"
+/></page></CDXML>]]></chemicalStructure>
+      </object>
+      <object>
+        <field name="Reaction Conditions" />
+        <propertyInstances>
+          <propertyInstance value="0,251 molar" minValue="250.80264" maxValue="250.80264">
+            <property name="Reaction Molarity" />
+          </propertyInstance>
+          <propertyInstance>
+            <property name="Pressure" />
+          </propertyInstance>
+          <propertyInstance>
+            <property name="Temperature" />
+          </propertyInstance>
+        </propertyInstances>
+      </object>
+      <object>
+        <field name="Reactants" />
+        <tableSection pivotType="1" propertyCount="13" rowCount="4">
+          <tableProperty height="0" width="2670" visible="true">
+            <property name="Name" />
+          </tableProperty>
+          <tableProperty height="0" width="945" visible="true">
+            <property name="Molecular Formula" />
+          </tableProperty>
+          <tableProperty height="0" width="660" visible="true">
+            <property name="Limiting?" />
+          </tableProperty>
+          <tableProperty height="0" width="705" visible="true">
+            <property name="Molecular Weight" />
+          </tableProperty>
+          <tableProperty height="0" width="705" visible="true">
+            <property name="Equivalents" />
+          </tableProperty>
+          <tableProperty height="0" width="1185" visible="true">
+            <property name="Moles" />
+          </tableProperty>
+          <tableProperty height="0" width="1035" visible="true">
+            <property name="Sample Mass" />
+          </tableProperty>
+          <tableProperty height="0" width="1080" visible="true">
+            <property name="Volume" />
+          </tableProperty>
+          <tableProperty height="0" width="675" visible="true">
+            <property name="Molarity" />
+          </tableProperty>
+          <tableProperty height="0" width="690" visible="true">
+            <property name="Density" />
+          </tableProperty>
+          <tableProperty height="0" width="510" visible="true">
+            <property name="% by Weight" />
+          </tableProperty>
+          <tableProperty height="0" width="690" visible="true">
+            <property name="Formula Mass" />
+          </tableProperty>
+          <tableProperty height="0" width="5895" visible="true">
+            <property name="Reactant Mass" />
+          </tableProperty>
+          <tableRow height="330" width="0">
+            <tags ID="1256" parentID="1256" parentCoefficient="1" />
+            <tableCell />
+            <tableCell value="C75H75Cl" />
+            <tableCell value="true" />
+            <tableCell value="1011,875" minValue="1.011875" maxValue="1.011875" />
+            <tableCell value="1,000" minValue="1" maxValue="1" />
+            <tableCell value="25,080264 mmol" minValue="0.025080264" maxValue="0.025080264" foreColor="-16776961" tag="entered" />
+            <tableCell value="25,4 g" minValue="0.025378092135" maxValue="0.025378092135" />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell value="1011,875" minValue="1.011875" maxValue="1.011875" />
+            <tableCell value="25,4 g" minValue="0.025378092135" maxValue="0.025378092135" />
+          </tableRow>
+          <tableRow height="330" width="0">
+            <tags ID="17" parentID="4" parentCoefficient="1" saltID="10" saltCoefficient="2" />
+            <tableCell value="Cs2CO3 [CCP20, R133]" foreColor="-16776961" tag="entered" />
+            <tableCell value="CO3 2-·2Cs+" />
+            <tableCell value="false" />
+            <tableCell value="60,009" minValue="0.06000909716" maxValue="0.06000909716" />
+            <tableCell value="4,98" minValue="4.98065003785253" maxValue="4.98065003785253" />
+            <tableCell value="125 mmol" minValue="0.124916017840951" maxValue="0.124916017840951" />
+            <tableCell value="40,70 g" minValue="0.0407" maxValue="0.0407" foreColor="-16776961" tag="entered" />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell value="325,819" minValue="0.3258189038" maxValue="0.3258189038" />
+            <tableCell value="40,7 g" minValue="0.0407" maxValue="0.0407" />
+          </tableRow>
+          <tableRow height="330" width="0">
+            <tags ID="1281" parentID="1282" parentCoefficient="1" saltID="1284" saltCoefficient="1" />
+            <tableCell value="POTASSIUM IODIDE [CCP75, R133]" foreColor="-16776961" tag="entered" />
+            <tableCell value="K+·I-" />
+            <tableCell value="false" />
+            <tableCell value="39,098" minValue="0.03909775142" maxValue="0.03909775142" />
+            <tableCell value="0,499" minValue="0.498631729514802" maxValue="0.498631729514802" />
+            <tableCell value="12,51 mmol" minValue="0.0125058154150078" maxValue="0.0125058154150078" />
+            <tableCell value="2,076 g" minValue="0.002076" maxValue="0.002076" foreColor="-16776961" tag="entered" />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell value="166,003" minValue="0.16600277" maxValue="0.16600277" />
+            <tableCell value="2,076 g" minValue="0.002076" maxValue="0.002076" />
+          </tableRow>
+          <tableRow height="330" width="0">
+            <tags ID="1286" parentID="1286" parentCoefficient="1" />
+            <tableCell value="ACRYLIC ACID [CCP462, R136-K]" foreColor="-16776961" tag="entered" />
+            <tableCell value="C3H4O2" />
+            <tableCell value="false" />
+            <tableCell value="72,063" minValue="0.072063" maxValue="0.072063" />
+            <tableCell value="5,18" minValue="5.18435997769367" maxValue="5.18435997769367" />
+            <tableCell value="130 mmol" minValue="0.130025116911591" maxValue="0.130025116911591" />
+            <tableCell value="9,37 g" minValue="0.00937" maxValue="0.00937" foreColor="-16776961" tag="entered" />
+            <tableCell value="8,92 ml" minValue="8.92380952380952E-06" maxValue="8.92380952380952E-06" />
+            <tableCell />
+            <tableCell value="1.05 g/ml" minValue="1050" maxValue="1050" foreColor="-16776961" tag="entered" />
+            <tableCell />
+            <tableCell value="72,063" minValue="0.072063" maxValue="0.072063" />
+            <tableCell value="9,37 g" minValue="0.00937" maxValue="0.00937" />
+          </tableRow>
+        </tableSection>
+      </object>
+      <object>
+        <field name="Products" />
+        <tableSection pivotType="1" propertyCount="11" rowCount="1">
+          <tableProperty height="0" width="1800" visible="true">
+            <property name="Name" />
+          </tableProperty>
+          <tableProperty height="0" width="990" visible="true">
+            <property name="Molecular Formula" />
+          </tableProperty>
+          <tableProperty height="0" width="990" visible="true">
+            <property name="Actual Mass" />
+          </tableProperty>
+          <tableProperty height="0" width="1020" visible="true">
+            <property name="Actual Moles" />
+          </tableProperty>
+          <tableProperty height="0" width="870" visible="true">
+            <property name="% Yield" />
+          </tableProperty>
+          <tableProperty height="0" width="675" visible="true">
+            <property name="% Purity" />
+          </tableProperty>
+          <tableProperty height="0" width="720" visible="true">
+            <property name="Molecular Weight" />
+          </tableProperty>
+          <tableProperty height="0" width="720" visible="true">
+            <property name="Equivalents" />
+          </tableProperty>
+          <tableProperty height="0" width="1110" visible="true">
+            <property name="Theoretical Moles" />
+          </tableProperty>
+          <tableProperty height="0" width="915" visible="true">
+            <property name="Theoretical Mass" />
+          </tableProperty>
+          <tableProperty height="0" width="6945" visible="true">
+            <property name="Formula Mass" />
+          </tableProperty>
+          <tableRow height="330" width="0">
+            <tags ID="1295" parentID="1295" parentCoefficient="1" />
+            <tableCell />
+            <tableCell value="C78H78O2" />
+            <tableCell value="25,6268 g" minValue="0.0256268" maxValue="0.0256268" foreColor="-16776961" tag="entered" />
+            <tableCell value="24,47 mmol" minValue="0.024465192652843" maxValue="0.024465192652843" />
+            <tableCell value="98 %" minValue="0.975475882265155" maxValue="0.975475882265155" />
+            <tableCell />
+            <tableCell value="1047,480" minValue="1.04748" maxValue="1.04748" />
+            <tableCell value="1,000" minValue="1" maxValue="1" />
+            <tableCell value="25,08 mmol" minValue="0.025080264" maxValue="0.025080264" />
+            <tableCell value="26,3 g" minValue="0.02627107493472" maxValue="0.02627107493472" />
+            <tableCell value="1047,480" minValue="1.04748" maxValue="1.04748" />
+          </tableRow>
+        </tableSection>
+      </object>
+      <object>
+        <field name="Preparation" />
+        <styledText>
+          <data>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}{\f1\fnil\fcharset161{\*\fname Arial;}Arial Greek;}}
+{\colortbl ;\red153\green102\blue204;}
+\viewkind4\uc1\pard\fs16 In a \cf1\lang1031 250 mL\cf0\v &lt;autotext key="15F9F927" name="[VOLUME]" type="lookup" length="6" /&gt;\lang1033\v0  \cf1\lang1031 round-bottomed flask\cf0\v &lt;autotext key="15F9F928" name="[VESSEL]" type="lookup" length="20" /&gt;\lang1033\v0  \cf1 POTASSIUM IODIDE [CCP75, R133] (2,076 g, 12,51 mmol)\cf0\v &lt;autotext key="15F9F929" name="[Reactants]" index="3" field="Reactants" type="field" length="52" /&gt;\v0  and \cf1 Cs2CO3 [CCP20, R133] (40,70 g, 125 mmol)\cf0\v &lt;autotext key="15F9F92A" name="[Reactants]" index="2" field="Reactants" type="field" length="40" /&gt;\v0  were dissolved in \cf1 DMF (100 ml)\cf0\v &lt;autotext key="15F9F92B" name="[SOLVENTS1]" index="1" field="Solvents" type="field" length="12" /&gt;\v0  and \cf1 ACRYLIC ACID [CCP462, R136-K] (8,92 ml, 130 mmol)\cf0\v &lt;autotext key="16A94B30" name="[Reactants]" index="4" field="Reactants" type="field" length="49" /&gt;\v0  was then added to give a \cf1\lang1031 white\cf0\v &lt;autotext key="15F9F92D" name="[COLOR]" type="lookup" length="5" /&gt;\lang1033\v0  \cf1\lang1031 suspension\cf0\v &lt;autotext key="15F9F92E" name="[SOLN/SUSP]" type="lookup" length="10" /&gt;\lang1033\v0 . The mixture was stirred for 15 min. at rt. and \cf1 Reactant 1 (25,4 g, 25,080264 mmol)\cf0\v &lt;autotext key="15F9F930" name="[Reactants]" index="1" field="Reactants" type="field" length="35" /&gt;\v0  was added. The reaction was shaken at 80 \'b0C over night (\cf1\lang1031 11:25:18\cf0\v &lt;autotext key="15F9F940" name="" tag="Time" type="timestamp" length="8" /&gt;\lang1033\v0  - \lang1031 16:00:00\lang1033 ). The Resin was washed and dried. After drying 25.6268 g white resin was obtained. Yield cannot be calculated due to ripped filter and lost product resin. =&gt; assumed quant: Loading: 0.978673264 mmol/g\par
+\par
+NOTES:\par
+-Rkt. mixture turned dirty-yellow over night. Septum looks really old and dirty and is probably to blame for the mess... after washing resin looked white again.\par
+-Paper filter ripped during washing procedure and resin fell into a silica-gel contaminated erlemeyer flask.\par
+\par
+\up4\fs12 13\up0\fs16 C NMR (101 MHz, CDCl\dn4\fs12 3\up0\fs16 , ppm) \f1\'e4\f0  =\f1  166.16, 145.31, 131.04, 66\f0 .56\f1\fs26 .\f0  \fs16 IR (ATR): \u7805? = 3024 (vw), 2920 (vw), 1600 (vw), 1492 (vw), 1450 (vw), 1404 (vw), 1267 (vw), 1176 (vw), 1027 (vw), 964 (vw), 905 (vw), 808 (vw), 754 (vw), 695 (w), 537 (vw) cm\super -1\nosupersub . EA calc.: C: 89.44, H: 7.51, N: 0; found: C: 88.88, H: 7.49, N: 0.\par
+\par
+See also: PH086, PH161, PH200, PH259\par
+\par
+Washing procedure:\par
+3x Acetone\par
+10X Water\par
+3x Acetone\par
+3x Methanol\par
+3x Acetone\par
+4x Dichloromethane\par
+}
+</data>
+          <text>In a 250 mL round-bottomed flask POTASSIUM IODIDE [CCP75, R133] (2,076 g, 12,51 mmol) and Cs2CO3 [CCP20, R133] (40,70 g, 125 mmol) were dissolved in DMF (100 ml) and ACRYLIC ACID [CCP462, R136-K] (8,92 ml, 130 mmol) was then added to give a white suspension. The mixture was stirred for 15 min. at rt. and Reactant 1 (25,4 g, 25,080264 mmol) was added. The reaction was shaken at 80 °C over night (11:25:18 - 16:00:00). The Resin was washed and dried. After drying 25.6268 g white resin was obtained. Yield cannot be calculated due to ripped filter and lost product resin. =&gt; assumed quant: Loading: 0.978673264 mmol/g
+
+NOTES:
+-Rkt. mixture turned dirty-yellow over night. Septum looks really old and dirty and is probably to blame for the mess... after washing resin looked white again.
+-Paper filter ripped during washing procedure and resin fell into a silica-gel contaminated erlemeyer flask.
+
+13C NMR (101 MHz, CDCl3, ppm) δ = 166.16, 145.31, 131.04, 66.56. IR (ATR): ṽ = 3024 (vw), 2920 (vw), 1600 (vw), 1492 (vw), 1450 (vw), 1404 (vw), 1267 (vw), 1176 (vw), 1027 (vw), 964 (vw), 905 (vw), 808 (vw), 754 (vw), 695 (w), 537 (vw) cm-1. EA calc.: C: 89.44, H: 7.51, N: 0; found: C: 88.88, H: 7.49, N: 0.
+
+See also: PH086, PH161, PH200, PH259
+
+Washing procedure:
+3x Acetone
+10X Water
+3x Acetone
+3x Methanol
+3x Acetone
+4x Dichloromethane</text>
+        </styledText>
+      </object>
+      <object>
+        <field name="Solvents" />
+        <tableSection pivotType="1" propertyCount="3" rowCount="1">
+          <tableProperty height="0" width="525" visible="true">
+            <property name="Name" />
+          </tableProperty>
+          <tableProperty height="0" width="480" visible="true">
+            <property name="Ratio" />
+          </tableProperty>
+          <tableProperty height="0" width="5505" visible="true">
+            <property name="Volume" />
+          </tableProperty>
+          <tableRow height="330" width="0">
+            <tableCell value="DMF" />
+            <tableCell />
+            <tableCell value="100 ml" minValue="0.0001" maxValue="0.0001" foreColor="-16776961" tag="entered" />
+          </tableRow>
+        </tableSection>
+      </object>
+      <object>
+        <field name="Reaction Toolbar" />
+        <addin />
+      </object>
+      <object>
+        <field name="Samples" />
+        <tableSection pivotType="1" propertyCount="14" rowCount="0">
+          <tableProperty height="0" width="720" visible="true">
+            <property name="Selected" />
+          </tableProperty>
+          <tableProperty height="0" width="1170" visible="true">
+            <property name="Sample ID" />
+          </tableProperty>
+          <tableProperty height="0" width="1500" visible="true">
+            <property name="Temp ID" />
+          </tableProperty>
+          <tableProperty height="0" width="1530" visible="true">
+            <property name="Reg Number" />
+          </tableProperty>
+          <tableProperty height="0" width="735" visible="true">
+            <property name="Batch Number" />
+          </tableProperty>
+          <tableProperty height="0" width="1110" visible="true">
+            <property name="Source ID" />
+          </tableProperty>
+          <tableProperty height="0" width="975" visible="true">
+            <property name="Container ID" />
+          </tableProperty>
+          <tableProperty height="0" width="960" visible="true">
+            <property name="Amount" />
+          </tableProperty>
+          <tableProperty height="0" width="975" visible="true">
+            <property name="Barcode" />
+          </tableProperty>
+          <tableProperty height="0" width="450" visible="true">
+            <property name="Units" />
+          </tableProperty>
+          <tableProperty height="0" width="690" visible="true">
+            <property name="Purity" />
+          </tableProperty>
+          <tableProperty height="0" width="1425" visible="true">
+            <property name="Location Name" />
+          </tableProperty>
+          <tableProperty height="0" width="1515" visible="true">
+            <property name="Phys State" />
+          </tableProperty>
+          <tableProperty height="0" width="825" visible="true">
+            <property name="Comment" />
+          </tableProperty>
+        </tableSection>
+      </object>
+    </section>
+  </sectionSetView>
+</collection>

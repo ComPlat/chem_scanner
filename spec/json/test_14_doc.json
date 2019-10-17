@@ -1,0 +1,188 @@
+{
+  "794313": [
+    {
+      "id": 1055,
+      "reactants": [
+        {
+          "smiles": "FC(C(C(S(=O)(=O)F)(F)F)(F)F)(C(F)(F)F)F",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "O=Cc1ccccc1O",
+          "label": "",
+          "text": "+"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=Cc1ccccc1OS(=O)(=O)C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CCN(CC)CC"
+      ],
+      "description": "36h, RT\nNEt3",
+      "temperature": "20°C ~ 25°C",
+      "yield": "",
+      "time": "36h",
+      "details": {
+      }
+    }
+  ],
+  "884426": [
+    {
+      "id": 1055,
+      "reactants": [
+        {
+          "smiles": "FC(C(C(S(=O)(=O)F)(F)F)(F)F)(C(F)(F)F)F",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "Oc1ccccc1C1SCCCS1",
+          "label": "",
+          "text": "+"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=S(=O)(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)Oc1ccccc1C1SCCCS1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CCN(CC)CC"
+      ],
+      "description": "36h, RT\nNEt3",
+      "temperature": "20°C ~ 25°C",
+      "yield": "",
+      "time": "36h",
+      "details": {
+      }
+    }
+  ],
+  "796439": [
+    {
+      "id": 1666,
+      "reactants": [
+        {
+          "smiles": "FC(S(=O)(=O)OS(=O)(=O)C(F)(F)F)(F)F",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "Oc1ccccc1C1SCCCS1",
+          "label": "",
+          "text": "+"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=S(=O)(C(F)(F)F)Oc1ccccc1C1SCCCS1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CCN(CC)CC"
+      ],
+      "description": "36h, RT\nNEt3",
+      "temperature": "20°C ~ 25°C",
+      "yield": "",
+      "time": "36h",
+      "details": {
+      }
+    }
+  ],
+  "8471412": [
+    {
+      "id": 1055,
+      "reactants": [
+        {
+          "smiles": "O=Cc1ccccc1OS(=O)(=O)C(C(C(C(F)(F)F)(F)F)(F)F)(F)F",
+          "label": "",
+          "text": "+"
+        },
+        {
+          "smiles": "SCCCS",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=S(=O)(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)Oc1ccccc1C1SCCCS1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CC(=O)O",
+        "CCOCC",
+        "Cc1ccccc1",
+        "FB(F)F"
+      ],
+      "description": "Toluene, HOAc\nBF3 * Et2O\n12h, rt",
+      "temperature": "20°C ~ 25°C",
+      "yield": "",
+      "time": "12h",
+      "details": {
+      }
+    }
+  ],
+  "6635515": [
+    {
+      "id": 1738,
+      "reactants": [
+        {
+          "smiles": "O=Cc1ccccc1OS(=O)(=O)C(F)(F)F",
+          "label": "",
+          "text": "+"
+        },
+        {
+          "smiles": "SCCCS",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=S(=O)(C(F)(F)F)Oc1ccccc1C1SCCCS1",
+          "label": " ",
+          "text": "94% crude by mass"
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CC(=O)O",
+        "CCOCC",
+        "Cc1ccccc1",
+        "FB(F)F"
+      ],
+      "description": "Toluene, HOAc\nBF3 * Et2O\n12h, rt",
+      "temperature": "20°C ~ 25°C",
+      "yield": "94%",
+      "time": "12h",
+      "details": {
+      }
+    }
+  ]
+}

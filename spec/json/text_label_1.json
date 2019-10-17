@@ -1,0 +1,43 @@
+[
+  {
+    "id": 38508,
+    "reactants": [
+      {
+        "smiles": "Ic1ccc(N2CCOCC2)cc1",
+        "label": "",
+        "text": "66 examples (39-87%)"
+      },
+      {
+        "smiles": "OB(O)c1ccccc1",
+        "label": "",
+        "text": "+"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "COc1ccnc(-c2cc(OC)ccn2)c1",
+        "label": "",
+        "text": "ligand ="
+      }
+    ],
+    "products": [
+      {
+        "smiles": "O=S(=O)(c1ccccc1)c1ccc(N2CCOCC2)cc1",
+        "label": "",
+        "text": "71%"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O=C1N(C)CCCN1C"
+    ],
+    "description": "DABSO, Cu(MeCN)4BF4, ligand \n\nDMPU, 110 °C, 36 h",
+    "temperature": "110 °C",
+    "yield": "71%",
+    "time": "36 h",
+    "details": {
+    }
+  }
+]

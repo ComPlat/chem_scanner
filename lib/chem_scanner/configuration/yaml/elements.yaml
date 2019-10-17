@@ -1,0 +1,115 @@
+# From https://github.com/openbabel/openbabel/blob/master/src/formats/libinchi/util.c
+- { name: "H",  avg_mass:   1, norm_mass:   1, exact_mass:   1.007825035, type:       0 , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "D",  avg_mass:   2, norm_mass:   2, exact_mass:   2.014101778, type:       0 , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "T",  avg_mass:   3, norm_mass:   3, exact_mass:   3.016049268, type:       0 , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "He", avg_mass:   4, norm_mass:   4, exact_mass:   4.002600000, type:       0 , valences: [[0],       [0],       [0],       [0],       [0]       ]}
+- { name: "Li", avg_mass:   7, norm_mass:   7, exact_mass:   7.016000000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Be", avg_mass:   9, norm_mass:   9, exact_mass:   9.012180000, type: "METAL" , valences: [[0],       [0],       [2],       [1],       [0]       ]}
+- { name: "B",  avg_mass:  11, norm_mass:  11, exact_mass:  11.009300000, type:       0 , valences: [[3],       [4],       [3],       [2],       [1]       ]}
+- { name: "C",  avg_mass:  12, norm_mass:  12, exact_mass:  12.000000000, type:       0 , valences: [[2],       [3],       [4],       [3],       [2]       ]}
+- { name: "N",  avg_mass:  14, norm_mass:  14, exact_mass:  14.003074000, type:       0 , valences: [[1],       [2],       [3,5],     [4],       [3]       ]}
+- { name: "O",  avg_mass:  16, norm_mass:  16, exact_mass:  15.994914630, type:       0 , valences: [[0],       [1],       [2],       [3,5],     [4]       ]}
+- { name: "F",  avg_mass:  19, norm_mass:  19, exact_mass:  18.998403220, type:       0 , valences: [[0],       [0],       [1],       [2],       [3,5]     ]}
+- { name: "Ne", avg_mass:  20, norm_mass:  20, exact_mass:  19.992440000, type:       0 , valences: [[0],       [0],       [0],       [0],       [0]       ]}
+- { name: "Na", avg_mass:  23, norm_mass:  23, exact_mass:  22.989770000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Mg", avg_mass:  24, norm_mass:  24, exact_mass:  23.985000000, type: "METAL" , valences: [[0],       [0],       [2],       [1],       [0]       ]}
+- { name: "Al", avg_mass:  27, norm_mass:  27, exact_mass:  26.981540000, type: "METAL" , valences: [[3,5],     [4],       [3],       [2],       [1]       ]}
+- { name: "Si", avg_mass:  28, norm_mass:  28, exact_mass:  27.976927100, type:       0 , valences: [[2],       [3,5],     [4],       [3],       [2]       ]}
+- { name: "P",  avg_mass:  31, norm_mass:  31, exact_mass:  30.973762000, type:       0 , valences: [[1,3,5,7], [2,4,6],   [3,5],     [4],       [3]       ]}
+- { name: "S",  avg_mass:  32, norm_mass:  32, exact_mass:  31.972070700, type:       0 , valences: [[0],       [1,3,5,7], [2,4,6],   [3,5],     [4]       ]}
+- { name: "Cl", avg_mass:  35, norm_mass:  35, exact_mass:  34.968852730, type:       0 , valences: [[0],       [0],       [1,3,5,7], [2,4,6],   [3,5]     ]}
+- { name: "Ar", avg_mass:  40, norm_mass:  40, exact_mass:  39.962400000, type:       0 , valences: [[0],       [0],       [0],       [0],       [0]       ]}
+- { name: "K",  avg_mass:  39, norm_mass:  39, exact_mass:  38.963700000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Ca", avg_mass:  40, norm_mass:  40, exact_mass:  39.962600000, type: "METAL" , valences: [[0],       [0],       [2],       [1],       [0]       ]}
+- { name: "Sc", avg_mass:  45, norm_mass:  45, exact_mass:  44.955910000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Ti", avg_mass:  48, norm_mass:  48, exact_mass:  47.947950000, type: "METAL" , valences: [[0],       [0],       [3,4],     [0],       [0]       ]}
+- { name: "V",  avg_mass:  51, norm_mass:  51, exact_mass:  50.943960000, type: "METAL" , valences: [[0],       [0],       [2,3,4,5], [0],       [0]       ]}
+- { name: "Cr", avg_mass:  52, norm_mass:  52, exact_mass:  51.940500000, type: "METAL" , valences: [[0],       [0],       [2,3,6],   [0],       [0]       ]}
+- { name: "Mn", avg_mass:  55, norm_mass:  55, exact_mass:  54.938050000, type: "METAL2", valences: [[0],       [0],       [2,3,4,6], [0],       [0]       ]}
+- { name: "Fe", avg_mass:  56, norm_mass:  56, exact_mass:  55.934900000, type: "METAL2", valences: [[0],       [0],       [2,3,4,6], [0],       [0]       ]}
+- { name: "Co", avg_mass:  59, norm_mass:  59, exact_mass:  58.933200000, type: "METAL2", valences: [[0],       [0],       [2,3],     [0],       [0]       ]}
+- { name: "Ni", avg_mass:  59, norm_mass:  58, exact_mass:  57.935300000, type: "METAL2", valences: [[0],       [0],       [2,3],     [0],       [0]       ]}
+- { name: "Cu", avg_mass:  64, norm_mass:  63, exact_mass:  62.929600000, type: "METAL" , valences: [[0],       [0],       [1,2],     [0],       [0]       ]}
+- { name: "Zn", avg_mass:  65, norm_mass:  64, exact_mass:  63.929147000, type: "METAL" , valences: [[0],       [0],       [2],       [0],       [0]       ]}
+- { name: "Ga", avg_mass:  70, norm_mass:  69, exact_mass:  68.925600000, type: "METAL" , valences: [[3,5],     [4],       [3],       [0],       [1]       ]}
+- { name: "Ge", avg_mass:  73, norm_mass:  74, exact_mass:  73.921177400, type:       0 , valences: [[2,4,6],   [3,5],     [4],       [3],       [0]       ]}
+- { name: "As", avg_mass:  75, norm_mass:  75, exact_mass:  74.921594200, type:       0 , valences: [[1,3,5,7], [2,4,6],   [3,5],     [4],       [3]       ]}
+- { name: "Se", avg_mass:  79, norm_mass:  80, exact_mass:  79.916519600, type:       0 , valences: [[0],       [1,3,5,7], [2,4,6],   [3,5],     [4]       ]}
+- { name: "Br", avg_mass:  80, norm_mass:  79, exact_mass:  78.918336100, type:       0 , valences: [[0],       [0],       [1,3,5,7], [2,4,6],   [3,5]     ]}
+- { name: "Kr", avg_mass:  84, norm_mass:  84, exact_mass:  83.911500000, type:       0 , valences: [[0],       [0],       [0],       [0],       [0]       ]}
+- { name: "Rb", avg_mass:  85, norm_mass:  85, exact_mass:  84.911800000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Sr", avg_mass:  88, norm_mass:  88, exact_mass:  87.905600000, type: "METAL" , valences: [[0],       [0],       [2],       [1],       [0]       ]}
+- { name: "Y",  avg_mass:  89, norm_mass:  89, exact_mass:  88.905860000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Zr", avg_mass:  91, norm_mass:  90, exact_mass:  89.904700000, type: "METAL" , valences: [[0],       [0],       [4],       [0],       [0]       ]}
+- { name: "Nb", avg_mass:  93, norm_mass:  93, exact_mass:  92.906400000, type: "METAL" , valences: [[0],       [0],       [3,5],     [0],       [0]       ]}
+- { name: "Mo", avg_mass:  96, norm_mass:  98, exact_mass:  97.905400000, type: "METAL" , valences: [[0],       [0],       [3,4,5,6], [0],       [0]       ]}
+- { name: "Tc", avg_mass:  98, norm_mass:  98, exact_mass:  97.907200000, type: "METAL" , valences: [[0],       [0],       [7],       [0],       [0]       ]}
+- { name: "Ru", avg_mass: 101, norm_mass: 102, exact_mass: 101.904300000, type: "METAL" , valences: [[0],       [0],       [2,3,4,6], [0],       [0]       ]}
+- { name: "Rh", avg_mass: 103, norm_mass: 103, exact_mass: 102.905500000, type: "METAL" , valences: [[0],       [0],       [2,3,4],   [0],       [0]       ]}
+- { name: "Pd", avg_mass: 106, norm_mass: 106, exact_mass: 105.903500000, type: "METAL" , valences: [[0],       [0],       [2,4],     [0],       [0]       ]}
+- { name: "Ag", avg_mass: 108, norm_mass: 107, exact_mass: 106.905100000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Cd", avg_mass: 112, norm_mass: 114, exact_mass: 113.903400000, type: "METAL" , valences: [[0],       [0],       [2],       [0],       [0]       ]}
+- { name: "In", avg_mass: 115, norm_mass: 115, exact_mass: 114.903900000, type: "METAL" , valences: [[3,5],     [2,4],     [3],       [0],       [1]       ]}
+- { name: "Sn", avg_mass: 119, norm_mass: 120, exact_mass: 119.902200000, type: "METAL2", valences: [[2,4,6],   [3,5],     [2,4],     [3],       [0]       ]}
+- { name: "Sb", avg_mass: 122, norm_mass: 121, exact_mass: 120.903800000, type: "METAL" , valences: [[1,3,5,7], [2,4,6],   [3,5],     [2,4],     [3]       ]}
+- { name: "Te", avg_mass: 128, norm_mass: 130, exact_mass: 129.906200000, type:       0 , valences: [[0],       [1,3,5,7], [2,4,6],   [3,5],     [2,4]     ]}
+- { name: "I",  avg_mass: 127, norm_mass: 127, exact_mass: 126.904500000, type:       0 , valences: [[0],       [0],       [1,3,5,7], [2,4,6],   [3,5]     ]}
+- { name: "Xe", avg_mass: 131, norm_mass: 132, exact_mass: 131.904100000, type:       0 , valences: [[0],       [0],       [0],       [0],       [0]       ]}
+- { name: "Cs", avg_mass: 133, norm_mass: 133, exact_mass: 132.905430000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Ba", avg_mass: 137, norm_mass: 138, exact_mass: 137.905200000, type: "METAL" , valences: [[0],       [0],       [2],       [1],       [0]       ]}
+- { name: "La", avg_mass: 139, norm_mass: 139, exact_mass: 138.906360000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Ce", avg_mass: 140, norm_mass: 140, exact_mass: 139.905400000, type: "METAL2", valences: [[0],       [0],       [3,4],     [0],       [0]       ]}
+- { name: "Pr", avg_mass: 141, norm_mass: 141, exact_mass: 140.907660000, type: "METAL2", valences: [[0],       [0],       [3,4],     [0],       [0]       ]}
+- { name: "Nd", avg_mass: 144, norm_mass: 142, exact_mass: 141.907719000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Pm", avg_mass: 145, norm_mass: 145, exact_mass: 144.912800000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Sm", avg_mass: 150, norm_mass: 152, exact_mass: 151.919700000, type: "METAL2", valences: [[0],       [0],       [2,3],     [0],       [0]       ]}
+- { name: "Eu", avg_mass: 152, norm_mass: 153, exact_mass: 152.921200000, type: "METAL2", valences: [[0],       [0],       [2,3],     [0],       [0]       ]}
+- { name: "Gd", avg_mass: 157, norm_mass: 158, exact_mass: 157.924099000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Tb", avg_mass: 159, norm_mass: 159, exact_mass: 158.925350000, type: "METAL2", valences: [[0],       [0],       [3,4],     [0],       [0]       ]}
+- { name: "Dy", avg_mass: 163, norm_mass: 164, exact_mass: 163.929200000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Ho", avg_mass: 165, norm_mass: 165, exact_mass: 164.930300000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Er", avg_mass: 167, norm_mass: 166, exact_mass: 165.930300000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Tm", avg_mass: 169, norm_mass: 169, exact_mass: 168.934230000, type: "METAL2", valences: [[0],       [0],       [2,3],     [0],       [0]       ]}
+- { name: "Yb", avg_mass: 173, norm_mass: 174, exact_mass: 173.938900000, type: "METAL2", valences: [[0],       [0],       [2,3],     [0],       [0]       ]}
+- { name: "Lu", avg_mass: 175, norm_mass: 175, exact_mass: 174.940800000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Hf", avg_mass: 178, norm_mass: 180, exact_mass: 179.946600000, type: "METAL" , valences: [[0],       [0],       [4],       [0],       [0]       ]}
+- { name: "Ta", avg_mass: 181, norm_mass: 181, exact_mass: 180.948010000, type: "METAL" , valences: [[0],       [0],       [5],       [0],       [0]       ]}
+- { name: "W",  avg_mass: 184, norm_mass: 184, exact_mass: 183.951000000, type: "METAL2", valences: [[0],       [0],       [3,4,5,6], [0],       [0]       ]}
+- { name: "Re", avg_mass: 186, norm_mass: 187, exact_mass: 186.955800000, type: "METAL2", valences: [[0],       [0],       [2,4,6,7], [0],       [0]       ]}
+- { name: "Os", avg_mass: 190, norm_mass: 192, exact_mass: 191.961500000, type: "METAL2", valences: [[0],       [0],       [2,3,4,6], [0],       [0]       ]}
+- { name: "Ir", avg_mass: 192, norm_mass: 193, exact_mass: 192.962900000, type: "METAL2", valences: [[0],       [0],       [2,3,4,6], [0],       [0]       ]}
+- { name: "Pt", avg_mass: 195, norm_mass: 195, exact_mass: 194.964800000, type: "METAL2", valences: [[0],       [0],       [2,4],     [0],       [0]       ]}
+- { name: "Au", avg_mass: 197, norm_mass: 197, exact_mass: 196.966560000, type: "METAL" , valences: [[0],       [0],       [1,3],     [0],       [0]       ]}
+- { name: "Hg", avg_mass: 201, norm_mass: 202, exact_mass: 201.970617000, type: "METAL2", valences: [[0],       [0],       [1,2],     [0],       [0]       ]}
+- { name: "Tl", avg_mass: 204, norm_mass: 205, exact_mass: 204.974400000, type: "METAL2", valences: [[3,5],     [2,4],     [1,3],     [0],       [0]       ]}
+- { name: "Pb", avg_mass: 207, norm_mass: 208, exact_mass: 207.976627000, type: "METAL2", valences: [[2,4,6],   [3,5],     [2,4],     [3],       [0]       ]}
+- { name: "Bi", avg_mass: 209, norm_mass: 209, exact_mass: 208.980390000, type: "METAL" , valences: [[1,3,5,7], [2,4,6],   [3,5],     [2,4],     [3]       ]}
+- { name: "Po", avg_mass: 209, norm_mass: 209, exact_mass: 208.982400000, type: "METAL2", valences: [[0],       [1,3,5,7], [2,4,6],   [3,5],     [2,4]     ]}
+- { name: "At", avg_mass: 210, norm_mass: 210, exact_mass: 209.987100000, type:       0 , valences: [[0],       [0],       [1,3,5,7], [2,4,6],   [3,5]     ]}
+- { name: "Rn", avg_mass: 222, norm_mass: 222, exact_mass: 222.017500000, type:       0 , valences: [[0],       [0],       [0],       [0],       [0]       ]}
+- { name: "Fr", avg_mass: 223, norm_mass: 223, exact_mass: 223.019700000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Ra", avg_mass: 226, norm_mass: 226, exact_mass: 226.025410000, type: "METAL" , valences: [[0],       [0],       [2],       [1],       [0]       ]}
+- { name: "Ac", avg_mass: 227, norm_mass: 227, exact_mass: 227.027750000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Th", avg_mass: 232, norm_mass: 232, exact_mass: 232.038050000, type: "METAL2", valences: [[0],       [0],       [3,4],     [0],       [0]       ]}
+- { name: "Pa", avg_mass: 231, norm_mass: 231, exact_mass: 231.035880000, type: "METAL2", valences: [[0],       [0],       [3,4,5],   [0],       [0]       ]}
+- { name: "U",  avg_mass: 238, norm_mass: 238, exact_mass: 238.050790000, type: "METAL2", valences: [[0],       [0],       [3,4,5,6], [0],       [0]       ]}
+- { name: "Np", avg_mass: 237, norm_mass: 237, exact_mass: 237.048170000, type: "METAL2", valences: [[0],       [0],       [3,4,5,6], [0],       [0]       ]}
+- { name: "Pu", avg_mass: 244, norm_mass: 244, exact_mass: 244.064200000, type: "METAL2", valences: [[0],       [0],       [3,4,5,6], [0],       [0]       ]}
+- { name: "Am", avg_mass: 243, norm_mass: 243, exact_mass: 243.061370000, type: "METAL2", valences: [[0],       [0],       [3,4,5,6], [0],       [0]       ]}
+- { name: "Cm", avg_mass: 247, norm_mass: 247, exact_mass: 247.070300000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Bk", avg_mass: 247, norm_mass: 247, exact_mass: 247.070300000, type: "METAL" , valences: [[0],       [0],       [3,4],     [0],       [0]       ]}
+- { name: "Cf", avg_mass: 251, norm_mass: 251, exact_mass: 251.079600000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Es", avg_mass: 252, norm_mass: 252, exact_mass: 252.082800000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Fm", avg_mass: 257, norm_mass: 257, exact_mass: 257.095100000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "Md", avg_mass: 258, norm_mass: 258, exact_mass: 258.098600000, type: "METAL" , valences: [[0],       [0],       [3],       [0],       [0]       ]}
+- { name: "No", avg_mass: 259, norm_mass: 259, exact_mass: 259.100900000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Lr", avg_mass: 260, norm_mass: 260, exact_mass: 260.105400000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Rf", avg_mass: 261, norm_mass: 261, exact_mass: 261.108700000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Db", avg_mass: 268, norm_mass: 268, exact_mass: 268.125000000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Sg", avg_mass: 271, norm_mass: 271, exact_mass: 271.133000000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Bh", avg_mass: 267, norm_mass: 267, exact_mass: 267.127700000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Hs", avg_mass: 277, norm_mass: 277, exact_mass: 277.150000000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Mt", avg_mass: 276, norm_mass: 276, exact_mass: 276.151000000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Ds", avg_mass: 281, norm_mass: 281, exact_mass: 281.162000000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Rg", avg_mass: 280, norm_mass: 280, exact_mass: 280.164000000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}
+- { name: "Cn", avg_mass: 285, norm_mass: 285, exact_mass: 285.174000000, type: "METAL" , valences: [[0],       [0],       [1],       [0],       [0]       ]}

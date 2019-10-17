@@ -1,0 +1,73 @@
+{
+  "1133626": [
+    {
+      "id": 4144,
+      "reactants": [
+        {
+          "smiles": "O=C1CCCC2C1=Cc1ccccc1O2",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "OCCO",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "products": [
+        {
+          "smiles": "C1CC2Oc3ccccc3C=C2C2(C1)OCCO2",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "*What´s the english word?\nTosOH, MePh, reflux, Wasser- abscheider*, 4 h 23 %",
+      "temperature": "",
+      "yield": "23 %",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 4256,
+      "reactants": [
+        {
+          "smiles": "C1CC2Oc3ccccc3C=C2C2(C1)OCCO2",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "COC1c2cc(Br)ccc2OC2C1(Br)C1(C[CH+]C2)OCCO1",
+          "label": " ",
+          "text": "+ 42 %"
+        },
+        {
+          "smiles": "COC1c2ccccc2OC2C1(Br)C1(CCC2)OCCO1",
+          "label": "",
+          "text": "56 %"
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "BrN1C(=O)CCC1=O",
+        "CO",
+        "ClCCl"
+      ],
+      "description": "2 equiv.NBS, \nCH2Cl2/MeOH\nrt, 2 h",
+      "temperature": "20°C ~ 25°C",
+      "yield": "42 %;56 %",
+      "time": "",
+      "details": {
+      }
+    }
+  ]
+}

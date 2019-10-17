@@ -1,0 +1,36 @@
+[
+  {
+    "id": 174,
+    "reactants": [
+      {
+        "smiles": "Oc1cccc2cccnc12",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "c1cnc2c(O[Cu]Oc3cccc4cccnc34)cccc2c1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "C1CCCO1",
+      "[Cl-].[Cl-].[Cu+2]",
+      "[O-]C(=O)[O-].[K+].[K+]"
+    ],
+    "description": "CuCl2, K2CO3\nTHF",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "id": 3666,
+    "id_cdxml": 3683,
+    "reactants": [
+      {
+        "smiles": "*CC1=[S+]CCS1.F[B-](F)(F)F",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "*/C=C/C(=O)OC",
+        "label": "12a 12b",
+        "text": "or"
+      }
+    ],
+    "products": [
+      {
+        "smiles": "*C(CC(=O)OC)C(CC)=C1SCCS1",
+        "label": "13a 13b",
+        "text": ":  R2 = H, 24% (quanta)\n:  R2 = CO2Me,  17% (60%a)"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC#N"
+    ],
+    "description": "MeCN, 80 °C, 1-2 d",
+    "temperature": "80 °C",
+    "yield": "24%",
+    "time": "1-2 d",
+    "details": {
+    }
+  },
+  {
+    "id": 3667,
+    "id_cdxml": 3684,
+    "reactants": [
+      {
+        "smiles": "*CC1=[S+]CCS1.F[B-](F)(F)F",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "CC(C)(C)[S@](=O)/N=C(/C=C/c1ccccc1)c1ccccc1",
+        "label": "14",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CCC(=C1SCCS1)C(CC(=O)c1ccccc1)c1ccccc1",
+        "label": "15",
+        "text": ": 33%, 80% ee"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "\n",
+        "time": "",
+        "temperature": "",
+        "reagents": [
+          "CC(C)(C)[S@](=O)/N=C(/C=C/c1ccccc1)c1ccccc1"
+        ]
+      },
+      {
+        "number": 2,
+        "description": "H2O",
+        "time": "",
+        "temperature": "",
+        "reagents": [
+          "O"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "O"
+    ],
+    "description": "1)\n2) H2O",
+    "temperature": "",
+    "yield": "33%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 3668,
+    "id_cdxml": 3685,
+    "reactants": [
+      {
+        "smiles": "*CC1=[S+]CCS1.F[B-](F)(F)F",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "*C(CC(C)O)C(=C1SCCS1)c1ccccc1",
+        "label": "16a 16b",
+        "text": ": R2 = H, 94%\n: R2 = Me, 99% (dr = 9:3)b"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "3b or 3d\n",
+        "time": "",
+        "temperature": "",
+        "reagents": [
+
+        ]
+      },
+      {
+        "number": 2,
+        "description": "NaBH4, MeOH, \n    0 °C, 1 h",
+        "time": "",
+        "temperature": "0 °C",
+        "reagents": [
+          "[Na+].[BH4-]",
+          "CO"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "CO",
+      "[Na+].[BH4-]"
+    ],
+    "description": "1) 3b or 3d\n2) NaBH4, MeOH, \n    0 °C, 1 h",
+    "temperature": "",
+    "yield": "94%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 3669,
+    "id_cdxml": 3686,
+    "reactants": [
+      {
+        "smiles": "*CC1=[S+]CCS1.F[B-](F)(F)F",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "*C(=C1SCCS1)C1CCCC(=O)C1",
+        "label": "9i 9j",
+        "text": ": R1 = Cl, 24% \n: R1 = -CH2CH2Cl, 64%"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "",
+    "temperature": "",
+    "yield": "24%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000038,
+    "id_cdxml": 10000038,
+    "reactants": [
+      {
+        "smiles": "*CC1=[S+]CCS1.F[B-](F)(F)F",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "*/C=C/C(=O)OC",
+        "label": "12a 12b",
+        "text": "or"
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CCC(CCC(=O)OC)=C1SCCS1",
+        "label": "13a",
+        "text": ":  R2 = H, 24% (quanta)\n:  R2 = CO2Me,  17% (60%a). Generated with: R2 - H"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC#N"
+    ],
+    "description": "MeCN, 80 °C, 1-2 d",
+    "temperature": "80 °C",
+    "yield": "24%",
+    "time": "1-2 d",
+    "details": {
+    }
+  },
+  {
+    "id": 10000044,
+    "id_cdxml": 10000044,
+    "reactants": [
+      {
+        "smiles": "*CC1=[S+]CCS1.F[B-](F)(F)F",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "*/C=C/C(=O)OC",
+        "label": "12a 12b",
+        "text": "or"
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CCC(=C1SCCS1)C(CC(=O)OC)C(=O)OC",
+        "label": "13b",
+        "text": ":  R2 = H, 24% (quanta)\n:  R2 = CO2Me,  17% (60%a). Generated with: R2 - CO2Me"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC#N"
+    ],
+    "description": "MeCN, 80 °C, 1-2 d",
+    "temperature": "80 °C",
+    "yield": "24%",
+    "time": "1-2 d",
+    "details": {
+    }
+  },
+  {
+    "id": 10000055,
+    "id_cdxml": 10000055,
+    "reactants": [
+      {
+        "smiles": "*CC1=[S+]CCS1.F[B-](F)(F)F",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "CC(O)CCC(=C1SCCS1)c1ccccc1",
+        "label": "16a",
+        "text": ": R2 = H, 94%\n: R2 = Me, 99% (dr = 9:3)b. Generated with: R2 - H"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CO",
+      "[Na+].[BH4-]"
+    ],
+    "description": "1) 3b or 3d\n2) NaBH4, MeOH, \n    0 °C, 1 h",
+    "temperature": "",
+    "yield": "94%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000060,
+    "id_cdxml": 10000060,
+    "reactants": [
+      {
+        "smiles": "*CC1=[S+]CCS1.F[B-](F)(F)F",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "CC(O)CC(C)C(=C1SCCS1)c1ccccc1",
+        "label": "16b",
+        "text": ": R2 = H, 94%\n: R2 = Me, 99% (dr = 9:3)b. Generated with: R2 - Me"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CO",
+      "[Na+].[BH4-]"
+    ],
+    "description": "1) 3b or 3d\n2) NaBH4, MeOH, \n    0 °C, 1 h",
+    "temperature": "",
+    "yield": "94%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000065,
+    "id_cdxml": 10000065,
+    "reactants": [
+      {
+        "smiles": "*CC1=[S+]CCS1.F[B-](F)(F)F",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=C1CCCC(C(Cl)=C2SCCS2)C1",
+        "label": "9i",
+        "text": ": R1 = Cl, 24% \n: R1 = -CH2CH2Cl, 64%. Generated with: R1 - Cl"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "",
+    "temperature": "",
+    "yield": "24%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000070,
+    "id_cdxml": 10000070,
+    "reactants": [
+      {
+        "smiles": "*CC1=[S+]CCS1.F[B-](F)(F)F",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=C1CCCC(C(CCCl)=C2SCCS2)C1",
+        "label": "9j",
+        "text": ": R1 = Cl, 24% \n: R1 = -CH2CH2Cl, 64%. Generated with: R1 - CH2CH2Cl"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "",
+    "temperature": "",
+    "yield": "24%",
+    "time": "",
+    "details": {
+    }
+  }
+]

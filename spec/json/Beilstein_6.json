@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1131,
+    "id_cdxml": 1135,
+    "reactants": [
+      {
+        "smiles": "CC1(C)OC2C(O)[C@H](OCCC[C@H](NC(=O)OCC3c4ccccc4-c4ccccc43)C(=O)OCc3ccccc3)OC(CO[Si](c3ccccc3)(c3ccccc3)C(C)(C)C)[C@@H]2O1",
+        "label": "2",
+        "text": " +"
+      },
+      {
+        "smiles": "Cc1ccc(S(=O)C2OC(CO[Si](C)(C)C(C)(C)C)C(O[Si](C)(C)C(C)(C)C)[C@H](O[Si](C)(C)C(C)(C)C)C2O[Si](C)(C)C(C)(C)C)cc1",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "CC1(C)OC2C(O[C@H]3OC(CO[Si](C)(C)C(C)(C)C)[C@H](O[Si](C)(C)C(C)(C)C)C(O[Si](C)(C)C(C)(C)C)C3O[Si](C)(C)C(C)(C)C)[C@H](OCCC[C@H](NC(=O)OCC3c4ccccc4-c4ccccc43)C(=O)OCc3ccccc3)OC(CO[Si](c3ccccc3)(c3ccccc3)C(C)(C)C)[C@@H]2O1",
+        "label": "3",
+        "text": "(α :β  1:1)"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "Cc1cc(nc(c1)C(C)(C)C)C(C)(C)C",
+      "Cc1ccccc1",
+      "FC(S(=O)(=O)OS(=O)(=O)C(F)(F)F)(F)F"
+    ],
+    "description": "DTBMP\nPhMe\n\n 56%\nTf2O",
+    "temperature": "",
+    "yield": "56%",
+    "time": "",
+    "details": {
+    }
+  }
+]

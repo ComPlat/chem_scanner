@@ -1,0 +1,1475 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<collection name="Simone_24-099" inboxSectionCount="0" noteSectionCount="0">
+  <collectionType name="Chemistry Experiment" />
+  <sectionSetView sectionCount="1">
+    <section name="Reaction" active="true">
+      <sectionType name="Reaction" />
+      <object>
+        <field name="Reaction" />
+        <chemicalStructure><![CDATA[<?xml version="1.0"  ?>
+<!DOCTYPE CDXML SYSTEM "http://www.cambridgesoft.com/xml/cdxml.dtd" >
+<CDXML
+ CreationProgram="ChemDraw 13.0.0.3015"
+ Name="Untitled Document"
+ BoundingBox="100.66 39.85 944.19 176.54"
+ WindowPosition="0 0"
+ WindowSize="-2147483648 -1073741824"
+ FractionalWidths="yes"
+ InterpretChemically="yes"
+ ShowAtomQuery="yes"
+ ShowAtomStereo="no"
+ ShowAtomEnhancedStereo="yes"
+ ShowAtomNumber="no"
+ ShowResidueID="no"
+ ShowBondQuery="yes"
+ ShowBondRxn="yes"
+ ShowBondStereo="no"
+ ShowTerminalCarbonLabels="no"
+ ShowNonTerminalCarbonLabels="no"
+ HideImplicitHydrogens="no"
+ LabelFont="3"
+ LabelSize="10"
+ LabelFace="96"
+ CaptionFont="3"
+ CaptionSize="10"
+ HashSpacing="2.5"
+ MarginWidth="1.6"
+ LineWidth="0.6"
+ BoldWidth="2"
+ BondLength="14.4"
+ BondSpacing="18"
+ ChainAngle="120"
+ LabelJustification="Auto"
+ CaptionJustification="Left"
+ AminoAcidTermini="HOH"
+ ShowSequenceTermini="yes"
+ ShowSequenceBonds="yes"
+ ResidueWrapCount="40"
+ ResidueBlockCount="10"
+ ResidueZigZag="yes"
+ NumberResidueBlocks="no"
+ PrintMargins="36 36 36 36"
+ ChemPropName=""
+ ChemPropFormula="Chemical Formula: "
+ ChemPropExactMass="Exact Mass: "
+ ChemPropMolWt="Molecular Weight: "
+ ChemPropMOverZ="m/z: "
+ ChemPropAnalysis="Elemental Analysis: "
+ ChemPropBoilingPt="Boiling Point: "
+ ChemPropMeltingPt="Melting Point: "
+ ChemPropCritTemp="Critical Temp: "
+ ChemPropCritPres="Critical Pres: "
+ ChemPropCritVol="Critical Vol: "
+ ChemPropGibbs="Gibbs Energy: "
+ ChemPropLogP="Log P: "
+ ChemPropMR="MR: "
+ ChemPropHenry="Henry&apos;s Law: "
+ ChemPropEForm="Heat of Form: "
+ ChemProptPSA="tPSA: "
+ ChemPropLogS="LogS: "
+ ChemPropPKa="pKa: "
+ color="0"
+ bgcolor="1"
+><colortable>
+<color r="1" g="1" b="1"/>
+<color r="0" g="0" b="0"/>
+<color r="1" g="0" b="0"/>
+<color r="1" g="1" b="0"/>
+<color r="0" g="1" b="0"/>
+<color r="0" g="1" b="1"/>
+<color r="0" g="0" b="1"/>
+<color r="1" g="0" b="1"/>
+</colortable><fonttable>
+<font id="3" charset="iso-8859-1" name="Arial"/>
+</fonttable><page
+ id="1638"
+ BoundingBox="0 0 1326.75 1014.55"
+ HeaderPosition="36"
+ FooterPosition="36"
+ PrintTrimMarks="yes"
+ HeightPages="1"
+ WidthPages="1"
+><fragment
+ id="1393"
+ BoundingBox="100.66 87.5 218.64 162.49"
+ Z="186"
+><n
+ id="1394"
+ p="153.75 137.25"
+ Z="185"
+ AS="N"
+/><n
+ id="1395"
+ p="166.22 130.05"
+ Z="187"
+ AS="N"
+/><n
+ id="1396"
+ p="141.28 130.05"
+ Z="189"
+ Element="15"
+ NumHydrogens="0"
+ Charge="1"
+ NeedsClean="yes"
+><t
+ p="137.95 133.95"
+ BoundingBox="137.95 125.61 144.62 133.95"
+ LabelJustification="Left"
+ LabelAlignment="Right"
+><s font="3" size="10" color="0" face="96">P</s></t></n><n
+ id="1397"
+ p="178.69 137.25"
+ Z="191"
+ AS="N"
+/><n
+ id="1398"
+ p="191.16 130.05"
+ Z="193"
+ AS="N"
+/><n
+ id="1399"
+ p="203.63 137.25"
+ Z="195"
+ Element="7"
+ NumHydrogens="3"
+ Charge="1"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="200.03 141.15"
+ BoundingBox="200.03 132.81 218.64 143.45"
+ LabelJustification="Left"
+ LabelAlignment="Left"
+><s font="3" size="10" color="0" face="96">NH3</s></t></n><n
+ id="1400"
+ p="128.81 137.25"
+ Z="198"
+/><n
+ id="1401"
+ p="141.28 115.65"
+ Z="200"
+/><n
+ id="1402"
+ p="128.81 122.85"
+ Z="202"
+/><n
+ id="1403"
+ p="114.41 137.25"
+ Z="204"
+ AS="N"
+/><n
+ id="1404"
+ p="107.21 149.72"
+ Z="205"
+ AS="N"
+/><n
+ id="1405"
+ p="114.41 162.19"
+ Z="206"
+ AS="N"
+/><n
+ id="1406"
+ p="128.81 162.19"
+ Z="207"
+ AS="N"
+/><n
+ id="1407"
+ p="136.01 149.72"
+ Z="208"
+ AS="N"
+/><n
+ id="1408"
+ p="125.08 108.94"
+ Z="215"
+ AS="N"
+/><n
+ id="1409"
+ p="111.17 105.21"
+ Z="216"
+ AS="N"
+/><n
+ id="1410"
+ p="100.99 115.4"
+ Z="217"
+ AS="N"
+/><n
+ id="1411"
+ p="104.72 129.31"
+ Z="218"
+ AS="N"
+/><n
+ id="1412"
+ p="118.63 133.03"
+ Z="219"
+ AS="N"
+/><n
+ id="1413"
+ p="155.19 111.92"
+ Z="226"
+ AS="N"
+/><n
+ id="1414"
+ p="158.92 98.01"
+ Z="227"
+ AS="N"
+/><n
+ id="1415"
+ p="148.73 87.83"
+ Z="228"
+ AS="N"
+/><n
+ id="1416"
+ p="134.82 91.56"
+ Z="229"
+ AS="N"
+/><n
+ id="1417"
+ p="131.1 105.47"
+ Z="230"
+ AS="N"
+/><b
+ id="1418"
+ Z="188"
+ B="1394"
+ E="1395"
+ BS="N"
+/><b
+ id="1419"
+ Z="190"
+ B="1394"
+ E="1396"
+ BS="N"
+/><b
+ id="1420"
+ Z="192"
+ B="1395"
+ E="1397"
+ BS="N"
+/><b
+ id="1421"
+ Z="194"
+ B="1397"
+ E="1398"
+ BS="N"
+/><b
+ id="1422"
+ Z="196"
+ B="1398"
+ E="1399"
+ BS="N"
+/><b
+ id="1423"
+ Z="199"
+ B="1396"
+ E="1400"
+ BS="N"
+/><b
+ id="1424"
+ Z="201"
+ B="1396"
+ E="1401"
+ BS="N"
+/><b
+ id="1425"
+ Z="203"
+ B="1396"
+ E="1402"
+ BS="N"
+/><b
+ id="1426"
+ Z="209"
+ B="1400"
+ E="1403"
+ Order="2"
+ BondCircularOrdering="1431 1423 0 1427"
+ CrossingBonds="1436 1437"
+/><b
+ id="1427"
+ Z="210"
+ B="1403"
+ E="1404"
+ BS="N"
+/><b
+ id="1428"
+ Z="211"
+ B="1404"
+ E="1405"
+ Order="2"
+ BondCircularOrdering="1427 0 0 1429"
+/><b
+ id="1429"
+ Z="212"
+ B="1405"
+ E="1406"
+ BS="N"
+/><b
+ id="1430"
+ Z="213"
+ B="1406"
+ E="1407"
+ Order="2"
+ BondCircularOrdering="1429 0 0 1431"
+/><b
+ id="1431"
+ Z="214"
+ B="1407"
+ E="1400"
+ BS="N"
+/><b
+ id="1432"
+ Z="220"
+ B="1402"
+ E="1408"
+ Order="2"
+ BondCircularOrdering="1437 1425 0 1433"
+/><b
+ id="1433"
+ Z="221"
+ B="1408"
+ E="1409"
+ BS="N"
+/><b
+ id="1434"
+ Z="222"
+ B="1409"
+ E="1410"
+ Order="2"
+ BondCircularOrdering="1433 0 0 1435"
+/><b
+ id="1435"
+ Z="223"
+ B="1410"
+ E="1411"
+ BS="N"
+/><b
+ id="1436"
+ Z="224"
+ B="1411"
+ E="1412"
+ Order="2"
+ BondCircularOrdering="1435 0 0 1437"
+ CrossingBonds="1426"
+/><b
+ id="1437"
+ Z="225"
+ B="1412"
+ E="1402"
+ BS="N"
+ CrossingBonds="1426"
+/><b
+ id="1438"
+ Z="231"
+ B="1401"
+ E="1413"
+ Order="2"
+ BondCircularOrdering="1443 1424 0 1439"
+/><b
+ id="1439"
+ Z="232"
+ B="1413"
+ E="1414"
+ BS="N"
+/><b
+ id="1440"
+ Z="233"
+ B="1414"
+ E="1415"
+ Order="2"
+ BondCircularOrdering="1439 0 0 1441"
+/><b
+ id="1441"
+ Z="234"
+ B="1415"
+ E="1416"
+ BS="N"
+/><b
+ id="1442"
+ Z="235"
+ B="1416"
+ E="1417"
+ Order="2"
+ BondCircularOrdering="1441 0 0 1443"
+/><b
+ id="1443"
+ Z="236"
+ B="1417"
+ E="1401"
+ BS="N"
+/><graphic
+ id="1444"
+ BoundingBox="148.13 123.19 140.63 123.19"
+ Z="197"
+ GraphicType="Symbol"
+ SymbolType="CirclePlus"
+><represent attribute="Charge" object="1396"/></graphic><graphic
+ id="1452"
+ BoundingBox="210.87 127.54 203.37 127.54"
+ Z="243"
+ GraphicType="Symbol"
+ SymbolType="CirclePlus"
+><represent attribute="Charge" object="1399"/></graphic></fragment><fragment
+ id="1485"
+ BoundingBox="391.41 39.85 487.35 87.4"
+ Z="246"
+><n
+ id="1484"
+ p="399.75 69"
+ Z="245"
+ Element="35"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="401.42 72.9"
+ BoundingBox="391.41 64.56 401.42 72.9"
+ LabelJustification="Right"
+ Justification="Right"
+ LabelAlignment="Right"
+><s font="3" size="10" color="0" face="96">Br</s></t></n><n
+ id="1486"
+ p="412.22 61.8"
+ Z="247"
+ AS="N"
+/><n
+ id="1488"
+ p="424.69 69"
+ Z="249"
+/><n
+ id="1490"
+ p="437.16 61.8"
+ Z="251"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="433.26 65.7"
+ BoundingBox="433.26 57.24 441.06 65.8"
+ LabelJustification="Left"
+><s font="3" size="10" color="0" face="96">O</s></t></n><n
+ id="1492"
+ p="424.69 83.4"
+ Z="253"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="420.79 87.3"
+ BoundingBox="420.79 78.84 428.59 87.4"
+ LabelJustification="Left"
+><s font="3" size="10" color="0" face="96">O</s></t></n><n
+ id="1494"
+ p="449.63 69"
+ Z="255"
+ AS="N"
+/><n
+ id="1496"
+ p="462.1 61.8"
+ Z="257"
+/><n
+ id="1498"
+ p="474.57 69"
+ Z="259"
+ AS="N"
+/><n
+ id="1500"
+ p="487.05 61.8"
+ Z="260"
+ AS="N"
+/><n
+ id="1502"
+ p="487.05 47.4"
+ Z="261"
+ AS="N"
+/><n
+ id="1504"
+ p="474.57 40.2"
+ Z="262"
+ AS="N"
+/><n
+ id="1506"
+ p="462.1 47.4"
+ Z="263"
+ AS="N"
+/><b
+ id="1487"
+ Z="248"
+ B="1484"
+ E="1486"
+ BS="N"
+/><b
+ id="1489"
+ Z="250"
+ B="1486"
+ E="1488"
+ BS="N"
+/><b
+ id="1491"
+ Z="252"
+ B="1488"
+ E="1490"
+ BS="N"
+/><b
+ id="1493"
+ Z="254"
+ B="1488"
+ E="1492"
+ Order="2"
+/><b
+ id="1495"
+ Z="256"
+ B="1490"
+ E="1494"
+ BS="N"
+/><b
+ id="1497"
+ Z="258"
+ B="1494"
+ E="1496"
+ BS="N"
+/><b
+ id="1508"
+ Z="264"
+ B="1496"
+ E="1498"
+ Order="2"
+ BondCircularOrdering="1513 1497 0 1509"
+/><b
+ id="1509"
+ Z="265"
+ B="1498"
+ E="1500"
+ BS="N"
+/><b
+ id="1510"
+ Z="266"
+ B="1500"
+ E="1502"
+ Order="2"
+ BondCircularOrdering="1509 0 0 1511"
+/><b
+ id="1511"
+ Z="267"
+ B="1502"
+ E="1504"
+ BS="N"
+/><b
+ id="1512"
+ Z="268"
+ B="1504"
+ E="1506"
+ Order="2"
+ BondCircularOrdering="1511 0 0 1513"
+/><b
+ id="1513"
+ Z="269"
+ B="1506"
+ E="1496"
+ BS="N"
+/></fragment><fragment
+ id="1514"
+ BoundingBox="753.62 80.75 944.19 155.74"
+ Z="271"
+><n
+ id="1515"
+ p="806.71 130.5"
+ Z="270"
+ AS="N"
+/><n
+ id="1516"
+ p="819.18 123.3"
+ Z="272"
+ AS="N"
+/><n
+ id="1517"
+ p="794.24 123.3"
+ Z="274"
+ Element="15"
+ NumHydrogens="0"
+ Charge="1"
+ NeedsClean="yes"
+><t
+ p="790.91 127.2"
+ BoundingBox="790.91 118.86 797.58 127.2"
+ LabelJustification="Left"
+ LabelAlignment="Right"
+><s font="3" size="10" color="0" face="96">P</s></t></n><n
+ id="1518"
+ p="831.65 130.5"
+ Z="276"
+ AS="N"
+/><n
+ id="1519"
+ p="844.12 123.3"
+ Z="278"
+ AS="N"
+/><n
+ id="1520"
+ p="856.59 130.5"
+ Z="280"
+ Element="7"
+ NumHydrogens="1"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="852.99 134.4"
+ BoundingBox="852.99 126.06 860.21 142.74"
+ LabelJustification="Left"
+ LabelAlignment="Below"
+ LineStarts="2 3"
+><s font="3" size="10" color="0" face="96">NH</s></t></n><n
+ id="1521"
+ p="781.77 130.5"
+ Z="283"
+/><n
+ id="1522"
+ p="794.24 108.9"
+ Z="285"
+/><n
+ id="1523"
+ p="781.77 116.1"
+ Z="287"
+/><n
+ id="1524"
+ p="767.37 130.5"
+ Z="289"
+ AS="N"
+/><n
+ id="1525"
+ p="760.17 142.97"
+ Z="290"
+ AS="N"
+/><n
+ id="1526"
+ p="767.37 155.44"
+ Z="291"
+ AS="N"
+/><n
+ id="1527"
+ p="781.77 155.44"
+ Z="292"
+ AS="N"
+/><n
+ id="1528"
+ p="788.97 142.97"
+ Z="293"
+ AS="N"
+/><n
+ id="1529"
+ p="778.04 102.19"
+ Z="300"
+ AS="N"
+/><n
+ id="1530"
+ p="764.13 98.46"
+ Z="301"
+ AS="N"
+/><n
+ id="1531"
+ p="753.95 108.65"
+ Z="302"
+ AS="N"
+/><n
+ id="1532"
+ p="757.68 122.56"
+ Z="303"
+ AS="N"
+/><n
+ id="1533"
+ p="771.59 126.28"
+ Z="304"
+ AS="N"
+/><n
+ id="1534"
+ p="808.15 105.17"
+ Z="311"
+ AS="N"
+/><n
+ id="1535"
+ p="811.88 91.26"
+ Z="312"
+ AS="N"
+/><n
+ id="1536"
+ p="801.69 81.08"
+ Z="313"
+ AS="N"
+/><n
+ id="1537"
+ p="787.78 84.81"
+ Z="314"
+ AS="N"
+/><n
+ id="1538"
+ p="784.06 98.72"
+ Z="315"
+ AS="N"
+/><n
+ id="1576"
+ p="869.06 123.3"
+ Z="325"
+ AS="N"
+/><n
+ id="1578"
+ p="881.53 130.5"
+ Z="327"
+/><n
+ id="1580"
+ p="894 123.3"
+ Z="329"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="890.1 127.2"
+ BoundingBox="890.1 118.74 897.9 127.3"
+ LabelJustification="Left"
+><s font="3" size="10" color="0" face="96">O</s></t></n><n
+ id="1582"
+ p="881.53 144.9"
+ Z="331"
+ Element="8"
+ NumHydrogens="0"
+ NeedsClean="yes"
+ AS="N"
+><t
+ p="877.63 148.8"
+ BoundingBox="877.63 140.34 885.43 148.9"
+ LabelJustification="Left"
+><s font="3" size="10" color="0" face="96">O</s></t></n><n
+ id="1584"
+ p="906.47 130.5"
+ Z="333"
+ AS="N"
+/><n
+ id="1586"
+ p="918.95 123.3"
+ Z="335"
+/><n
+ id="1588"
+ p="931.42 130.5"
+ Z="337"
+ AS="N"
+/><n
+ id="1590"
+ p="943.89 123.3"
+ Z="338"
+ AS="N"
+/><n
+ id="1592"
+ p="943.89 108.9"
+ Z="339"
+ AS="N"
+/><n
+ id="1594"
+ p="931.42 101.7"
+ Z="340"
+ AS="N"
+/><n
+ id="1596"
+ p="918.95 108.9"
+ Z="341"
+ AS="N"
+/><b
+ id="1539"
+ Z="273"
+ B="1515"
+ E="1516"
+ BS="N"
+/><b
+ id="1540"
+ Z="275"
+ B="1515"
+ E="1517"
+ BS="N"
+/><b
+ id="1541"
+ Z="277"
+ B="1516"
+ E="1518"
+ BS="N"
+/><b
+ id="1542"
+ Z="279"
+ B="1518"
+ E="1519"
+ BS="N"
+/><b
+ id="1543"
+ Z="281"
+ B="1519"
+ E="1520"
+ BS="N"
+/><b
+ id="1544"
+ Z="284"
+ B="1517"
+ E="1521"
+ BS="N"
+/><b
+ id="1545"
+ Z="286"
+ B="1517"
+ E="1522"
+ BS="N"
+/><b
+ id="1546"
+ Z="288"
+ B="1517"
+ E="1523"
+ BS="N"
+/><b
+ id="1547"
+ Z="294"
+ B="1521"
+ E="1524"
+ Order="2"
+ BondCircularOrdering="1552 1544 0 1548"
+/><b
+ id="1548"
+ Z="295"
+ B="1524"
+ E="1525"
+ BS="N"
+/><b
+ id="1549"
+ Z="296"
+ B="1525"
+ E="1526"
+ Order="2"
+ BondCircularOrdering="1548 0 0 1550"
+/><b
+ id="1550"
+ Z="297"
+ B="1526"
+ E="1527"
+ BS="N"
+/><b
+ id="1551"
+ Z="298"
+ B="1527"
+ E="1528"
+ Order="2"
+ BondCircularOrdering="1550 0 0 1552"
+/><b
+ id="1552"
+ Z="299"
+ B="1528"
+ E="1521"
+ BS="N"
+/><b
+ id="1553"
+ Z="305"
+ B="1523"
+ E="1529"
+ Order="2"
+ BondCircularOrdering="1558 1546 0 1554"
+/><b
+ id="1554"
+ Z="306"
+ B="1529"
+ E="1530"
+ BS="N"
+/><b
+ id="1555"
+ Z="307"
+ B="1530"
+ E="1531"
+ Order="2"
+ BondCircularOrdering="1554 0 0 1556"
+/><b
+ id="1556"
+ Z="308"
+ B="1531"
+ E="1532"
+ BS="N"
+/><b
+ id="1557"
+ Z="309"
+ B="1532"
+ E="1533"
+ Order="2"
+ BondCircularOrdering="1556 0 0 1558"
+/><b
+ id="1558"
+ Z="310"
+ B="1533"
+ E="1523"
+ BS="N"
+/><b
+ id="1559"
+ Z="316"
+ B="1522"
+ E="1534"
+ Order="2"
+ BondCircularOrdering="1564 1545 0 1560"
+/><b
+ id="1560"
+ Z="317"
+ B="1534"
+ E="1535"
+ BS="N"
+/><b
+ id="1561"
+ Z="318"
+ B="1535"
+ E="1536"
+ Order="2"
+ BondCircularOrdering="1560 0 0 1562"
+/><b
+ id="1562"
+ Z="319"
+ B="1536"
+ E="1537"
+ BS="N"
+/><b
+ id="1563"
+ Z="320"
+ B="1537"
+ E="1538"
+ Order="2"
+ BondCircularOrdering="1562 0 0 1564"
+/><b
+ id="1564"
+ Z="321"
+ B="1538"
+ E="1522"
+ BS="N"
+/><b
+ id="1577"
+ Z="326"
+ B="1520"
+ E="1576"
+ BS="N"
+/><b
+ id="1579"
+ Z="328"
+ B="1576"
+ E="1578"
+ BS="N"
+/><b
+ id="1581"
+ Z="330"
+ B="1578"
+ E="1580"
+ BS="N"
+/><b
+ id="1583"
+ Z="332"
+ B="1578"
+ E="1582"
+ Order="2"
+/><b
+ id="1585"
+ Z="334"
+ B="1580"
+ E="1584"
+ BS="N"
+/><b
+ id="1587"
+ Z="336"
+ B="1584"
+ E="1586"
+ BS="N"
+/><b
+ id="1598"
+ Z="342"
+ B="1586"
+ E="1588"
+ Order="2"
+ BondCircularOrdering="1603 1587 0 1599"
+/><b
+ id="1599"
+ Z="343"
+ B="1588"
+ E="1590"
+ BS="N"
+/><b
+ id="1600"
+ Z="344"
+ B="1590"
+ E="1592"
+ Order="2"
+ BondCircularOrdering="1599 0 0 1601"
+/><b
+ id="1601"
+ Z="345"
+ B="1592"
+ E="1594"
+ BS="N"
+/><b
+ id="1602"
+ Z="346"
+ B="1594"
+ E="1596"
+ Order="2"
+ BondCircularOrdering="1601 0 0 1603"
+/><b
+ id="1603"
+ Z="347"
+ B="1596"
+ E="1586"
+ BS="N"
+/><graphic
+ id="1565"
+ BoundingBox="801.09 116.44 793.59 116.44"
+ Z="282"
+ GraphicType="Symbol"
+ SymbolType="CirclePlus"
+><represent attribute="Charge" object="1517"/></graphic></fragment><fragment
+ id="1"
+ BoundingBox="524.07 76.87 573.04 105.5"
+ Z="354"
+><n
+ id="2"
+ p="548.5 87.03"
+ Z="355"
+ Element="7"
+ NumHydrogens="0"
+ NeedsClean="yes"
+><t
+ p="544.9 90.93"
+ BoundingBox="544.9 82.59 552.12 90.93"
+ LabelJustification="Left"
+><s font="3" size="10" face="96">N</s></t></n><n
+ id="3"
+ p="562.12 82.71"
+ Z="356"
+ AS="N"
+/><n
+ id="4"
+ p="538.06 77.21"
+ Z="357"
+ AS="N"
+/><n
+ id="5"
+ p="545.43 100.82"
+ Z="358"
+ AS="N"
+/><n
+ id="6"
+ p="572.84 92.32"
+ Z="359"
+ AS="N"
+/><n
+ id="7"
+ p="524.16 81.6"
+ Z="360"
+ AS="N"
+/><n
+ id="8"
+ p="531.7 105.21"
+ Z="361"
+ AS="N"
+/><b
+ id="9"
+ Z="362"
+ B="2"
+ E="3"
+ BS="N"
+/><b
+ id="10"
+ Z="363"
+ B="2"
+ E="4"
+ BS="N"
+/><b
+ id="11"
+ Z="364"
+ B="2"
+ E="5"
+ BS="N"
+/><b
+ id="12"
+ Z="365"
+ B="3"
+ E="6"
+ BS="N"
+/><b
+ id="13"
+ Z="366"
+ B="4"
+ E="7"
+ BS="N"
+/><b
+ id="14"
+ Z="367"
+ B="5"
+ E="8"
+ BS="N"
+/></fragment><t
+ id="1634"
+ p="155.45 173.99"
+ BoundingBox="155.45 165.04 163.85 176.54"
+ Z="389"
+ InterpretChemically="no"
+ LineHeight="auto"
+><s font="3" size="10" color="0">[I]</s></t><t
+ id="1635"
+ p="542.95 117"
+ BoundingBox="542.95 108.05 554.15 119.55"
+ Z="390"
+ InterpretChemically="no"
+ LineHeight="auto"
+><s font="3" size="10" color="0">[II]</s></t><t
+ id="1636"
+ p="841.9 167.24"
+ BoundingBox="841.9 158.29 855.9 169.79"
+ Z="391"
+ InterpretChemically="no"
+ LineHeight="auto"
+><s font="3" size="10" color="0">[III]</s></t><graphic
+ id="1612"
+ SupersededBy="1639"
+ BoundingBox="628.27 124.5 363.75 124.5"
+ Z="244"
+ GraphicType="Line"
+ ArrowType="FullHead"
+ HeadSize="2250"
+/><scheme
+ id="1640"
+><step
+ id="1641"
+ ReactionStepReactants="1393"
+ ReactionStepProducts="1514"
+ ReactionStepArrows="1612"
+ ReactionStepObjectsAboveArrow="1 1635"
+/></scheme><arrow
+ id="1639"
+ BoundingBox="363.75 120.37 628.27 127.88"
+ Z="244"
+ FillType="None"
+ ArrowheadHead="Full"
+ ArrowheadType="Solid"
+ HeadSize="2250"
+ ArrowheadCenterSize="1969"
+ ArrowheadWidth="563"
+ Head3D="628.27 124.5 0"
+ Tail3D="363.75 124.5 0"
+ Center3D="810.14 186.75 0"
+ MajorAxisEnd3D="1074.66 186.75 0"
+ MinorAxisEnd3D="810.14 451.27 0"
+/></page></CDXML>]]></chemicalStructure>
+      </object>
+      <object>
+        <field name="Reaction Conditions" />
+        <propertyInstances>
+          <propertyInstance value="0,014 molar" minValue="13.6640667590315" maxValue="13.6640667590315">
+            <property name="Reaction Molarity" />
+          </propertyInstance>
+          <propertyInstance>
+            <property name="Pressure" />
+          </propertyInstance>
+          <propertyInstance>
+            <property name="Temperature" />
+          </propertyInstance>
+        </propertyInstances>
+      </object>
+      <object>
+        <field name="Reactants" />
+        <tableSection pivotType="1" propertyCount="21" rowCount="3">
+          <tableProperty height="0" width="615" visible="true">
+            <property name="Reaction Label" />
+          </tableProperty>
+          <tableProperty height="0" width="2730" visible="true">
+            <property name="Name" />
+          </tableProperty>
+          <tableProperty height="0" width="1050" visible="true">
+            <property name="Molecular Formula" />
+          </tableProperty>
+          <tableProperty height="0" width="660" visible="true">
+            <property name="Limiting?" />
+          </tableProperty>
+          <tableProperty height="0" width="705" visible="true">
+            <property name="Molecular Weight" />
+          </tableProperty>
+          <tableProperty height="0" width="705" visible="true">
+            <property name="Equivalents" />
+          </tableProperty>
+          <tableProperty height="0" width="990" visible="true">
+            <property name="Moles" />
+          </tableProperty>
+          <tableProperty height="0" width="1200" visible="true">
+            <property name="Sample Mass" />
+          </tableProperty>
+          <tableProperty height="0" width="1080" visible="true">
+            <property name="Volume" />
+          </tableProperty>
+          <tableProperty height="0" width="675" visible="true">
+            <property name="Molarity" />
+          </tableProperty>
+          <tableProperty height="0" width="780" visible="true">
+            <property name="Density" />
+          </tableProperty>
+          <tableProperty height="0" width="585" visible="true">
+            <property name="% by Weight" />
+          </tableProperty>
+          <tableProperty height="0" width="600" visible="true">
+            <property name="Formula Mass" />
+          </tableProperty>
+          <tableProperty height="0" width="5070" visible="true">
+            <property name="Reactant Mass" />
+          </tableProperty>
+          <tableProperty height="0" width="1290" visible="true">
+            <property name="Barcode" />
+          </tableProperty>
+          <tableProperty height="0" width="1500" visible="true">
+            <property name="Compound ID" />
+          </tableProperty>
+          <tableProperty height="0" width="945" visible="true">
+            <property name="CAS" />
+          </tableProperty>
+          <tableProperty height="0" width="1260" visible="true">
+            <property name="Supplier" />
+          </tableProperty>
+          <tableProperty height="0" width="1455" visible="true">
+            <property name="Reg Number" />
+          </tableProperty>
+          <tableProperty height="0" width="735" visible="true">
+            <property name="Batch Number" />
+          </tableProperty>
+          <tableProperty height="0" width="0" visible="true">
+            <property name="Sample ID" />
+          </tableProperty>
+          <tableRow height="330" width="0">
+            <tags ID="1393" parentID="1393" parentCoefficient="1" labelText="[I]" />
+            <tableCell value="I" />
+            <tableCell value="(4-ammoniobutyl)triphenylphosphonium" />
+            <tableCell value="C22H26NP 2+" />
+            <tableCell value="true" />
+            <tableCell value="495,23" minValue="0.49523" maxValue="0.49523" foreColor="-16776961" tag="entered" />
+            <tableCell value="1,000" minValue="1" maxValue="1" />
+            <tableCell value="1,640 mmol" minValue="0.00163968801108378" maxValue="0.00163968801108378" />
+            <tableCell value="0,5500 g" minValue="0.00055" maxValue="0.00055" foreColor="-16776961" tag="entered" />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell value="335,430" minValue="0.33542966484" maxValue="0.33542966484" />
+            <tableCell value="0,550 g" minValue="0.00055" maxValue="0.00055" />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+          </tableRow>
+          <tableRow height="330" width="0">
+            <tags ID="1" parentID="1" parentCoefficient="1" labelText="[II]" />
+            <tableCell value="II" />
+            <tableCell value="triethylamine" />
+            <tableCell value="C6H15N" />
+            <tableCell value="false" />
+            <tableCell value="101,193" minValue="0.101193" maxValue="0.101193" />
+            <tableCell value="6,000" minValue="6" maxValue="6" foreColor="-16776961" tag="entered" />
+            <tableCell value="9,84 mmol" minValue="0.00983812806650271" maxValue="0.00983812806650271" />
+            <tableCell value="0,996 g" minValue="0.000995549693433609" maxValue="0.000995549693433609" />
+            <tableCell value="1,371 ml" minValue="1.37128056946778E-06" maxValue="1.37128056946778E-06" />
+            <tableCell />
+            <tableCell value="0,726 g/ml" minValue="726" maxValue="726" foreColor="-16776961" tag="entered" />
+            <tableCell />
+            <tableCell value="101,193" minValue="0.101193" maxValue="0.101193" />
+            <tableCell value="0,996 g" minValue="0.000995549693433609" maxValue="0.000995549693433609" />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+          </tableRow>
+          <tableRow height="330" width="0">
+            <tableCell />
+            <tableCell value="Benzylbromacetat" foreColor="-16776961" tag="entered" />
+            <tableCell />
+            <tableCell value="false" />
+            <tableCell value="229,07" minValue="0.22907" maxValue="0.22907" foreColor="-16776961" tag="entered" />
+            <tableCell value="1,000" minValue="1" maxValue="1" foreColor="-16776961" tag="entered" />
+            <tableCell value="1,640 mmol" minValue="0.00163968801108378" maxValue="0.00163968801108378" />
+            <tableCell value="0,376 g" minValue="0.000375603332698963" maxValue="0.000375603332698963" />
+            <tableCell value="0,260 ml" minValue="2.59753342115465E-07" maxValue="2.59753342115465E-07" />
+            <tableCell />
+            <tableCell value="1,446 g/ml" minValue="1446" maxValue="1446" foreColor="-16776961" tag="entered" />
+            <tableCell />
+            <tableCell value="229,07" minValue="0.22907" maxValue="0.22907" />
+            <tableCell value="0,376 g" minValue="0.000375603332698963" maxValue="0.000375603332698963" />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+            <tableCell />
+          </tableRow>
+        </tableSection>
+      </object>
+      <object>
+        <field name="Products" />
+        <tableSection pivotType="1" propertyCount="14" rowCount="1">
+          <tableProperty height="0" width="615" visible="true">
+            <property name="Reaction Label" />
+          </tableProperty>
+          <tableProperty height="0" width="855" visible="true">
+            <property name="Product ID" />
+          </tableProperty>
+          <tableProperty height="0" width="1410" visible="false">
+            <property name="Chemical Structure" />
+          </tableProperty>
+          <tableProperty height="0" width="4380" visible="true">
+            <property name="Name" />
+          </tableProperty>
+          <tableProperty height="0" width="1125" visible="true">
+            <property name="Molecular Formula" />
+          </tableProperty>
+          <tableProperty height="0" width="990" visible="true">
+            <property name="Actual Mass" />
+          </tableProperty>
+          <tableProperty height="0" width="1020" visible="true">
+            <property name="Actual Moles" />
+          </tableProperty>
+          <tableProperty height="0" width="870" visible="true">
+            <property name="% Yield" />
+          </tableProperty>
+          <tableProperty height="0" width="675" visible="true">
+            <property name="% Purity" />
+          </tableProperty>
+          <tableProperty height="0" width="720" visible="true">
+            <property name="Molecular Weight" />
+          </tableProperty>
+          <tableProperty height="0" width="720" visible="true">
+            <property name="Equivalents" />
+          </tableProperty>
+          <tableProperty height="0" width="825" visible="true">
+            <property name="Theoretical Moles" />
+          </tableProperty>
+          <tableProperty height="0" width="915" visible="true">
+            <property name="Theoretical Mass" />
+          </tableProperty>
+          <tableProperty height="0" width="6945" visible="true">
+            <property name="Formula Mass" />
+          </tableProperty>
+          <tableRow height="300" width="0">
+            <tags ID="1514" parentID="1514" parentCoefficient="1" labelText="[III]" />
+            <tableCell value="III" />
+            <tableCell value="P2" />
+            <tableCell value="&lt;?xml version=&quot;1.0&quot;  ?&gt;&#xD;&#xA;&lt;!DOCTYPE CDXML SYSTEM &quot;http://www.cambridgesoft.com/xml/cdxml.dtd&quot; &gt;&#xD;&#xA;&lt;CDXML&#xD;&#xA; CreationProgram=&quot;ChemDraw 13.0.0.3015&quot;&#xD;&#xA; Name=&quot;Untitled Document&quot;&#xD;&#xA; BoundingBox=&quot;753.62 80.75 944.19 155.74&quot;&#xD;&#xA; WindowPosition=&quot;1073741824 -2147483648&quot;&#xD;&#xA; WindowSize=&quot;0 0&quot;&#xD;&#xA; FractionalWidths=&quot;yes&quot;&#xD;&#xA; InterpretChemically=&quot;yes&quot;&#xD;&#xA; ShowAtomQuery=&quot;yes&quot;&#xD;&#xA; ShowAtomStereo=&quot;no&quot;&#xD;&#xA; ShowAtomEnhancedStereo=&quot;yes&quot;&#xD;&#xA; ShowAtomNumber=&quot;no&quot;&#xD;&#xA; ShowResidueID=&quot;no&quot;&#xD;&#xA; ShowBondQuery=&quot;yes&quot;&#xD;&#xA; ShowBondRxn=&quot;yes&quot;&#xD;&#xA; ShowBondStereo=&quot;no&quot;&#xD;&#xA; ShowTerminalCarbonLabels=&quot;no&quot;&#xD;&#xA; ShowNonTerminalCarbonLabels=&quot;no&quot;&#xD;&#xA; HideImplicitHydrogens=&quot;no&quot;&#xD;&#xA; Magnification=&quot;3160&quot;&#xD;&#xA; LabelFont=&quot;3&quot;&#xD;&#xA; LabelSize=&quot;10&quot;&#xD;&#xA; LabelFace=&quot;96&quot;&#xD;&#xA; CaptionFont=&quot;3&quot;&#xD;&#xA; CaptionSize=&quot;10&quot;&#xD;&#xA; HashSpacing=&quot;2.5&quot;&#xD;&#xA; MarginWidth=&quot;1.6&quot;&#xD;&#xA; LineWidth=&quot;0.6&quot;&#xD;&#xA; BoldWidth=&quot;2&quot;&#xD;&#xA; BondLength=&quot;14.4&quot;&#xD;&#xA; BondSpacing=&quot;18&quot;&#xD;&#xA; ChainAngle=&quot;120&quot;&#xD;&#xA; LabelJustification=&quot;Auto&quot;&#xD;&#xA; CaptionJustification=&quot;Left&quot;&#xD;&#xA; AminoAcidTermini=&quot;HOH&quot;&#xD;&#xA; ShowSequenceTermini=&quot;yes&quot;&#xD;&#xA; ShowSequenceBonds=&quot;yes&quot;&#xD;&#xA; ResidueWrapCount=&quot;40&quot;&#xD;&#xA; ResidueBlockCount=&quot;10&quot;&#xD;&#xA; ResidueZigZag=&quot;yes&quot;&#xD;&#xA; NumberResidueBlocks=&quot;no&quot;&#xD;&#xA; PrintMargins=&quot;36 36 36 36&quot;&#xD;&#xA; ChemPropName=&quot;&quot;&#xD;&#xA; ChemPropFormula=&quot;Chemical Formula: &quot;&#xD;&#xA; ChemPropExactMass=&quot;Exact Mass: &quot;&#xD;&#xA; ChemPropMolWt=&quot;Molecular Weight: &quot;&#xD;&#xA; ChemPropMOverZ=&quot;m/z: &quot;&#xD;&#xA; ChemPropAnalysis=&quot;Elemental Analysis: &quot;&#xD;&#xA; ChemPropBoilingPt=&quot;Boiling Point: &quot;&#xD;&#xA; ChemPropMeltingPt=&quot;Melting Point: &quot;&#xD;&#xA; ChemPropCritTemp=&quot;Critical Temp: &quot;&#xD;&#xA; ChemPropCritPres=&quot;Critical Pres: &quot;&#xD;&#xA; ChemPropCritVol=&quot;Critical Vol: &quot;&#xD;&#xA; ChemPropGibbs=&quot;Gibbs Energy: &quot;&#xD;&#xA; ChemPropLogP=&quot;Log P: &quot;&#xD;&#xA; ChemPropMR=&quot;MR: &quot;&#xD;&#xA; ChemPropHenry=&quot;Henry&amp;apos;s Law: &quot;&#xD;&#xA; ChemPropEForm=&quot;Heat of Form: &quot;&#xD;&#xA; ChemProptPSA=&quot;tPSA: &quot;&#xD;&#xA; ChemPropLogS=&quot;LogS: &quot;&#xD;&#xA; ChemPropPKa=&quot;pKa: &quot;&#xD;&#xA; color=&quot;0&quot;&#xD;&#xA; bgcolor=&quot;1&quot;&#xD;&#xA;&gt;&lt;colortable&gt;&#xD;&#xA;&lt;color r=&quot;1&quot; g=&quot;1&quot; b=&quot;1&quot;/&gt;&#xD;&#xA;&lt;color r=&quot;0&quot; g=&quot;0&quot; b=&quot;0&quot;/&gt;&#xD;&#xA;&lt;color r=&quot;1&quot; g=&quot;0&quot; b=&quot;0&quot;/&gt;&#xD;&#xA;&lt;color r=&quot;1&quot; g=&quot;1&quot; b=&quot;0&quot;/&gt;&#xD;&#xA;&lt;color r=&quot;0&quot; g=&quot;1&quot; b=&quot;0&quot;/&gt;&#xD;&#xA;&lt;color r=&quot;0&quot; g=&quot;1&quot; b=&quot;1&quot;/&gt;&#xD;&#xA;&lt;color r=&quot;0&quot; g=&quot;0&quot; b=&quot;1&quot;/&gt;&#xD;&#xA;&lt;color r=&quot;1&quot; g=&quot;0&quot; b=&quot;1&quot;/&gt;&#xD;&#xA;&lt;/colortable&gt;&lt;fonttable&gt;&#xD;&#xA;&lt;font id=&quot;3&quot; charset=&quot;iso-8859-1&quot; name=&quot;Arial&quot;/&gt;&#xD;&#xA;&lt;/fonttable&gt;&lt;page&#xD;&#xA; id=&quot;1641&quot;&#xD;&#xA; BoundingBox=&quot;0 0 1407.33 1014.55&quot;&#xD;&#xA; HeaderPosition=&quot;36&quot;&#xD;&#xA; FooterPosition=&quot;36&quot;&#xD;&#xA; PrintTrimMarks=&quot;yes&quot;&#xD;&#xA; HeightPages=&quot;1&quot;&#xD;&#xA; WidthPages=&quot;1&quot;&#xD;&#xA;&gt;&lt;fragment&#xD;&#xA; id=&quot;1514&quot;&#xD;&#xA; BoundingBox=&quot;753.62 80.75 944.19 155.74&quot;&#xD;&#xA; Z=&quot;253&quot;&#xD;&#xA;&gt;&lt;n&#xD;&#xA; id=&quot;1515&quot;&#xD;&#xA; p=&quot;806.71 130.5&quot;&#xD;&#xA; Z=&quot;252&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1516&quot;&#xD;&#xA; p=&quot;819.18 123.3&quot;&#xD;&#xA; Z=&quot;254&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1517&quot;&#xD;&#xA; p=&quot;794.24 123.3&quot;&#xD;&#xA; Z=&quot;256&quot;&#xD;&#xA; Element=&quot;15&quot;&#xD;&#xA; NumHydrogens=&quot;0&quot;&#xD;&#xA; Charge=&quot;1&quot;&#xD;&#xA; NeedsClean=&quot;yes&quot;&#xD;&#xA;&gt;&lt;t&#xD;&#xA; p=&quot;790.91 127.2&quot;&#xD;&#xA; BoundingBox=&quot;790.91 118.86 797.58 127.2&quot;&#xD;&#xA; LabelJustification=&quot;Left&quot;&#xD;&#xA; LabelAlignment=&quot;Right&quot;&#xD;&#xA;&gt;&lt;s font=&quot;3&quot; size=&quot;10&quot; color=&quot;0&quot; face=&quot;96&quot;&gt;P&lt;/s&gt;&lt;/t&gt;&lt;/n&gt;&lt;n&#xD;&#xA; id=&quot;1518&quot;&#xD;&#xA; p=&quot;831.65 130.5&quot;&#xD;&#xA; Z=&quot;258&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1519&quot;&#xD;&#xA; p=&quot;844.12 123.3&quot;&#xD;&#xA; Z=&quot;260&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1520&quot;&#xD;&#xA; p=&quot;856.59 130.5&quot;&#xD;&#xA; Z=&quot;262&quot;&#xD;&#xA; Element=&quot;7&quot;&#xD;&#xA; NumHydrogens=&quot;1&quot;&#xD;&#xA; NeedsClean=&quot;yes&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;&gt;&lt;t&#xD;&#xA; p=&quot;852.99 134.4&quot;&#xD;&#xA; BoundingBox=&quot;852.99 126.06 860.21 142.74&quot;&#xD;&#xA; LabelJustification=&quot;Left&quot;&#xD;&#xA; LabelAlignment=&quot;Below&quot;&#xD;&#xA; LineStarts=&quot;2 3&quot;&#xD;&#xA;&gt;&lt;s font=&quot;3&quot; size=&quot;10&quot; color=&quot;0&quot; face=&quot;96&quot;&gt;NH&lt;/s&gt;&lt;/t&gt;&lt;/n&gt;&lt;n&#xD;&#xA; id=&quot;1521&quot;&#xD;&#xA; p=&quot;781.77 130.5&quot;&#xD;&#xA; Z=&quot;265&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1522&quot;&#xD;&#xA; p=&quot;794.24 108.9&quot;&#xD;&#xA; Z=&quot;267&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1523&quot;&#xD;&#xA; p=&quot;781.77 116.1&quot;&#xD;&#xA; Z=&quot;269&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1524&quot;&#xD;&#xA; p=&quot;767.37 130.5&quot;&#xD;&#xA; Z=&quot;271&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1525&quot;&#xD;&#xA; p=&quot;760.17 142.97&quot;&#xD;&#xA; Z=&quot;272&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1526&quot;&#xD;&#xA; p=&quot;767.37 155.44&quot;&#xD;&#xA; Z=&quot;273&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1527&quot;&#xD;&#xA; p=&quot;781.77 155.44&quot;&#xD;&#xA; Z=&quot;274&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1528&quot;&#xD;&#xA; p=&quot;788.97 142.97&quot;&#xD;&#xA; Z=&quot;275&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1529&quot;&#xD;&#xA; p=&quot;778.04 102.19&quot;&#xD;&#xA; Z=&quot;282&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1530&quot;&#xD;&#xA; p=&quot;764.13 98.46&quot;&#xD;&#xA; Z=&quot;283&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1531&quot;&#xD;&#xA; p=&quot;753.95 108.65&quot;&#xD;&#xA; Z=&quot;284&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1532&quot;&#xD;&#xA; p=&quot;757.68 122.56&quot;&#xD;&#xA; Z=&quot;285&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1533&quot;&#xD;&#xA; p=&quot;771.59 126.28&quot;&#xD;&#xA; Z=&quot;286&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1534&quot;&#xD;&#xA; p=&quot;808.15 105.17&quot;&#xD;&#xA; Z=&quot;293&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1535&quot;&#xD;&#xA; p=&quot;811.88 91.26&quot;&#xD;&#xA; Z=&quot;294&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1536&quot;&#xD;&#xA; p=&quot;801.69 81.08&quot;&#xD;&#xA; Z=&quot;295&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1537&quot;&#xD;&#xA; p=&quot;787.78 84.81&quot;&#xD;&#xA; Z=&quot;296&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1538&quot;&#xD;&#xA; p=&quot;784.06 98.72&quot;&#xD;&#xA; Z=&quot;297&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1576&quot;&#xD;&#xA; p=&quot;869.06 123.3&quot;&#xD;&#xA; Z=&quot;304&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1578&quot;&#xD;&#xA; p=&quot;881.53 130.5&quot;&#xD;&#xA; Z=&quot;306&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1580&quot;&#xD;&#xA; p=&quot;894 123.3&quot;&#xD;&#xA; Z=&quot;308&quot;&#xD;&#xA; Element=&quot;8&quot;&#xD;&#xA; NumHydrogens=&quot;0&quot;&#xD;&#xA; NeedsClean=&quot;yes&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;&gt;&lt;t&#xD;&#xA; p=&quot;890.1 127.2&quot;&#xD;&#xA; BoundingBox=&quot;890.1 118.74 897.9 127.3&quot;&#xD;&#xA; LabelJustification=&quot;Left&quot;&#xD;&#xA;&gt;&lt;s font=&quot;3&quot; size=&quot;10&quot; color=&quot;0&quot; face=&quot;96&quot;&gt;O&lt;/s&gt;&lt;/t&gt;&lt;/n&gt;&lt;n&#xD;&#xA; id=&quot;1582&quot;&#xD;&#xA; p=&quot;881.53 144.9&quot;&#xD;&#xA; Z=&quot;310&quot;&#xD;&#xA; Element=&quot;8&quot;&#xD;&#xA; NumHydrogens=&quot;0&quot;&#xD;&#xA; NeedsClean=&quot;yes&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;&gt;&lt;t&#xD;&#xA; p=&quot;877.63 148.8&quot;&#xD;&#xA; BoundingBox=&quot;877.63 140.34 885.43 148.9&quot;&#xD;&#xA; LabelJustification=&quot;Left&quot;&#xD;&#xA;&gt;&lt;s font=&quot;3&quot; size=&quot;10&quot; color=&quot;0&quot; face=&quot;96&quot;&gt;O&lt;/s&gt;&lt;/t&gt;&lt;/n&gt;&lt;n&#xD;&#xA; id=&quot;1584&quot;&#xD;&#xA; p=&quot;906.47 130.5&quot;&#xD;&#xA; Z=&quot;312&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1586&quot;&#xD;&#xA; p=&quot;918.95 123.3&quot;&#xD;&#xA; Z=&quot;314&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1588&quot;&#xD;&#xA; p=&quot;931.42 130.5&quot;&#xD;&#xA; Z=&quot;316&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1590&quot;&#xD;&#xA; p=&quot;943.89 123.3&quot;&#xD;&#xA; Z=&quot;317&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1592&quot;&#xD;&#xA; p=&quot;943.89 108.9&quot;&#xD;&#xA; Z=&quot;318&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1594&quot;&#xD;&#xA; p=&quot;931.42 101.7&quot;&#xD;&#xA; Z=&quot;319&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;n&#xD;&#xA; id=&quot;1596&quot;&#xD;&#xA; p=&quot;918.95 108.9&quot;&#xD;&#xA; Z=&quot;320&quot;&#xD;&#xA; AS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1539&quot;&#xD;&#xA; Z=&quot;255&quot;&#xD;&#xA; B=&quot;1515&quot;&#xD;&#xA; E=&quot;1516&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1540&quot;&#xD;&#xA; Z=&quot;257&quot;&#xD;&#xA; B=&quot;1515&quot;&#xD;&#xA; E=&quot;1517&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1541&quot;&#xD;&#xA; Z=&quot;259&quot;&#xD;&#xA; B=&quot;1516&quot;&#xD;&#xA; E=&quot;1518&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1542&quot;&#xD;&#xA; Z=&quot;261&quot;&#xD;&#xA; B=&quot;1518&quot;&#xD;&#xA; E=&quot;1519&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1543&quot;&#xD;&#xA; Z=&quot;263&quot;&#xD;&#xA; B=&quot;1519&quot;&#xD;&#xA; E=&quot;1520&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1544&quot;&#xD;&#xA; Z=&quot;266&quot;&#xD;&#xA; B=&quot;1517&quot;&#xD;&#xA; E=&quot;1521&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1545&quot;&#xD;&#xA; Z=&quot;268&quot;&#xD;&#xA; B=&quot;1517&quot;&#xD;&#xA; E=&quot;1522&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1546&quot;&#xD;&#xA; Z=&quot;270&quot;&#xD;&#xA; B=&quot;1517&quot;&#xD;&#xA; E=&quot;1523&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1547&quot;&#xD;&#xA; Z=&quot;276&quot;&#xD;&#xA; B=&quot;1521&quot;&#xD;&#xA; E=&quot;1524&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1552 1544 0 1548&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1548&quot;&#xD;&#xA; Z=&quot;277&quot;&#xD;&#xA; B=&quot;1524&quot;&#xD;&#xA; E=&quot;1525&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1549&quot;&#xD;&#xA; Z=&quot;278&quot;&#xD;&#xA; B=&quot;1525&quot;&#xD;&#xA; E=&quot;1526&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1548 0 0 1550&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1550&quot;&#xD;&#xA; Z=&quot;279&quot;&#xD;&#xA; B=&quot;1526&quot;&#xD;&#xA; E=&quot;1527&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1551&quot;&#xD;&#xA; Z=&quot;280&quot;&#xD;&#xA; B=&quot;1527&quot;&#xD;&#xA; E=&quot;1528&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1550 0 0 1552&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1552&quot;&#xD;&#xA; Z=&quot;281&quot;&#xD;&#xA; B=&quot;1528&quot;&#xD;&#xA; E=&quot;1521&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1553&quot;&#xD;&#xA; Z=&quot;287&quot;&#xD;&#xA; B=&quot;1523&quot;&#xD;&#xA; E=&quot;1529&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1558 1546 0 1554&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1554&quot;&#xD;&#xA; Z=&quot;288&quot;&#xD;&#xA; B=&quot;1529&quot;&#xD;&#xA; E=&quot;1530&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1555&quot;&#xD;&#xA; Z=&quot;289&quot;&#xD;&#xA; B=&quot;1530&quot;&#xD;&#xA; E=&quot;1531&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1554 0 0 1556&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1556&quot;&#xD;&#xA; Z=&quot;290&quot;&#xD;&#xA; B=&quot;1531&quot;&#xD;&#xA; E=&quot;1532&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1557&quot;&#xD;&#xA; Z=&quot;291&quot;&#xD;&#xA; B=&quot;1532&quot;&#xD;&#xA; E=&quot;1533&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1556 0 0 1558&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1558&quot;&#xD;&#xA; Z=&quot;292&quot;&#xD;&#xA; B=&quot;1533&quot;&#xD;&#xA; E=&quot;1523&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1559&quot;&#xD;&#xA; Z=&quot;298&quot;&#xD;&#xA; B=&quot;1522&quot;&#xD;&#xA; E=&quot;1534&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1564 1545 0 1560&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1560&quot;&#xD;&#xA; Z=&quot;299&quot;&#xD;&#xA; B=&quot;1534&quot;&#xD;&#xA; E=&quot;1535&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1561&quot;&#xD;&#xA; Z=&quot;300&quot;&#xD;&#xA; B=&quot;1535&quot;&#xD;&#xA; E=&quot;1536&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1560 0 0 1562&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1562&quot;&#xD;&#xA; Z=&quot;301&quot;&#xD;&#xA; B=&quot;1536&quot;&#xD;&#xA; E=&quot;1537&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1563&quot;&#xD;&#xA; Z=&quot;302&quot;&#xD;&#xA; B=&quot;1537&quot;&#xD;&#xA; E=&quot;1538&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1562 0 0 1564&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1564&quot;&#xD;&#xA; Z=&quot;303&quot;&#xD;&#xA; B=&quot;1538&quot;&#xD;&#xA; E=&quot;1522&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1577&quot;&#xD;&#xA; Z=&quot;305&quot;&#xD;&#xA; B=&quot;1520&quot;&#xD;&#xA; E=&quot;1576&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1579&quot;&#xD;&#xA; Z=&quot;307&quot;&#xD;&#xA; B=&quot;1576&quot;&#xD;&#xA; E=&quot;1578&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1581&quot;&#xD;&#xA; Z=&quot;309&quot;&#xD;&#xA; B=&quot;1578&quot;&#xD;&#xA; E=&quot;1580&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1583&quot;&#xD;&#xA; Z=&quot;311&quot;&#xD;&#xA; B=&quot;1578&quot;&#xD;&#xA; E=&quot;1582&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1585&quot;&#xD;&#xA; Z=&quot;313&quot;&#xD;&#xA; B=&quot;1580&quot;&#xD;&#xA; E=&quot;1584&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1587&quot;&#xD;&#xA; Z=&quot;315&quot;&#xD;&#xA; B=&quot;1584&quot;&#xD;&#xA; E=&quot;1586&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1598&quot;&#xD;&#xA; Z=&quot;321&quot;&#xD;&#xA; B=&quot;1586&quot;&#xD;&#xA; E=&quot;1588&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1603 1587 0 1599&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1599&quot;&#xD;&#xA; Z=&quot;322&quot;&#xD;&#xA; B=&quot;1588&quot;&#xD;&#xA; E=&quot;1590&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1600&quot;&#xD;&#xA; Z=&quot;323&quot;&#xD;&#xA; B=&quot;1590&quot;&#xD;&#xA; E=&quot;1592&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1599 0 0 1601&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1601&quot;&#xD;&#xA; Z=&quot;324&quot;&#xD;&#xA; B=&quot;1592&quot;&#xD;&#xA; E=&quot;1594&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1602&quot;&#xD;&#xA; Z=&quot;325&quot;&#xD;&#xA; B=&quot;1594&quot;&#xD;&#xA; E=&quot;1596&quot;&#xD;&#xA; Order=&quot;2&quot;&#xD;&#xA; BondCircularOrdering=&quot;1601 0 0 1603&quot;&#xD;&#xA;/&gt;&lt;b&#xD;&#xA; id=&quot;1603&quot;&#xD;&#xA; Z=&quot;326&quot;&#xD;&#xA; B=&quot;1596&quot;&#xD;&#xA; E=&quot;1586&quot;&#xD;&#xA; BS=&quot;N&quot;&#xD;&#xA;/&gt;&lt;graphic&#xD;&#xA; id=&quot;1565&quot;&#xD;&#xA; BoundingBox=&quot;801.09 116.44 793.59 116.44&quot;&#xD;&#xA; Z=&quot;264&quot;&#xD;&#xA; GraphicType=&quot;Symbol&quot;&#xD;&#xA; SymbolType=&quot;CirclePlus&quot;&#xD;&#xA;&gt;&lt;represent attribute=&quot;Charge&quot; object=&quot;1517&quot;/&gt;&lt;/graphic&gt;&lt;/fragment&gt;&lt;/page&gt;&lt;/CDXML&gt;" />
+            <tableCell value="(4-((2-(benzyloxy)-2-oxoethyl)amino)butyl)triphenylphosphonium" />
+            <tableCell value="C31H33NO2P+" />
+            <tableCell value="0,1620 g" minValue="0.000162" maxValue="0.000162" foreColor="-16776961" tag="entered" />
+            <tableCell value="0,336 mmol" minValue="0.000335693400630181" maxValue="0.000335693400630181" />
+            <tableCell value="20,47 %" minValue="0.20473004520433" maxValue="0.20473004520433" />
+            <tableCell />
+            <tableCell value="482,583" minValue="0.48258321342" maxValue="0.48258321342" />
+            <tableCell value="1,000" minValue="1" maxValue="1" />
+            <tableCell value="1,640 mmol" minValue="0.00163968801108378" maxValue="0.00163968801108378" />
+            <tableCell value="0,791 g" minValue="0.000791285909395061" maxValue="0.000791285909395061" />
+            <tableCell value="482,583" minValue="0.48258321342" maxValue="0.48258321342" />
+          </tableRow>
+        </tableSection>
+      </object>
+      <object>
+        <field name="Preparation" />
+        <styledText>
+          <data>{\rtf1\ansi\ansicpg1252\deff0\deflang1033{\fonttbl{\f0\fnil\fcharset0 Arial;}}
+{\colortbl ;\red153\green102\blue204;}
+\viewkind4\uc1\pard\lang1031\fs16 Zu einer L\'f6sung aus \cf1 (4-ammoniobutyl)triphenylphosphonium (0,5500 g, 1,640 mmol)\cf0\v &lt;autotext key="17C0CDFC" name="[Reactants]" index="1" field="Reactants" type="field" length="59" /&gt;\lang1033\v0  und \cf1\lang1031 triethylamine (1,371 ml, 9,84 mmol)\cf0\v &lt;autotext key="17C0CDFD" name="[Reactants]" index="2" field="Reactants" type="field" length="35" /&gt;\lang1033\v0  in \cf1\lang1031 Dichloromethane (80 ml)\cf0\v &lt;autotext key="17C0CDFE" name="[Solvents]" index="1" field="Solvents" type="field" length="23" /&gt;\lang1033\v0  wird \'fcber ca. 12 Stunden langsam eine L\'f6sung aus \cf1\lang1031 Benzylbromacetat (0,260 ml, 1,640 mmol)\cf0\v &lt;autotext key="17C0CDFF" name="[Reactants]" index="3" field="Reactants" type="field" length="39" /&gt;\lang1033\v0  in \cf1\lang1031 Dichloromethane (40 ml)\cf0\v &lt;autotext key="17C0CE00" name="[Solvents]" index="2" field="Solvents" type="field" length="23" /&gt;\lang1033\v0  zugetropft. Die L\'f6sung wird zur Aufarbeitung mit Wasser gewaschen und die w\'e4ssrige Pahse wird mit Dichlormethan extrahiert. Die vereingten organischen Phasen werden \'fcber Natriumsulfat getrocknet, filtriert und vom L\'f6sungsmittel befreit. \par
+Zur Reinigung wird eine S\'e4ulenchromatographie durchgef\'fchrt. \par
+\par
+DC: DCM/MeOH 10:1\par
+S\'e4ule: DCM/MeOH 10:1\par
+\par
+Produkt, aber nicht sauber, wird aber trotzdem weiter umgesetzt. \par
+(48-60)\par
+}
+</data>
+          <text>Zu einer Lösung aus (4-ammoniobutyl)triphenylphosphonium (0,5500 g, 1,640 mmol) und triethylamine (1,371 ml, 9,84 mmol) in Dichloromethane (80 ml) wird über ca. 12 Stunden langsam eine Lösung aus Benzylbromacetat (0,260 ml, 1,640 mmol) in Dichloromethane (40 ml) zugetropft. Die Lösung wird zur Aufarbeitung mit Wasser gewaschen und die wässrige Pahse wird mit Dichlormethan extrahiert. Die vereingten organischen Phasen werden über Natriumsulfat getrocknet, filtriert und vom Lösungsmittel befreit. 
+Zur Reinigung wird eine Säulenchromatographie durchgeführt. 
+
+DC: DCM/MeOH 10:1
+Säule: DCM/MeOH 10:1
+
+Produkt, aber nicht sauber, wird aber trotzdem weiter umgesetzt. 
+(48-60)</text>
+        </styledText>
+      </object>
+      <object>
+        <field name="Solvents" />
+        <tableSection pivotType="1" propertyCount="3" rowCount="2">
+          <tableProperty height="0" width="1215" visible="true">
+            <property name="Name" />
+          </tableProperty>
+          <tableProperty height="0" width="480" visible="true">
+            <property name="Ratio" />
+          </tableProperty>
+          <tableProperty height="0" width="5505" visible="true">
+            <property name="Volume" />
+          </tableProperty>
+          <tableRow height="330" width="0">
+            <tableCell value="Dichloromethane" />
+            <tableCell value="2,000" minValue="2" maxValue="2" />
+            <tableCell value="80 ml" minValue="8E-05" maxValue="8E-05" foreColor="-16776961" tag="entered" />
+          </tableRow>
+          <tableRow height="330" width="0">
+            <tableCell value="Dichloromethane" />
+            <tableCell value="1,000" minValue="1" maxValue="1" />
+            <tableCell value="40 ml" minValue="4E-05" maxValue="4E-05" foreColor="-16776961" tag="entered" />
+          </tableRow>
+        </tableSection>
+      </object>
+      <object>
+        <field name="Reaction Toolbar" />
+        <addin />
+      </object>
+      <object>
+        <field name="Samples" />
+        <tableSection pivotType="1" propertyCount="14" rowCount="0">
+          <tableProperty height="0" width="720" visible="true">
+            <property name="Selected" />
+          </tableProperty>
+          <tableProperty height="0" width="1170" visible="true">
+            <property name="Sample ID" />
+          </tableProperty>
+          <tableProperty height="0" width="1500" visible="true">
+            <property name="Temp ID" />
+          </tableProperty>
+          <tableProperty height="0" width="1530" visible="true">
+            <property name="Reg Number" />
+          </tableProperty>
+          <tableProperty height="0" width="735" visible="true">
+            <property name="Batch Number" />
+          </tableProperty>
+          <tableProperty height="0" width="1110" visible="true">
+            <property name="Source ID" />
+          </tableProperty>
+          <tableProperty height="0" width="975" visible="true">
+            <property name="Container ID" />
+          </tableProperty>
+          <tableProperty height="0" width="960" visible="true">
+            <property name="Amount" />
+          </tableProperty>
+          <tableProperty height="0" width="975" visible="true">
+            <property name="Barcode" />
+          </tableProperty>
+          <tableProperty height="0" width="450" visible="true">
+            <property name="Units" />
+          </tableProperty>
+          <tableProperty height="0" width="690" visible="true">
+            <property name="Purity" />
+          </tableProperty>
+          <tableProperty height="0" width="1425" visible="true">
+            <property name="Location Name" />
+          </tableProperty>
+          <tableProperty height="0" width="1515" visible="true">
+            <property name="Phys State" />
+          </tableProperty>
+          <tableProperty height="0" width="825" visible="true">
+            <property name="Comment" />
+          </tableProperty>
+        </tableSection>
+      </object>
+    </section>
+  </sectionSetView>
+</collection>

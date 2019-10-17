@@ -1,0 +1,42 @@
+[
+  {
+    "id": 39055,
+    "reactants": [
+      {
+        "smiles": "O=C(c1ccccc1O)C(Cc1ccccc1)Cc1ccccc1",
+        "label": "",
+        "text": "24 examples (50-92%)"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=c1c(Cc2ccccc2)c(-c2ccccc2)oc2ccccc12",
+        "label": "",
+        "text": "90% + H2"
+      },
+      {
+        "smiles": "[HH]",
+        "label": "",
+        "text": "H2"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC(=O)N(C)C",
+      "N#N",
+      "[O-]C(=O)[O-].[K+].[K+]",
+      "[Pd]"
+    ],
+    "description": "Pd/C, K2CO3\n\nDMA, N2, 150 °C, 12 h",
+    "temperature": "150 °C",
+    "yield": "90%;",
+    "time": "12 h",
+    "details": {
+    }
+  }
+]

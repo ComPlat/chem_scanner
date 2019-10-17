@@ -1,0 +1,71 @@
+[
+  {
+    "id": 2217,
+    "reactants": [
+      {
+        "smiles": "C=C(CO)CNC(=O)c1ccccc1",
+        "label": "10",
+        "text": "+ "
+      },
+      {
+        "smiles": "C=C[C@@H](CNC(=O)c1ccccc1Cl)NS(=O)(=O)c1ccc([N+](=O)[O-])cc1",
+        "label": "9",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "C=C[C@@H](CNC(=O)c1ccccc1Cl)N(CC(=C)CNC(=O)c1ccccc1)S(=O)(=O)c1ccc([N+](=O)[O-])cc1",
+        "label": "20",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "a",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 2218,
+    "reactants": [
+      {
+        "smiles": "C=C[C@@H](CNC(=O)c1ccccc1Cl)N(CC(=C)CNC(=O)c1ccccc1)S(=O)(=O)c1ccc([N+](=O)[O-])cc1",
+        "label": "20",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=C(NCC1=C[C@@H](CNC(=O)c2ccccc2Cl)N(S(=O)(=O)c2ccc([N+](=O)[O-])cc2)C1)c1ccccc1",
+        "label": "21",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "b",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  }
+]

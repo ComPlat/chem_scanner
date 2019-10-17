@@ -1,0 +1,75 @@
+[
+  {
+    "id": 2848,
+    "reactants": [
+      {
+        "smiles": "*C=C(S)S",
+        "label": "6",
+        "text": ": Ketene dithioacetal"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "*/C=C/C(*)=O",
+        "label": "3",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "*C(=O)CC(*)([H])C(*)=C(S)S",
+        "label": "4 5",
+        "text": "or"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC#N",
+      "[Cl-].[Cl-].[Cl-].[Cl-].[Ti+4]"
+    ],
+    "description": "R1 = EWG (CN or COR)\nMeCN, rt, 5 h\nTiCl4",
+    "temperature": "20°C ~ 25°C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 2849,
+    "reactants": [
+      {
+        "smiles": "*CC(S)=[SH+]",
+        "label": "1 2",
+        "text": ": 5-member ring \n: 6-member ring Dithianylium TFB"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "*/C=C/C(*)=O",
+        "label": "3",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "*C(=O)CC(*)([H])C(*)=C(S)S",
+        "label": "4 5",
+        "text": "or"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC#N"
+    ],
+    "description": "MeCN, rt, 30-60 min\nor 13 h\nR1 = EWG, aromatic \n       or aliphatic",
+    "temperature": "20°C ~ 25°C",
+    "yield": "",
+    "time": "30-60 min;13 h",
+    "details": {
+    }
+  }
+]

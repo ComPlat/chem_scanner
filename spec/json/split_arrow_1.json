@@ -1,0 +1,460 @@
+[
+  {
+    "id": 4458,
+    "reactants": [
+      {
+        "smiles": "*c1cc(N)n(*)n1",
+        "label": "16",
+        "text": ""
+      },
+      {
+        "smiles": "Cc1c(C(=O)/C=C/N(C)C)sc2nc3ccccc3n12",
+        "label": "38",
+        "text": " R = H, Ph"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "*c1cc(N/C=C/C(=O)c2sc3nc4ccccc4n3c2C)n(*)n1",
+        "label": "39",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC(=O)O",
+      "OS(=O)(=O)O"
+    ],
+    "description": "AcOH/H2SO4\nv/v = 50:1\nR1 = Me, Ph, 4-MeO-Ph",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 4461,
+    "reactants": [
+      {
+        "smiles": "*c1cc(N/C=C/C(=O)c2sc3nc4ccccc4n3c2C)n(*)n1",
+        "label": "39",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "*c1cc2nccc(-c3sc4nc5ccccc5n4c3C)n2n1",
+        "label": "41",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O"
+    ],
+    "description": "R = H\nR1 = Me, 4-OMe-Ph\n- H2O",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 4462,
+    "reactants": [
+      {
+        "smiles": "*c1cc(N/C=C/C(=O)c2sc3nc4ccccc4n3c2C)n(*)n1",
+        "label": "39",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "*c1nn(-c2ccccc2)c2nccc(-c3sc4nc5ccccc5n4c3C)c12",
+        "label": "40",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "R = Ph\nR1 = Ph, 4-OMe-Ph",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000041,
+    "reactants": [
+      {
+        "smiles": "Cc1c(C(=O)/C=C/N(C)C)sc2nc3ccccc3n12",
+        "label": "38",
+        "text": " R = H, Ph"
+      },
+      {
+        "smiles": "Cc1cc(N)nn1",
+        "label": "16",
+        "text": ". Generated with: R - H; R1 - Me"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "Cc1cc(N/C=C/C(=O)c2sc3nc4ccccc4n3c2C)nn1",
+        "label": "39",
+        "text": ". Generated with: R1 - Me; R - H"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC(=O)O",
+      "OS(=O)(=O)O"
+    ],
+    "description": "AcOH/H2SO4\nv/v = 50:1\nR1 = Me, Ph, 4-MeO-Ph",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000048,
+    "reactants": [
+      {
+        "smiles": "Cc1c(C(=O)/C=C/N(C)C)sc2nc3ccccc3n12",
+        "label": "38",
+        "text": " R = H, Ph"
+      },
+      {
+        "smiles": "Cc1cc(N)n(-c2ccccc2)n1",
+        "label": "16",
+        "text": ". Generated with: R - Ph; R1 - Me"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "Cc1cc(N/C=C/C(=O)c2sc3nc4ccccc4n3c2C)n(-c2ccccc2)n1",
+        "label": "39",
+        "text": ". Generated with: R1 - Me; R - Ph"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC(=O)O",
+      "OS(=O)(=O)O"
+    ],
+    "description": "AcOH/H2SO4\nv/v = 50:1\nR1 = Me, Ph, 4-MeO-Ph",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000055,
+    "reactants": [
+      {
+        "smiles": "Cc1c(C(=O)/C=C/N(C)C)sc2nc3ccccc3n12",
+        "label": "38",
+        "text": " R = H, Ph"
+      },
+      {
+        "smiles": "Nc1cc(-c2ccccc2)nn1",
+        "label": "16",
+        "text": ". Generated with: R - H; R1 - Ph"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "Cc1c(C(=O)/C=C/Nc2cc(-c3ccccc3)nn2)sc2nc3ccccc3n12",
+        "label": "39",
+        "text": ". Generated with: R1 - Ph; R - H"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC(=O)O",
+      "OS(=O)(=O)O"
+    ],
+    "description": "AcOH/H2SO4\nv/v = 50:1\nR1 = Me, Ph, 4-MeO-Ph",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000062,
+    "reactants": [
+      {
+        "smiles": "Cc1c(C(=O)/C=C/N(C)C)sc2nc3ccccc3n12",
+        "label": "38",
+        "text": " R = H, Ph"
+      },
+      {
+        "smiles": "Nc1cc(-c2ccccc2)nn1-c1ccccc1",
+        "label": "16",
+        "text": ". Generated with: R - Ph; R1 - Ph"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "Cc1c(C(=O)/C=C/Nc2cc(-c3ccccc3)nn2-c2ccccc2)sc2nc3ccccc3n12",
+        "label": "39",
+        "text": ". Generated with: R1 - Ph; R - Ph"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC(=O)O",
+      "OS(=O)(=O)O"
+    ],
+    "description": "AcOH/H2SO4\nv/v = 50:1\nR1 = Me, Ph, 4-MeO-Ph",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000069,
+    "reactants": [
+      {
+        "smiles": "COc1ccc(-c2cc(N)nn2)cc1",
+        "label": "16",
+        "text": ". Generated with: R - H; R1 - 4-MeO-Ph"
+      },
+      {
+        "smiles": "Cc1c(C(=O)/C=C/N(C)C)sc2nc3ccccc3n12",
+        "label": "38",
+        "text": " R = H, Ph"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "COc1ccc(-c2cc(N/C=C/C(=O)c3sc4nc5ccccc5n4c3C)nn2)cc1",
+        "label": "39",
+        "text": ". Generated with: R1 - 4-MeO-Ph; R - H"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC(=O)O",
+      "OS(=O)(=O)O"
+    ],
+    "description": "AcOH/H2SO4\nv/v = 50:1\nR1 = Me, Ph, 4-MeO-Ph",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000076,
+    "reactants": [
+      {
+        "smiles": "COc1ccc(-c2cc(N)n(-c3ccccc3)n2)cc1",
+        "label": "16",
+        "text": ". Generated with: R - Ph; R1 - 4-MeO-Ph"
+      },
+      {
+        "smiles": "Cc1c(C(=O)/C=C/N(C)C)sc2nc3ccccc3n12",
+        "label": "38",
+        "text": " R = H, Ph"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "COc1ccc(-c2cc(N/C=C/C(=O)c3sc4nc5ccccc5n4c3C)n(-c3ccccc3)n2)cc1",
+        "label": "39",
+        "text": ". Generated with: R1 - 4-MeO-Ph; R - Ph"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC(=O)O",
+      "OS(=O)(=O)O"
+    ],
+    "description": "AcOH/H2SO4\nv/v = 50:1\nR1 = Me, Ph, 4-MeO-Ph",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000088,
+    "reactants": [
+      {
+        "smiles": "Cc1cc(N/C=C/C(=O)c2sc3nc4ccccc4n3c2C)nn1",
+        "label": "39",
+        "text": ". Generated with: R1 - Me; R - H"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "Cc1cc2nccc(-c3sc4nc5ccccc5n4c3C)n2n1",
+        "label": "41",
+        "text": ". Generated with: R1 - Me"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O"
+    ],
+    "description": "R = H\nR1 = Me, 4-OMe-Ph\n- H2O",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000094,
+    "reactants": [
+      {
+        "smiles": "COc1ccc(-c2cc(N/C=C/C(=O)c3sc4nc5ccccc5n4c3C)nn2)cc1",
+        "label": "39",
+        "text": ". Generated with: R1 - 4-OMe-Ph; R - H"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "COc1ccc(-c2cc3nccc(-c4sc5nc6ccccc6n5c4C)n3n2)cc1",
+        "label": "41",
+        "text": ". Generated with: R1 - 4-OMe-Ph"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O"
+    ],
+    "description": "R = H\nR1 = Me, 4-OMe-Ph\n- H2O",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000104,
+    "reactants": [
+      {
+        "smiles": "Cc1c(C(=O)/C=C/Nc2cc(-c3ccccc3)nn2-c2ccccc2)sc2nc3ccccc3n12",
+        "label": "39",
+        "text": ". Generated with: R1 - Ph; R - Ph"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "Cc1c(-c2ccnc3c2c(-c2ccccc2)nn3-c2ccccc2)sc2nc3ccccc3n12",
+        "label": "40",
+        "text": ". Generated with: R1 - Ph"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "R = Ph\nR1 = Ph, 4-OMe-Ph",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 10000110,
+    "reactants": [
+      {
+        "smiles": "COc1ccc(-c2cc(N/C=C/C(=O)c3sc4nc5ccccc5n4c3C)n(-c3ccccc3)n2)cc1",
+        "label": "39",
+        "text": ". Generated with: R1 - 4-OMe-Ph; R - Ph"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "COc1ccc(-c2nn(-c3ccccc3)c3nccc(-c4sc5nc6ccccc6n5c4C)c23)cc1",
+        "label": "40",
+        "text": ". Generated with: R1 - 4-OMe-Ph"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "R = Ph\nR1 = Ph, 4-OMe-Ph",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  }
+]

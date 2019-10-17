@@ -1,0 +1,281 @@
+[
+  {
+    "id": 167380,
+    "id_cdxml": 167453,
+    "reactants": [
+      {
+        "smiles": "CON(C)C(=O)C[C@H]1Cc2cccc(C)c2O1",
+        "label": "6",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "Cc1cccc2c1O[C@@H](CC(=O)C(=[N+]=[N-])C(=O)OC(C)(C)C)C2",
+        "label": "14",
+        "text": ""
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "AcOt-Bu\nLHMDS, THF\n-40 °C\n\n",
+        "time": "",
+        "temperature": "-40 °C",
+        "reagents": [
+          "CC(=O)OC(C)(C)C",
+          "C[Si]([N-][Si](C)(C)C)(C)C.[Li+]",
+          "C1CCCO1"
+        ]
+      },
+      {
+        "number": 2,
+        "description": "ADMP, K2HPO4\nCH3CN/THF, 0 °C",
+        "time": "",
+        "temperature": "0 °C",
+        "reagents": [
+          "C1CCCO1",
+          "[O-]P(=O)(O)[O-].[K+].[K+]",
+          "CC#N"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "C1CCCO1",
+      "CC#N",
+      "CC(=O)OC(C)(C)C",
+      "C[Si]([N-][Si](C)(C)C)(C)C.[Li+]",
+      "[O-]P(=O)(O)[O-].[K+].[K+]"
+    ],
+    "description": "1. AcOt-Bu\nLHMDS, THF\n-40 °C\n\n2. ADMP, K2HPO4\nCH3CN/THF, 0 °C",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 167398,
+    "id_cdxml": 167457,
+    "reactants": [
+      {
+        "smiles": "[H][C@]12C[C@H]3OC(C)OC[C@@H]3[C@@]1([H])c1cccc(CBr)c1O2",
+        "label": "17",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@H]3OC(C)OC[C@@H]3[C@@]1([H])c1cccc(CCCC(=O)OC)c1O2",
+        "label": "18",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "ref. [22]",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 167400,
+    "id_cdxml": 167459,
+    "reactants": [
+      {
+        "smiles": "[H][C@]12C[C@H]3OC(C)OC[C@@H]3[C@@]1([H])c1cccc(CCCC(=O)OC)c1O2",
+        "label": "18",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 167401,
+    "id_cdxml": 167460,
+    "reactants": [
+      {
+        "smiles": "[H][C@]12C[C@H]3OC(C)OC[C@@H]3[C@@]1([H])c1cccc(CCCC(=O)OC)c1O2",
+        "label": "18",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 167448,
+    "id_cdxml": 167471,
+    "reactants": [
+      {
+        "smiles": "[H][C@]12C[C@@H](O)[C@H](C(=O)OC(C)(C)C)[C@@]1([H])c1cccc(C)c1O2",
+        "label": "15",
+        "text": " 1 2"
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@H]3OC(C)OC[C@@H]3[C@@]1([H])c1cccc(C)c1O2",
+        "label": "16",
+        "text": ""
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "LiBH4, Et2O, rt\n",
+        "time": "",
+        "temperature": "20°C ~ 25°C",
+        "reagents": [
+          "[Li+].[BH4-]",
+          "CCOCC"
+        ]
+      },
+      {
+        "number": 2,
+        "description": "CH3CH(OEt)2\n    pTsOH·H2O, THF, 60 °C\n    78% (2 steps)",
+        "time": "",
+        "temperature": "60 °C",
+        "reagents": [
+          "CCOC(OCC)C",
+          "Cc1ccc(cc1)S(=O)(=O)O",
+          "O",
+          "C1CCCO1"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "C1CCCO1",
+      "CCOC(OCC)C",
+      "CCOCC",
+      "Cc1ccc(cc1)S(=O)(=O)O",
+      "O",
+      "[Li+].[BH4-]"
+    ],
+    "description": "1. LiBH4, Et2O, rt\n2. CH3CH(OEt)2\n    pTsOH·H2O, THF, 60 °C\n    78% (2 steps)",
+    "temperature": "",
+    "yield": "78%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 167449,
+    "id_cdxml": 167472,
+    "reactants": [
+      {
+        "smiles": "Cc1cccc2c1O[C@@H](CC(=O)C(=[N+]=[N-])C(=O)OC(C)(C)C)C2",
+        "label": "14",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@@H](O)[C@H](C(=O)OC(C)(C)C)[C@@]1([H])c1cccc(C)c1O2",
+        "label": "15",
+        "text": " 1 2"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC(=O)O[Rh]([Rh](OC(=O)C)OC(=O)C)OC(=O)C",
+      "CO",
+      "ClCCl",
+      "[Na+].[BH4-]"
+    ],
+    "description": "2. NaBH4, MeOH\n   -40 °C to rt\n    60% \n   (dr > 18:1, 4 steps)\n1. Rh2(OAc)4 \n    (1 mol %)\n    CH2Cl2, rt",
+    "temperature": "-40 °C; 20°C ~ 25°C;20°C ~ 25°C",
+    "yield": "60%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 167450,
+    "id_cdxml": 167473,
+    "reactants": [
+      {
+        "smiles": "[H][C@]12C[C@H]3OC(C)OC[C@@H]3[C@@]1([H])c1cccc(C)c1O2",
+        "label": "16",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "[H][C@]12C[C@H]3OC(C)OC[C@@H]3[C@@]1([H])c1cccc(CBr)c1O2",
+        "label": "17",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "BrN1C(=O)CCC1=O",
+      "ClC(Cl)(Cl)Cl",
+      "N#CC(/N=N/C(C#N)(C)C)(C)C"
+    ],
+    "description": "AIBN, NBS\nCCl4, reflux\n14%",
+    "temperature": "",
+    "yield": "14%",
+    "time": "",
+    "details": {
+    }
+  }
+]

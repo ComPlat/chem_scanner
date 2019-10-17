@@ -1,0 +1,127 @@
+{
+  "1382247": [
+    {
+      "id": 4144,
+      "reactants": [
+        {
+          "smiles": "O=C1CCCC2C1=Cc1ccccc1O2",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "OCCO",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "products": [
+        {
+          "smiles": "C1CC2Oc3ccccc3C=C2C2(C1)OCCO2",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "OP(=O)(O)O"
+      ],
+      "description": "H3PO4, MePh, reflux, Dean-Starck trap, 17 h, 71% (based on recocvered educt)",
+      "temperature": "",
+      "yield": "71%",
+      "time": "17 h",
+      "details": {
+      }
+    },
+    {
+      "id": 4256,
+      "reactants": [
+        {
+          "smiles": "C1CC2Oc3ccccc3C=C2C2(C1)OCCO2",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "COC1c2ccccc2OC2C1(Br)C1(CCC2)OCCO1",
+          "label": "",
+          "text": "32 %"
+        },
+        {
+          "smiles": "COC1c2ccccc2OC2C1(Br)C1(C[CH+]C2)OCCO1",
+          "label": " ",
+          "text": "+ 54 %"
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "BrN1C(=O)CCC1=O",
+        "CO",
+        "ClCCl"
+      ],
+      "description": "1 equiv.NBS, \nCH2Cl2/MeOH\n-78 °C, 5 h",
+      "temperature": "-78 °C",
+      "yield": "54 %;32 %",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 4417,
+      "reactants": [
+        {
+          "smiles": "COC1c2ccccc2OC2C1(Br)C1(C[CH+]C2)OCCO1",
+          "label": " ",
+          "text": "+ 54 %"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "COC1c2ccccc2OC2=C1C1(CCC2)OCCO1",
+          "label": "",
+          "text": "73%, + 18% educt"
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CN2CCN1CC2"
+      ],
+      "description": "2.5 Equiv. \nDABCO, 4 d",
+      "temperature": "",
+      "yield": "73%",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 4420,
+      "reactants": [
+        {
+          "smiles": "COC1c2ccccc2OC2C1(Br)C1(CCC2)OCCO1",
+          "label": "",
+          "text": "32 %"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+[
+  {
+    "id": 2543,
+    "id_cdxml": 2551,
+    "reactants": [
+      {
+        "smiles": "Cc1ccc(N2CCNCC2)cc1",
+        "label": "16",
+        "text": "+ "
+      },
+      {
+        "smiles": "O=C(O)C[C@@H]1NC(=O)c2ccccc21",
+        "label": "9",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "Cc1ccc(N2CCN(C(=O)C[C@@H]3NC(=O)c4ccccc43)CC2)cc1",
+        "label": "17",
+        "text": "yield; 87%\n95% ee"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "C1CCCO1",
+      "CCN(CC)CC",
+      "CCN=C=NCCCN(C)C",
+      "On1nnc2c1cccc2"
+    ],
+    "description": "EDC, HOBt, Et3N\nTHF, 16 h",
+    "temperature": "",
+    "yield": "87%",
+    "time": "16 h",
+    "details": {
+    }
+  },
+  {
+    "id": 2544,
+    "id_cdxml": 2552,
+    "reactants": [
+      {
+        "smiles": "COC(=O)C[C@@H]1NC(=O)c2ccccc21",
+        "label": "12",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "CN(C)CCN",
+        "label": "20",
+        "text": "ligand "
+      },
+      {
+        "smiles": "Ic1ccccn1",
+        "label": "19",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "COC(=O)C[C@H]1c2ccccc2C(=O)N1c1ccccn1",
+        "label": "22",
+        "text": "yield 78%, 95% ee "
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O1CCOCC1",
+      "[Cu+].[I-]",
+      "[O-]P(=O)([O-])[O-].[K+].[K+].[K+]"
+    ],
+    "description": "CuI, ligand, K3PO4\ndioxane, 80 °C, 24 h",
+    "temperature": "80 °C",
+    "yield": "78%",
+    "time": "24 h",
+    "details": {
+    }
+  },
+  {
+    "id": 2545,
+    "id_cdxml": 2553,
+    "reactants": [
+      {
+        "smiles": "Cc1ccc(N2CCN(C(=O)C[C@@H]3NC(=O)c4ccccc43)CC2)cc1",
+        "label": "17",
+        "text": "yield; 87%\n95% ee"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "CN(C)CCN",
+        "label": "20",
+        "text": "ligand "
+      },
+      {
+        "smiles": "O=[N+]([O-])c1ccc(I)nc1",
+        "label": "18",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "Cc1ccc(N2CCN(C(=O)C[C@H]3c4ccccc4C(=O)N3c3ccc([N+](=O)[O-])cn3)CC2)cc1",
+        "label": "21",
+        "text": "yield 75%, 95% ee "
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O1CCOCC1",
+      "[Cu+].[I-]",
+      "[O-]P(=O)([O-])[O-].[K+].[K+].[K+]"
+    ],
+    "description": "CuI, ligand, K3PO4\ndioxane,  80 °C, 24 h",
+    "temperature": "80 °C",
+    "yield": "75%",
+    "time": "24 h",
+    "details": {
+    }
+  }
+]

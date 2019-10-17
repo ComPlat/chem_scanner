@@ -1,0 +1,207 @@
+{
+  "11249710": [
+    {
+      "id": 241,
+      "reactants": [
+        {
+          "smiles": "O=CCOCc1ccccc1",
+          "label": "",
+          "text": "a)"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "C[C@H](COCc1ccccc1)O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 302,
+      "reactants": [
+        {
+          "smiles": "C[C@H](COCc1ccccc1)O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "OC[C@H](O)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 303,
+      "reactants": [
+        {
+          "smiles": "OC[C@H](O)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "OC(=O)[C@H](O)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 377,
+      "reactants": [
+        {
+          "smiles": "COC(C=O)(OC)OC",
+          "label": "",
+          "text": "b)"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "COC([C@H](O)C)(OC)OC",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 437,
+      "reactants": [
+        {
+          "smiles": "O=CC12OCC(O2)(CO1)C",
+          "label": "",
+          "text": "c)"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "C[C@H](C12OCC(O2)(CO1)C)O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 452,
+      "reactants": [
+        {
+          "smiles": "COC([C@H](O)C)(OC)OC",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "OC(=O)[C@H](O)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 467,
+      "reactants": [
+        {
+          "smiles": "C[C@H](C12OCC(O2)(CO1)C)O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "OC(=O)[C@H](O)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ]
+}

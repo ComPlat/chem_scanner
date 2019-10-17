@@ -1,0 +1,167 @@
+{
+  "253012": [
+    {
+      "id": 981,
+      "reactants": [
+        {
+          "smiles": "Brc1cccs1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "c1csc(c1)c1cccs1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CS(=O)C",
+        "[O-]C(=O)[O-].[K+].[K+]",
+        "c1ccc(cc1)P(c1ccccc1)C1=CC(C=C1)[Fe]C1C=CC(=C1)P(c1ccccc1)c1ccccc1.Cl[Pd]Cl.ClCCl"
+      ],
+      "description": "Bispinacolato-dibor,\nPd(dppf)Cl2,\nK2CO3, DMSO\n80°C, 16 h",
+      "temperature": "80°C",
+      "yield": "",
+      "time": "16 h",
+      "details": {
+      }
+    }
+  ],
+  "282424": [
+    {
+      "id": 981,
+      "reactants": [
+        {
+          "smiles": "Brc1ccccn1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "c1ccc(nc1)c1ccccn1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CS(=O)C",
+        "[O-]C(=O)[O-].[K+].[K+]",
+        "c1ccc(cc1)P(c1ccccc1)C1=CC(C=C1)[Fe]C1C=CC(=C1)P(c1ccccc1)c1ccccc1.Cl[Pd]Cl.ClCCl"
+      ],
+      "description": "Bispinacolato-dibor,\nPd(dppf)Cl2,\nK2CO3, DMSO\n80°C, 16 h",
+      "temperature": "80°C",
+      "yield": "",
+      "time": "16 h",
+      "details": {
+      }
+    }
+  ],
+  "369136": [
+    {
+      "id": 981,
+      "reactants": [
+        {
+          "smiles": "Brc1ccc2c(c1)cccc2",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "c1ccc2c(c1)cc(cc2)c1ccc2c(c1)cccc2",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CS(=O)C",
+        "[O-]C(=O)[O-].[K+].[K+]",
+        "c1ccc(cc1)P(c1ccccc1)C1=CC(C=C1)[Fe]C1C=CC(=C1)P(c1ccccc1)c1ccccc1.Cl[Pd]Cl.ClCCl"
+      ],
+      "description": "Bispinacolato-dibor,\nPd(dppf)Cl2,\nK2CO3, DMSO\n80°C, 16 h",
+      "temperature": "80°C",
+      "yield": "",
+      "time": "16 h",
+      "details": {
+      }
+    }
+  ],
+  "383848": [
+    {
+      "id": 981,
+      "reactants": [
+        {
+          "smiles": "COc1ccccc1Br",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "COc1ccccc1c1ccccc1OC",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CS(=O)C",
+        "[O-]C(=O)[O-].[K+].[K+]",
+        "c1ccc(cc1)P(c1ccccc1)C1=CC(C=C1)[Fe]C1C=CC(=C1)P(c1ccccc1)c1ccccc1.Cl[Pd]Cl.ClCCl"
+      ],
+      "description": "Bispinacolato-dibor,\nPd(dppf)Cl2,\nK2CO3, DMSO\n80°C, 16 h",
+      "temperature": "80°C",
+      "yield": "",
+      "time": "16 h",
+      "details": {
+      }
+    }
+  ],
+  "2602510": [
+    {
+      "id": 981,
+      "reactants": [
+        {
+          "smiles": "Brc1ccccc1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "c1ccc(cc1)c1ccccc1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CS(=O)C",
+        "[O-]C(=O)[O-].[K+].[K+]",
+        "c1ccc(cc1)P(c1ccccc1)C1=CC(C=C1)[Fe]C1C=CC(=C1)P(c1ccccc1)c1ccccc1.Cl[Pd]Cl.ClCCl"
+      ],
+      "description": "Bispinacolato-dibor,\nPd(dppf)Cl2,\nK2CO3, DMSO\n80°C, 16 h",
+      "temperature": "80°C",
+      "yield": "",
+      "time": "16 h",
+      "details": {
+      }
+    }
+  ]
+}

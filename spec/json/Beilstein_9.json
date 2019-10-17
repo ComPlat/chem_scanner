@@ -1,0 +1,212 @@
+[
+  {
+    "id": 7266,
+    "id_cdxml": 7278,
+    "reactants": [
+      {
+        "smiles": "Nc1ccccn1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "CCOC(=O)C(=O)CBr",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CCOC(=O)c1cn2ccccc2n1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CCO"
+    ],
+    "description": "EtOH, reflux\n3-6 h",
+    "temperature": "",
+    "yield": "",
+    "time": "3-6 h",
+    "details": {
+    }
+  },
+  {
+    "id": 7267,
+    "id_cdxml": 7279,
+    "reactants": [
+      {
+        "smiles": "CCOC(=O)c1cn2ccccc2n1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "O=C(O)c1cn2ccccc2n1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CCO",
+      "O",
+      "[K+].[OH-]"
+    ],
+    "description": "KOH\n\nEtOH/H2O",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 7268,
+    "id_cdxml": 7280,
+    "reactants": [
+      {
+        "smiles": "N#Cc1ccccc1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Cl.NO",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "N=C(NO)c1ccccc1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CCO",
+      "Cl",
+      "[Na+].[OH-]"
+    ],
+    "description": "NaOH, EtOH\nreflux\nNH2O·HCl",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 7269,
+    "id_cdxml": 7281,
+    "reactants": [
+      {
+        "smiles": "O=C(O)c1cn2ccccc2n1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "N=C(NOC(=O)c1cn2ccccc2n1)c1ccccc1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "coupling\nreagent",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 7270,
+    "id_cdxml": 7282,
+    "reactants": [
+      {
+        "smiles": "N=C(NO)c1ccccc1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "N=C(NOC(=O)c1cn2ccccc2n1)c1ccccc1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 7271,
+    "id_cdxml": 7283,
+    "reactants": [
+      {
+        "smiles": "N=C(NOC(=O)c1cn2ccccc2n1)c1ccccc1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "c1ccc(-c2noc(-c3cn4ccccc4n3)n2)cc1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+
+    ],
+    "description": "intramolecular \ncyclodehydration",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  }
+]

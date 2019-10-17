@@ -1,0 +1,35 @@
+[
+  {
+    "id": 3687,
+    "id_cdxml": 3687,
+    "reactants": [
+      {
+        "smiles": "F[B-](F)(F)F.*CC1=[S+]CCS1",
+        "label": "1",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "O=[S@@](C(C)(C)C)/N=C(\\c1ccccc1)/C=C/c1ccccc1",
+        "label": "14",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CCC(=C1SCCS1)C(c1ccccc1)CC(=O)c1ccccc1",
+        "label": "15",
+        "text": ": 33%, 80% ee"
+      }
+    ],
+    "steps": [], "reagent_smiles": [
+      "O"
+    ],
+    "description": "1)\n2) H2O",
+    "temperature": "",
+    "yield": "33%",
+    "time": "",
+    "details": null
+  }
+]

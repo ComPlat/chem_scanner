@@ -1,0 +1,444 @@
+{
+  "oleObject1": [
+    {
+      "id": 2889,
+      "reactants": [
+        {
+          "smiles": "ClCC1(CCl)C(C1(Br)Br)(*)c1ccccc1",
+          "label": "52",
+          "text": ""
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "*C1(c2ccccc2)C23C1(C2)C3",
+          "label": "41",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CCOCC",
+        "[Li]C"
+      ],
+      "description": "a: R = H\nb: R = Me \nc: R = Ph; -40 °C bis 0 °C, 1.5 h\nb: -\n2.00 Äquiv. MeLi\nEt2O/Pentan",
+      "temperature": "-40 °C",
+      "yield": "",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 2890,
+      "reactants": [
+        {
+          "smiles": "ClCC(=C(c1ccccc1)*)CCl",
+          "label": "51",
+          "text": ""
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "ClCC1(CCl)C(C1(Br)Br)(*)c1ccccc1",
+          "label": "52",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "BrC(Br)Br",
+        "[Na+].[OH-]"
+      ],
+      "description": "2.00 Äquiv. CHBr3,\nNaOH,\n1 mol% DB-18-Krone-6,\n3 mol% Pinakol\n40 °C, 4 d\na: -, b: 21%",
+      "temperature": "40 °C",
+      "yield": "21%",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 2891,
+      "reactants": [
+        {
+          "smiles": "OCC(=C(c1ccccc1)*)CO",
+          "label": "50",
+          "text": ""
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "ClCC(=C(c1ccccc1)*)CCl",
+          "label": "51",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CCCO1",
+        "ClC(Cl)(Cl)Cl",
+        "ClS(=O)Cl",
+        "O=CN(C)C"
+      ],
+      "description": "B) 3.00 Äquiv. Ph3P, \n5.00 Äquiv. CCl4,\nTHF, reflux, 2 h\na: 27%, b: 43%\nA) 5.00 Äquiv. SOCl2, DMF,\n0 °C bis RT, 2 h\na: 79%, b: 30%",
+      "temperature": "0 °C; 20°C ~ 25°C",
+      "yield": "27%;79%",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 2892,
+      "reactants": [
+        {
+          "smiles": "CCOC(=O)C(=C(c1ccccc1)*)C(=O)OCC",
+          "label": "49",
+          "text": ""
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "OCC(=C(c1ccccc1)*)CO",
+          "label": "50",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CC(C[Al+]CC(C)C)C.[H-]",
+        "Cc1ccccc1"
+      ],
+      "description": "-30 °C, 3 h\na: 64%, b: 49%\n4.50 Äquiv. DIBAL-H,\nToluol",
+      "temperature": "-30 °C",
+      "yield": "64%",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000020,
+      "reactants": [
+        {
+          "smiles": "ClCC1(CCl)C(C1(Br)Br)c1ccccc1",
+          "label": "52",
+          "text": " R: H; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "c1ccc(cc1)C1C23C1(C2)C3",
+          "label": "41",
+          "text": " R: H; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CCOCC",
+        "[Li]C"
+      ],
+      "description": "R: H; -40 °C bis 0 °C, 1.5 h\nb: - 2.00 Äquiv. MeLi\nEt2O/Pentan",
+      "temperature": "-40 °C",
+      "yield": "",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000024,
+      "reactants": [
+        {
+          "smiles": "ClCC(=Cc1ccccc1)CCl",
+          "label": "51",
+          "text": " R: H; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "ClCC1(CCl)C(C1(Br)Br)c1ccccc1",
+          "label": "52",
+          "text": " R: H; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "BrC(Br)Br",
+        "[Na+].[OH-]"
+      ],
+      "description": "R: H; 2.00 Äquiv. CHBr3,\nNaOH,\n1 mol% DB-18-Krone-6,\n3 mol% Pinakol 40 °C, 4 d\na: -, b: 21%",
+      "temperature": "40 °C",
+      "yield": "21%",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000027,
+      "reactants": [
+        {
+          "smiles": "OCC(=Cc1ccccc1)CO",
+          "label": "50",
+          "text": " R: H; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "ClCC(=Cc1ccccc1)CCl",
+          "label": "51",
+          "text": " R: H; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CCCO1",
+        "ClC(Cl)(Cl)Cl",
+        "ClS(=O)Cl",
+        "O=CN(C)C"
+      ],
+      "description": "R: H; B) 3.00 Äquiv. Ph3P, \n5.00 Äquiv. CCl4,\nTHF, reflux, 2 h\na: 27%, b: 43% A) 5.00 Äquiv. SOCl2, DMF,\n0 °C bis RT, 2 h\na: 79%, b: 30%",
+      "temperature": "0 °C; 20°C ~ 25°C",
+      "yield": "27%;79%",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000030,
+      "reactants": [
+        {
+          "smiles": "CCOC(=O)C(=Cc1ccccc1)C(=O)OCC",
+          "label": "49",
+          "text": " R: H; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "OCC(=Cc1ccccc1)CO",
+          "label": "50",
+          "text": " R: H; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CC(C[Al+]CC(C)C)C.[H-]",
+        "Cc1ccccc1"
+      ],
+      "description": "R: H; -30 °C, 3 h\na: 64%, b: 49% 4.50 Äquiv. DIBAL-H,\nToluol",
+      "temperature": "-30 °C",
+      "yield": "64%",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000033,
+      "reactants": [
+        {
+          "smiles": "ClCC1(CCl)C(C1(Br)Br)(C)c1ccccc1",
+          "label": "52",
+          "text": " R: Me; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "CC1(c2ccccc2)C23C1(C2)C3",
+          "label": "41",
+          "text": " R: Me; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CCOCC",
+        "[Li]C"
+      ],
+      "description": "R: Me; -40 °C bis 0 °C, 1.5 h\nb: - 2.00 Äquiv. MeLi\nEt2O/Pentan",
+      "temperature": "-40 °C",
+      "yield": "",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000037,
+      "reactants": [
+        {
+          "smiles": "ClCC(=C(c1ccccc1)C)CCl",
+          "label": "51",
+          "text": " R: Me; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "ClCC1(CCl)C(C1(Br)Br)(C)c1ccccc1",
+          "label": "52",
+          "text": " R: Me; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "BrC(Br)Br",
+        "[Na+].[OH-]"
+      ],
+      "description": "R: Me; 2.00 Äquiv. CHBr3,\nNaOH,\n1 mol% DB-18-Krone-6,\n3 mol% Pinakol 40 °C, 4 d\na: -, b: 21%",
+      "temperature": "40 °C",
+      "yield": "21%",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000040,
+      "reactants": [
+        {
+          "smiles": "OCC(=C(c1ccccc1)C)CO",
+          "label": "50",
+          "text": " R: Me; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "ClCC(=C(c1ccccc1)C)CCl",
+          "label": "51",
+          "text": " R: Me; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CCCO1",
+        "ClC(Cl)(Cl)Cl",
+        "ClS(=O)Cl",
+        "O=CN(C)C"
+      ],
+      "description": "R: Me; B) 3.00 Äquiv. Ph3P, \n5.00 Äquiv. CCl4,\nTHF, reflux, 2 h\na: 27%, b: 43% A) 5.00 Äquiv. SOCl2, DMF,\n0 °C bis RT, 2 h\na: 79%, b: 30%",
+      "temperature": "0 °C; 20°C ~ 25°C",
+      "yield": "27%;79%",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000043,
+      "reactants": [
+        {
+          "smiles": "CCOC(=O)C(=C(c1ccccc1)C)C(=O)OCC",
+          "label": "49",
+          "text": " R: Me; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "OCC(=C(c1ccccc1)C)CO",
+          "label": "50",
+          "text": " R: Me; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CC(C[Al+]CC(C)C)C.[H-]",
+        "Cc1ccccc1"
+      ],
+      "description": "R: Me; -30 °C, 3 h\na: 64%, b: 49% 4.50 Äquiv. DIBAL-H,\nToluol",
+      "temperature": "-30 °C",
+      "yield": "64%",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000046,
+      "reactants": [
+        {
+          "smiles": "ClCC1(CCl)C(C1(Br)Br)(c1ccccc1)c1ccccc1",
+          "label": "52",
+          "text": " R: Ph; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "c1ccc(cc1)C1(c2ccccc2)C23C1(C2)C3",
+          "label": "41",
+          "text": " R: Ph; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CCOCC",
+        "[Li]C"
+      ],
+      "description": "R: Ph; -40 °C bis 0 °C, 1.5 h\nb: - 2.00 Äquiv. MeLi\nEt2O/Pentan",
+      "temperature": "-40 °C",
+      "yield": "",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000050,
+      "reactants": [
+        {
+          "smiles": "ClCC(=C(c1ccccc1)c1ccccc1)CCl",
+          "label": "51",
+          "text": " R: Ph; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "ClCC1(CCl)C(C1(Br)Br)(c1ccccc1)c1ccccc1",
+          "label": "52",
+          "text": " R: Ph; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "BrC(Br)Br",
+        "[Na+].[OH-]"
+      ],
+      "description": "R: Ph; 2.00 Äquiv. CHBr3,\nNaOH,\n1 mol% DB-18-Krone-6,\n3 mol% Pinakol 40 °C, 4 d\na: -, b: 21%",
+      "temperature": "40 °C",
+      "yield": "21%",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000053,
+      "reactants": [
+        {
+          "smiles": "OCC(=C(c1ccccc1)c1ccccc1)CO",
+          "label": "50",
+          "text": " R: Ph; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "ClCC(=C(c1ccccc1)c1ccccc1)CCl",
+          "label": "51",
+          "text": " R: Ph; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CCCO1",
+        "ClC(Cl)(Cl)Cl",
+        "ClS(=O)Cl",
+        "O=CN(C)C"
+      ],
+      "description": "R: Ph; B) 3.00 Äquiv. Ph3P, \n5.00 Äquiv. CCl4,\nTHF, reflux, 2 h\na: 27%, b: 43% A) 5.00 Äquiv. SOCl2, DMF,\n0 °C bis RT, 2 h\na: 79%, b: 30%",
+      "temperature": "0 °C; 20°C ~ 25°C",
+      "yield": "27%;79%",
+      "time": "",
+      "details": null
+    },
+    {
+      "id": 10000056,
+      "reactants": [
+        {
+          "smiles": "CCOC(=O)C(=C(c1ccccc1)c1ccccc1)C(=O)OCC",
+          "label": "49",
+          "text": " R: Ph; "
+        }
+      ],
+      "reagents": [],
+      "products": [
+        {
+          "smiles": "OCC(=C(c1ccccc1)c1ccccc1)CO",
+          "label": "50",
+          "text": " R: Ph; "
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CC(C[Al+]CC(C)C)C.[H-]",
+        "Cc1ccccc1"
+      ],
+      "description": "R: Ph; -30 °C, 3 h\na: 64%, b: 49% 4.50 Äquiv. DIBAL-H,\nToluol",
+      "temperature": "-30 °C",
+      "yield": "64%",
+      "time": "",
+      "details": null
+    }
+  ]
+}

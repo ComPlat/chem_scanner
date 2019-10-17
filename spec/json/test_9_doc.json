@@ -1,0 +1,138 @@
+{
+  "481312": [
+    {
+      "id": 35,
+      "reactants": [
+        {
+          "smiles": "[O-][N+](=O)c1ccc(c(c1)C(=O)O)N",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "OC(=O)c1cc(ccc1/N=N/N1CCCC1)[N+](=O)[O-]",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "Cl",
+        "[K+].[OH-]",
+        "[O-]N=O.[Na+]"
+      ],
+      "description": "1. KOH, NaNO2\n2. HCl\n3. KAc, Pyrollidin",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ],
+  "750425": [
+    {
+      "id": 129,
+      "reactants": [
+        {
+          "smiles": "CCCl",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "OC(=O)c1cc(ccc1/N=N/N1CCCC1)[N+](=O)[O-]",
+          "label": "",
+          "text": "+"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "CCOC(=O)c1cc(ccc1/N=N/N1CCCC1)[N+](=O)[O-]",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "O=CN(C)C",
+        "[O-]C(=O)[O-].[Cs+].[Cs+]"
+      ],
+      "description": "Cs2CO3\nDMF",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ],
+  "419637": [
+    {
+      "id": 35,
+      "reactants": [
+        {
+          "smiles": "CCNC(c1ccccc1)c1ccccc1",
+          "label": "",
+          "text": "MS 056"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "CC[N+](=C(c1ccccc1)c1ccccc1)[O-]",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CCCO1",
+        "CO",
+        "O",
+        "OO"
+      ],
+      "description": "THF/MeOH  1:1\nH2O2 35%-ig, 4,4 eq.\nNaWO4 * 2 H2O\nRT, 24 h.",
+      "temperature": "20°C ~ 25°C",
+      "yield": "",
+      "time": "24 h",
+      "details": {
+      }
+    }
+  ],
+  "892149": [
+    {
+      "id": 365,
+      "reactants": [
+        {
+          "smiles": "CCN(C(c1ccccc1)c1ccccc1)C(=O)c1cc(ccc1N)[N+](=O)[O-]",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "CCN(C(=O)c1cc(ccc1[N+]#N)[N+](=O)[O-])C(c1ccccc1)c1ccccc1",
+          "label": "",
+          "text": "BF4-"
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CCCO1",
+        "FB(F)F"
+      ],
+      "description": "t.Bu-NO2 50 eq.\nTHF, -78 °C\nBF3 OEt2   50 eq.",
+      "temperature": "-78 °C",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ]
+}

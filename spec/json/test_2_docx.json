@@ -1,0 +1,116 @@
+{
+  "oleObject1": [
+    {
+      "id": 24639,
+      "reactants": [
+        {
+          "smiles": "O=C1c2cccc(c2C(=O)N1c1ccccc1c1ccccc1)n1c2ccc(cc2c2c1cccc2)c1n[nH]nn1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "CC(=O)Cl",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "products": [
+        {
+          "smiles": "Cc1nnc(o1)c1ccc2c(c1)c1ccccc1n2c1cccc2c1C(=O)N(C2=O)c1ccccc1c1ccccc1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "ClC(Cl)Cl"
+      ],
+      "description": "CHCl3",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ],
+  "oleObject2": [
+    {
+      "id": 24830,
+      "reactants": [
+        {
+          "smiles": "Fc1cccc2c1C(=O)N(C2=O)c1ccccc1c1ccccc1",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "Oc1ccc2c(c1)c1ccccc1[nH]2",
+          "label": "",
+          "text": "+"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=C1c2cccc(c2C(=O)N1c1ccccc1c1ccccc1)Oc1ccc2c(c1)c1ccccc1[nH]2",
+          "label": "A",
+          "text": ""
+        },
+        {
+          "smiles": "Oc1ccc2c(c1)c1ccccc1n2c1cccc2c1C(=O)N(C2=O)c1ccccc1c1ccccc1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CS(=O)C",
+        "[O-]P(=O)([O-])[O-].[K+].[K+].[K+]"
+      ],
+      "description": "DMSO, 110 °C\nK3PO4",
+      "temperature": "110 °C",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ],
+  "oleObject3": [
+    {
+      "id": 24695,
+      "reactants": [
+        {
+          "smiles": "Oc1ccc2c(c1)c1ccccc1[nH]2",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "C[Si](C(C)(C)C)(Cl)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "products": [
+        {
+          "smiles": "C[Si](C(C)(C)C)(Oc1ccc2c(c1)c1ccccc1[nH]2)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "CCN(CC)CC",
+        "CN(c1ccncc1)C",
+        "ClCCl"
+      ],
+      "description": "DCM\nTBDMSCl, Et3N, DMAP",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ]
+}

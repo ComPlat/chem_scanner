@@ -1,0 +1,66 @@
+[
+  {
+    "id": 38654,
+    "reactants": [
+      {
+        "smiles": "c1ccc2[nH]ccc2c1",
+        "label": "",
+        "text": "21 examples (up to 91%)"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "CN(OS(=O)(=O)c1ccccc1)C(=O)c1ccccc1",
+        "label": "",
+        "text": "amide ="
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CN(C(=O)c1ccccc1)c1c[nH]c2ccccc12",
+        "label": "",
+        "text": "76%"
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "tBuONa, DMF, rt, 0.5 h\n",
+        "time": "",
+        "temperature": "20°C ~ 25°C",
+        "reagents": [
+          "O=CN(C)C"
+        ]
+      },
+      {
+        "number": 2,
+        "description": "ZnCl2, DMF, rt, 1 h \n\n",
+        "time": "",
+        "temperature": "20°C ~ 25°C",
+        "reagents": [
+          "O=CN(C)C",
+          "[Cl-].[Cl-].[Zn+2]"
+        ]
+      },
+      {
+        "number": 3,
+        "description": "amide, DMF, rt ®   60 °C, to completion",
+        "time": "",
+        "temperature": "60 °C; 20°C ~ 25°C",
+        "reagents": [
+          "O=CN(C)C"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "O=CN(C)C",
+      "[Cl-].[Cl-].[Zn+2]"
+    ],
+    "description": "(i) tBuONa, DMF, rt, 0.5 h\n(ii) ZnCl2, DMF, rt, 1 h \n\n(iii) amide, DMF, rt ®   60 °C, to completion",
+    "temperature": "",
+    "yield": "76%",
+    "time": "",
+    "details": {
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": 39234,
+    "reactants": [
+      {
+        "smiles": "Cc1ccccc1",
+        "label": "",
+        "text": "+"
+      },
+      {
+        "smiles": "O=C(O)c1ccccc1",
+        "label": "",
+        "text": "40 examples (40-99%)\nDTBP = di-tert-butyl peroxide"
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Br[Fe](Br)(Br)[Br-].CC(C)(C)N1C=[N+](C(C)(C)C)CC1",
+        "label": "",
+        "text": "catalyst ="
+      }
+    ],
+    "products": [
+      {
+        "smiles": "O=C(OCc1ccccc1)c1ccccc1",
+        "label": "",
+        "text": "94%"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CC(c1cccc(n1)C(C)(C)C)(C)C",
+      "Cc1ccccc1"
+    ],
+    "description": "catalyst, DTBP\n\ntoluene, air, 110 °C, 24 h",
+    "temperature": "110 °C",
+    "yield": "94%",
+    "time": "24 h",
+    "details": {
+    }
+  }
+]

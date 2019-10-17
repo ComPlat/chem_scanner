@@ -1,0 +1,158 @@
+[
+  {
+    "id": 59292,
+    "id_cdxml": 60097,
+    "reactants": [
+      {
+        "smiles": "CCCCCCCCCCc1cc(C(=O)OCC)sc1-c1cccs1",
+        "label": "7a",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Brc1cccc2ccccc12",
+        "label": "9",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CCCCCCCCCCc1cc(C(=O)OCC)sc1-c1ccc(-c2cccc3ccccc23)s1",
+        "label": "7e",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O=CN(C)C",
+      "[O-]C(=O)C.[K+]",
+      "c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.[Pd]"
+    ],
+    "description": "60%\nPd(PPh3)4, DMF, Δ\n AcOK",
+    "temperature": "",
+    "yield": "60%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 59293,
+    "id_cdxml": 60098,
+    "reactants": [
+      {
+        "smiles": "CCCCCCCCCCc1cc(C(=O)OCC)sc1-c1cccs1",
+        "label": "7a",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Ic1ccccc1",
+        "label": "8",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CCCCCCCCCCc1cc(C(=O)OCC)sc1-c1ccc(-c2ccccc2)s1",
+        "label": "7d",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O=CN(C)C",
+      "[O-]C(=O)C.[K+]",
+      "c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.[Pd]"
+    ],
+    "description": "18%\nPd(PPh3)4, DMF, Δ\n AcOK",
+    "temperature": "",
+    "yield": "18%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 59497,
+    "id_cdxml": 60284,
+    "reactants": [
+      {
+        "smiles": "CCCCCCCCCCc1cc(C(=O)OCC)sc1-c1cccs1",
+        "label": "7a",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Brc1ccc2ccc3cccc4ccc1c2c34",
+        "label": "11",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CCCCCCCCCCc1cc(C(=O)OCC)sc1-c1ccc(-c2ccc3ccc4cccc5ccc2c3c45)s1",
+        "label": "7g",
+        "text": " 42%"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O=CN(C)C",
+      "[O-]C(=O)C.[K+]",
+      "c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.[Pd]"
+    ],
+    "description": "Pd(PPh3)4, DMF, Δ\n AcOK",
+    "temperature": "",
+    "yield": "42%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 59679,
+    "id_cdxml": 60469,
+    "reactants": [
+      {
+        "smiles": "CCCCCCCCCCc1cc(C(=O)OCC)sc1-c1cccs1",
+        "label": "7a",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "Brc1c2ccccc2cc2ccccc12",
+        "label": "10",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CCCCCCCCCCc1cc(C(=O)OCC)sc1-c1ccc(-c2c3ccccc3cc3ccccc23)s1",
+        "label": "7f",
+        "text": "49% "
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O=CN(C)C",
+      "[O-]C(=O)C.[K+]",
+      "c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.[Pd]"
+    ],
+    "description": "Pd(PPh3)4, DMF, Δ\n AcOK",
+    "temperature": "",
+    "yield": "49%",
+    "time": "",
+    "details": {
+    }
+  }
+]

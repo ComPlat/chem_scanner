@@ -1,0 +1,184 @@
+{
+  "535713": [
+    {
+      "id": 937,
+      "reactants": [
+        {
+          "smiles": "CC(=C)C(=C)C",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "O[C]c1ccc(c2c1OC=CC2(C)C)O",
+          "label": "",
+          "text": "+"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O[C]c1ccc(c2c1OC1CC(=C(CC1C2(C)C)C)C)O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "Cc1ccccc1"
+      ],
+      "description": "A) Toluen, ON \n     95 C\nor\nB) Toluene, ON \n      BF3-Et2O, RT\nX",
+      "temperature": "20°C ~ 25°C",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ],
+  "11988412": [
+    {
+      "id": 798,
+      "reactants": [
+        {
+          "smiles": "C/C(=C\\C=O)/[CH2+]",
+          "label": " ",
+          "text": "+ (1 equiv)"
+        },
+        {
+          "smiles": "Oc1ccc(c(c1)O)C(=O)O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "OC(=O)c1ccc(c2c1OC=CC2(C)C)O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CN2CCN1CC2",
+        "O"
+      ],
+      "description": "DABCO (1 equiv)\nsonification\ndegassed H2O\n2 days\nx",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 987,
+      "reactants": [
+        {
+          "smiles": "C=CC=O",
+          "label": " ",
+          "text": "+ (1.5 equiv)"
+        },
+        {
+          "smiles": "O=Cc1ccc(cc1O)O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=Cc1ccc(c2c1OC=CC2)O",
+          "label": "",
+          "text": "In all three cases onla starting\nmaterials was visible by TLC"
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CCCO1",
+        "C1CN2CCN1CC2",
+        "O"
+      ],
+      "description": "DABCO (1 equiv)\nsonification\nTHF/ H2O\n   (5:1)\n1 days, 45 C\nx",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 1056,
+      "reactants": [
+        {
+          "smiles": "C=CC=O",
+          "label": " ",
+          "text": "+ (1.5 equiv)"
+        },
+        {
+          "smiles": "O=Cc1ccc(cc1O)O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=Cc1ccc(c2c1OC=CC2)O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CN2CCN1CC2",
+        "O"
+      ],
+      "description": "DABCO (1 equiv)\nsonification\ndegassed H2O\n2 days\nx",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ],
+  "5412515": [
+    {
+      "id": 140,
+      "reactants": [
+        {
+          "smiles": "Cc1cc(O)cc(c1)O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=Cc1c(C)cc(cc1O)O",
+          "label": "",
+          "text": "Conversion was not complete, but based on the increase in wieght yields is ca. 55%"
+        },
+        {
+          "smiles": "O=Cc1c(O)cc(cc1O)C",
+          "label": "",
+          "text": "or"
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "ClP(=O)(Cl)Cl",
+        "O",
+        "O=CN(C)C"
+      ],
+      "description": "DMF\n0 C -RT, 2 hours\nRecrys in water\nPOCl3",
+      "temperature": "",
+      "yield": ";55%",
+      "time": "",
+      "details": {
+      }
+    }
+  ]
+}

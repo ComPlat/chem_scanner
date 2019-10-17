@@ -1,0 +1,152 @@
+[
+  {
+    "id": 75,
+    "smiles": "*OC(*)(C#C)c1ccccc1CCC=C",
+    "label": "",
+    "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac"
+  },
+  {
+    "id": 6745,
+    "smiles": "*C1CCC2=NC3C4C=CC(C4)C3C(=O)N21",
+    "label": "",
+    "text": "m = 1, R = H\nm = 1, R = Me   m = 2, R = H  m = 3, R = H (  )m"
+  },
+  {
+    "id": 8285,
+    "smiles": "*N1C(=O)C2C3C=CC(C3)C2NC1=S",
+    "label": "3, 10 4, 11 \n5, 12 \n6, 13",
+    "text": "n = 0, R = H\nn = 1, R = Me   n = 2, R = H  n = 3, R = H n"
+  },
+  {
+    "id": 10000011,
+    "smiles": "C#CC(OOCC(C)(C)C)c1ccccc1CCC=C",
+    "label": "",
+    "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - H; R2 - Piv"
+  },
+  {
+    "id": 10000012,
+    "smiles": "C#CC(OC(C)=O)c1ccccc1CCC=C",
+    "label": "",
+    "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - H; R2 - Ac"
+  },
+  {
+    "id": 10000013,
+    "smiles": "C#CC(C)(OOCC(C)(C)C)c1ccccc1CCC=C",
+    "label": "",
+    "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Me; R2 - Piv"
+  },
+  {
+    "id": 10000014,
+    "smiles": "C#CC(C)(OC(C)=O)c1ccccc1CCC=C",
+    "label": "",
+    "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Me; R2 - Ac"
+  },
+  {
+    "id": 10000015,
+    "smiles": "C#CC(CC)(OOCC(C)(C)C)c1ccccc1CCC=C",
+    "label": "",
+    "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Et; R2 - Piv"
+  },
+  {
+    "id": 10000016,
+    "smiles": "C#CC(CC)(OC(C)=O)c1ccccc1CCC=C",
+    "label": "",
+    "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Et; R2 - Ac"
+  },
+  {
+    "id": 10000017,
+    "smiles": "C#CC(CC=C)(OOCC(C)(C)C)c1ccccc1CCC=C",
+    "label": "",
+    "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Allyl; R2 - Piv"
+  },
+  {
+    "id": 10000018,
+    "smiles": "C#CC(CC=C)(OC(C)=O)c1ccccc1CCC=C",
+    "label": "",
+    "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - Allyl; R2 - Ac"
+  },
+  {
+    "id": 10000019,
+    "smiles": "C#CC(CCc1ccccc1)(OOCC(C)(C)C)c1ccccc1CCC=C",
+    "label": "",
+    "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - (CH2)2Ph; R2 - Piv"
+  },
+  {
+    "id": 10000020,
+    "smiles": "C#CC(CCc1ccccc1)(OC(C)=O)c1ccccc1CCC=C",
+    "label": "",
+    "text": "R1 = H, Me, Et, Allyl, (CH2)2Ph R2 = Piv, Ac. Generated with: R1 - (CH2)2Ph; R2 - Ac"
+  },
+  {
+    "id": 10000021,
+    "smiles": "O=C1C2C3C=CC(C3)C2N=C2CCCN12",
+    "label": "",
+    "text": "m = 1, R = H\nm = 1, R = Me   m = 2, R = H  m = 3, R = H (  )m. Generated with: R - H"
+  },
+  {
+    "id": 10000022,
+    "smiles": "CC1CCC2=NC3C4C=CC(C4)C3C(=O)N21",
+    "label": "",
+    "text": "m = 1, R = H\nm = 1, R = Me   m = 2, R = H  m = 3, R = H (  )m. Generated with: R - Me"
+  },
+  {
+    "id": 10000023,
+    "smiles": "O=C1C2C3C=CC(C3)C2N=C2CCCCN12",
+    "label": "",
+    "text": "m = 1, R = H\nm = 1, R = Me   m = 2, R = H  m = 3, R = H (  )m. Generated with: R - H; m - 2"
+  },
+  {
+    "id": 10000026,
+    "smiles": "O=C1C2C3C=CC(C3)C2N=C2CCCCCN12",
+    "label": "",
+    "text": "m = 1, R = H\nm = 1, R = Me   m = 2, R = H  m = 3, R = H (  )m. Generated with: R - H; m - 3"
+  },
+  {
+    "id": 10000030,
+    "smiles": "O=C1NC(=S)NC2C3C=CC3C12",
+    "label": "3",
+    "text": "n = 0, R = H\nn = 1, R = Me   n = 2, R = H  n = 3, R = H n. Generated with: R - H; n - 0"
+  },
+  {
+    "id": 10000031,
+    "smiles": "O=C1NC(=S)NC2C3C=CC3C12",
+    "label": "10",
+    "text": "n = 0, R = H\nn = 1, R = Me   n = 2, R = H  n = 3, R = H n. Generated with: R - H; n - 0"
+  },
+  {
+    "id": 10000032,
+    "smiles": "CN1C(=O)C2C3C=CC(C3)C2NC1=S",
+    "label": "4",
+    "text": "n = 0, R = H\nn = 1, R = Me   n = 2, R = H  n = 3, R = H n. Generated with: R - Me"
+  },
+  {
+    "id": 10000033,
+    "smiles": "CN1C(=O)C2C3C=CC(C3)C2NC1=S",
+    "label": "11",
+    "text": "n = 0, R = H\nn = 1, R = Me   n = 2, R = H  n = 3, R = H n. Generated with: R - Me"
+  },
+  {
+    "id": 10000034,
+    "smiles": "O=C1NC(=S)NC2C3C=CC(CC3)C12",
+    "label": "5",
+    "text": "n = 0, R = H\nn = 1, R = Me   n = 2, R = H  n = 3, R = H n. Generated with: R - H; n - 2"
+  },
+  {
+    "id": 10000037,
+    "smiles": "O=C1NC(=S)NC2C3C=CC(CC3)C12",
+    "label": "12",
+    "text": "n = 0, R = H\nn = 1, R = Me   n = 2, R = H  n = 3, R = H n. Generated with: R - H; n - 2"
+  },
+  {
+    "id": 10000040,
+    "smiles": "O=C1NC(=S)NC2C3C=CC(CCC3)C12",
+    "label": "6",
+    "text": "n = 0, R = H\nn = 1, R = Me   n = 2, R = H  n = 3, R = H n. Generated with: R - H; n - 3"
+  },
+  {
+    "id": 10000044,
+    "smiles": "O=C1NC(=S)NC2C3C=CC(CCC3)C12",
+    "label": "13",
+    "text": "n = 0, R = H\nn = 1, R = Me   n = 2, R = H  n = 3, R = H n. Generated with: R - H; n - 3"
+  }
+]

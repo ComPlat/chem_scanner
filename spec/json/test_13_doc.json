@@ -1,0 +1,74 @@
+{
+  "815524": [
+    {
+      "id": 31,
+      "reactants": [
+        {
+          "smiles": "CC(=C)c1ccc(cc1)F",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "CCOC(=O)NC[C@@](c1ccc(cc1)F)(O)C",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "OC[C@@](c1ccc(cc1)F)(NC(=O)OCC)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "O",
+        "[Na+].[OH-]"
+      ],
+      "description": "NaOH, Urethan\nK2[OsO2(OH)4]\n(DHQD)2PHAL\n1,3-Dichlor-5,5-\ndimethylhydantoin\nnPrOH/H2O",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 174,
+      "reactants": [
+        {
+          "smiles": "CCOC(=O)NC[C@@](c1ccc(cc1)F)(O)C",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "OC[C@@](c1ccc(cc1)F)(NC(=O)OCC)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=C1OC[C@@](N1)(C)c1ccc(cc1)F",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "OS(=O)(=O)O",
+        "[Na+].[OH-]"
+      ],
+      "description": "NaOH,\nH2SO4",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ]
+}

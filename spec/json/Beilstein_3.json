@@ -1,0 +1,190 @@
+[
+  {
+    "id": 167257,
+    "id_cdxml": 167273,
+    "reactants": [
+      {
+        "smiles": "Oc1ccccc1Br",
+        "label": "9",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "C=CCc1cccc(Br)c1O",
+        "label": "11",
+        "text": ""
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "allyl bromide\n    K2CO3\n    acetone, reflux\n\n",
+        "time": "",
+        "temperature": "",
+        "reagents": [
+          "[O-]C(=O)[O-].[K+].[K+]",
+          "CC(=O)C",
+          "BrCC=C"
+        ]
+      },
+      {
+        "number": 2,
+        "description": "Et2AlCl\n    hexane, rt",
+        "time": "",
+        "temperature": "20°C ~ 25°C",
+        "reagents": [
+          "CC[Al](CC)Cl",
+          "CCCCCC"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "BrCC=C",
+      "CC(=O)C",
+      "CCCCCC",
+      "CC[Al](CC)Cl",
+      "[O-]C(=O)[O-].[K+].[K+]"
+    ],
+    "description": "1. allyl bromide\n    K2CO3\n    acetone, reflux\n\n2. Et2AlCl\n    hexane, rt",
+    "temperature": "",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 167258,
+    "id_cdxml": 167274,
+    "reactants": [
+      {
+        "smiles": "OC1Cc2cccc(Br)c2O1",
+        "label": "12",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "CON(C)C(=O)C=P(c1ccccc1)(c1ccccc1)c1ccccc1",
+        "label": "13",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CON(C)C(=O)/C=C/Cc1cccc(Br)c1O",
+        "label": "7",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "C1CCCO1"
+    ],
+    "description": "THF, 0 °C\n55% (4 steps)",
+    "temperature": "0 °C",
+    "yield": "55%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 167260,
+    "id_cdxml": 167276,
+    "reactants": [
+      {
+        "smiles": "C=CCc1cccc(C)c1O",
+        "label": "10",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "CON(C)C(=O)C=P(c1ccccc1)(c1ccccc1)c1ccccc1",
+        "label": "13",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "CON(C)C(=O)/C=C/Cc1cccc(C)c1O",
+        "label": "8",
+        "text": ""
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "description": "O3, MeOH,\n     -78 °C;\n    Me2S, rt\n\n",
+        "time": "",
+        "temperature": "-78 °C; 20°C ~ 25°C",
+        "reagents": [
+          "[O-][O+]=O",
+          "CO",
+          "CSC"
+        ]
+      },
+      {
+        "number": 2,
+        "description": "13, THF\n    0 °C, 48%\n    (2 steps)",
+        "time": "",
+        "temperature": "0 °C",
+        "reagents": [
+          "C1CCCO1"
+        ]
+      }
+    ],
+    "reagent_smiles": [
+      "C1CCCO1",
+      "CO",
+      "CSC",
+      "[O-][O+]=O"
+    ],
+    "description": "1. O3, MeOH,\n     -78 °C;\n    Me2S, rt\n\n2. 13, THF\n    0 °C, 48%\n    (2 steps)",
+    "temperature": "",
+    "yield": "48%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 167261,
+    "id_cdxml": 167277,
+    "reactants": [
+      {
+        "smiles": "C=CCc1cccc(Br)c1O",
+        "label": "11",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "OC1Cc2cccc(Br)c2O1",
+        "label": "12",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CO",
+      "CSC",
+      "[O-][O+]=O"
+    ],
+    "description": "O3, MeOH,\n-78 °C;\nMe2S, rt",
+    "temperature": "-78 °C; 20°C ~ 25°C",
+    "yield": "",
+    "time": "",
+    "details": {
+    }
+  }
+]

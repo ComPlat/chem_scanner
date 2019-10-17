@@ -1,0 +1,68 @@
+{
+  "377012": [
+    {
+      "id": 82,
+      "reactants": [
+        {
+          "smiles": "COC(=O)C1CC2(OCCO2)CCC1=O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "COC(=O)C1(Br)CC2(OCCO2)CCC1=O",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "BrN1C(=O)CCC1=O"
+      ],
+      "description": "NBS, Base",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ],
+  "308425": [
+    {
+      "id": 66,
+      "reactants": [
+        {
+          "smiles": "C=CC1=CC(=O)CCC1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "OCCO",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "products": [
+        {
+          "smiles": "C=CC1=CC2(CCC1)OCCO2",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "Cc1ccc(cc1)S(=O)(=O)O"
+      ],
+      "description": "pTsOH, Benzol, Δ",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ]
+}

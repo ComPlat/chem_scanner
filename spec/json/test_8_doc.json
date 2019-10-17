@@ -1,0 +1,111 @@
+{
+  "1223039": [
+    {
+      "id": 42,
+      "reactants": [
+        {
+          "smiles": "O=CC=C(C)C",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "O=Cc1c(C)cc(cc1O)O",
+          "label": "",
+          "text": "+"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=Cc1c(O)cc2c(c1O)C=CC(O2)(C)C",
+          "label": "",
+          "text": "workup monday"
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CN2CCN1CC2",
+        "O",
+        "O1CCOCC1"
+      ],
+      "description": "DABCO\nDioxane/water (1:2)\nSonification",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 165,
+      "reactants": [
+        {
+          "smiles": "C/C=C\\C=O",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "O=Cc1c(C)cc(cc1O)O",
+          "label": "",
+          "text": "+"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "O=Cc1c(O)cc2c(c1O)C=CC(O2)C",
+          "label": "",
+          "text": "21% \nwaiting for nmr"
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CN2CCN1CC2",
+        "O",
+        "O1CCOCC1"
+      ],
+      "description": "DABCO\nDioxane/water (1:2)\nSonification",
+      "temperature": "",
+      "yield": "21%",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 193,
+      "reactants": [
+        {
+          "smiles": "CI",
+          "label": "",
+          "text": ""
+        },
+        {
+          "smiles": "Cc1cc(O)cc(c1)O",
+          "label": "",
+          "text": "+"
+        }
+      ],
+      "reagents": [
+
+      ],
+      "products": [
+        {
+          "smiles": "COc1cc(OC)cc(c1)C",
+          "label": "",
+          "text": "99%"
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "C1CCCO1",
+        "[O-]C(=O)[O-].[K+].[K+]"
+      ],
+      "description": "K2CO3\nTHF",
+      "temperature": "",
+      "yield": "99%",
+      "time": "",
+      "details": {
+      }
+    }
+  ]
+}

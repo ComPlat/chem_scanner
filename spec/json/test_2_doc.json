@@ -1,0 +1,70 @@
+{
+  "881825": [
+    {
+      "id": 2849,
+      "reactants": [
+        {
+          "smiles": "O=C1CCCC2C1(Br)C(O)c1c(O2)cccc1",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "COC(=C)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "products": [
+        {
+          "smiles": "COC(OC1c2ccccc2OC2C1(Br)C(=O)CCC2)(C)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+        "ClP(=O)(Cl)Cl"
+      ],
+      "description": "POCl3",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    },
+    {
+      "id": 2863,
+      "reactants": [
+        {
+          "smiles": "COC(OC1c2ccccc2OC2C1(Br)C(=O)CCC2)(C)C",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "reagents": [
+        {
+          "smiles": "C1CN2CCN1CC2",
+          "label": "",
+          "text": ""
+        }
+      ],
+      "products": [
+        {
+          "smiles": "COC(OC1C2=C(CCCC2=O)Oc2c1cccc2)(C)C",
+          "label": "",
+          "text": "Not analytically pure, but the TLC\nlooks really nice.\nWill do NMR and MS next week."
+        }
+      ],
+      "steps": [], "reagent_smiles": [
+
+      ],
+      "description": "~90 %",
+      "temperature": "",
+      "yield": "",
+      "time": "",
+      "details": {
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1601,
+    "id_cdxml": 1689,
+    "reactants": [
+      {
+        "smiles": "C=CCO[C@@H]1OC(CO[Si](c2ccccc2)(c2ccccc2)C(C)(C)C)[C@@H](O[C@@H]2OC(COC(C)=O)[C@H](OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(O)C1NC(C)=O",
+        "label": "8",
+        "text": " +"
+      },
+      {
+        "smiles": "CCS[C@H]1OC(CO[Si](CC)(CC)CC)[C@@H](O[Si](CC)(CC)CC)C(O[Si](CC)(CC)CC)C1O[Si](CC)(CC)CC",
+        "label": "7",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "C=CCO[C@@H]1OC(CO[Si](c2ccccc2)(c2ccccc2)C(C)(C)C)[C@@H](O[C@@H]2OC(COC(C)=O)[C@H](OC(C)=O)C(OC(C)=O)C2OC(C)=O)C(O[C@@H]2OC(CO[Si](CC)(CC)CC)[C@@H](O[Si](CC)(CC)CC)C(O[Si](CC)(CC)CC)C2O[Si](CC)(CC)CC)C1NC(C)=O",
+        "label": "9",
+        "text": "(α :β  9:1)"
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CSSC",
+      "FC(S(=O)(=O)OS(=O)(=O)C(F)(F)F)(F)F"
+    ],
+    "description": "-40 °C\n53%\nTfOTf\nMeSSMe",
+    "temperature": "-40 °C",
+    "yield": "53%",
+    "time": "",
+    "details": {
+    }
+  }
+]

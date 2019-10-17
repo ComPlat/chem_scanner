@@ -1,0 +1,223 @@
+[
+  {
+    "id": 375039,
+    "reactants": [
+      {
+        "smiles": "O=c1oc2ccccc2c(-c2ccccc2)c1Br",
+        "label": "3Aa",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "*C=C",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "Cc1ccc(/C=C/c2c(-c3ccccc3)c3ccccc3oc2=O)cc1",
+        "label": "7Aa",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O=CN(C)C",
+      "[O-]C(=O)[O-].[K+].[K+]",
+      "c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.Cl[Pd]Cl"
+    ],
+    "description": "(79%)\nDMF, 90 °C\nK2CO3\nPdCl2(PPh3)2",
+    "temperature": "90 °C",
+    "yield": "79%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 375040,
+    "reactants": [
+      {
+        "smiles": "O=c1oc2ccccc2c(-c2ccccc2)c1Br",
+        "label": "3Aa",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "OB(O)c1ccccc1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "O=c1oc2ccccc2c(-c2ccccc2)c1-c1ccccc1",
+        "label": "9Aa",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "O",
+      "O=CN(C)C",
+      "[O-]C(=O)[O-].[K+].[K+]",
+      "c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.Cl[Pd]Cl"
+    ],
+    "description": "DMF, H2O\n60 °C\n(76%)\nPhB(OH)2\nK2CO3\nPdCl2(PPh3)2",
+    "temperature": "60 °C",
+    "yield": "76%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 375041,
+    "reactants": [
+      {
+        "smiles": "O=c1oc2ccccc2c(-c2ccccc2)c1Br",
+        "label": "3Aa",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "[Zn]",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "[H]c1c(-c2ccccc2)c2ccccc2oc1=O",
+        "label": "4Aa",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CCO"
+    ],
+    "description": "EtOH, reflux\n(81%)",
+    "temperature": "",
+    "yield": "81%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 375043,
+    "reactants": [
+      {
+        "smiles": "O=c1oc2ccccc2c(-c2ccccc2)c1Br",
+        "label": "3Aa",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "Cc1ccc(Sc2c(-c3ccccc3)c3ccccc3oc2=O)cc1",
+        "label": "5Aa",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CNCCNC",
+      "Cc1ccccc1",
+      "[Cu+].[I-]",
+      "[O-]C(=O)[O-].[K+].[K+]"
+    ],
+    "description": "DMEDA\nK2CO3, CuI\n(62%)\ntoluene, reflux\np-toluenethiol",
+    "temperature": "",
+    "yield": "62%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 375047,
+    "reactants": [
+      {
+        "smiles": "O=c1oc2ccccc2c(-c2ccccc2)c1Br",
+        "label": "3Aa",
+        "text": ""
+      }
+    ],
+    "reagents": [
+      {
+        "smiles": "[H]C#Cc1ccccc1",
+        "label": "",
+        "text": ""
+      }
+    ],
+    "products": [
+      {
+        "smiles": "O=c1oc2ccccc2c(-c2ccccc2)c1C#Cc1ccccc1",
+        "label": "8Aa",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CCN(CC)CC",
+      "[Cu+].[I-]",
+      "c1ccc(cc1)P(c1ccccc1)c1ccccc1.c1ccc(cc1)P(c1ccccc1)c1ccccc1.Cl[Pd]Cl"
+    ],
+    "description": "Et3N, 60 °C\n(60%)\nPdCl2(PPh3)2\nCuI",
+    "temperature": "60 °C",
+    "yield": "60%",
+    "time": "",
+    "details": {
+    }
+  },
+  {
+    "id": 375048,
+    "reactants": [
+      {
+        "smiles": "O=c1oc2ccccc2c(-c2ccccc2)c1Br",
+        "label": "3Aa",
+        "text": ""
+      }
+    ],
+    "reagents": [
+
+    ],
+    "products": [
+      {
+        "smiles": "COc1ccc(C(=O)Nc2c(-c3ccccc3)c3ccccc3oc2=O)cc1",
+        "label": "6Aa",
+        "text": ""
+      }
+    ],
+    "steps": [
+
+    ],
+    "reagent_smiles": [
+      "CNCCNC",
+      "Cc1ccccc1",
+      "[Cu+].[I-]",
+      "[O-]C(=O)[O-].[K+].[K+]"
+    ],
+    "description": "DMEDA\nK2CO3, CuI\n(51%)\ntoluene, reflux\np-methoxybenzamide",
+    "temperature": "",
+    "yield": "51%",
+    "time": "",
+    "details": {
+    }
+  }
+]

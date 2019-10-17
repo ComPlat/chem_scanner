@@ -1,0 +1,36 @@
+CDXML: Document
+page: Page
+group: Group
+fragment: Fragment
+n: Node
+b: Bond
+t: Text
+graphic: Graphic
+bracketedgroup: BracketedGroup
+bracketattachment: BracketAttachment
+crossingbond: CrossingBond
+curve: Curve
+embeddedobject: EmbeddedObject
+table: Table
+altgroup: NamedAlternativeGroup
+templategrid: TemplateGrid
+regnum: RegistryNumber
+scheme: ReactionScheme
+step: ReactionStep
+spectrum: Spectrum
+objecttag: ObjectTag
+sequence: Sequence
+crossreference: CrossReference
+border: Border
+geometry: Geometry
+constraint: Constraint
+tlcplate: TLCPlate
+tlclane: TLCLane
+tlcspot: TLCSpot
+splitter: Splitter
+chemicalproperty: ChemicalProperty
+arrow: Arrow
+
+# colortable: ColorTable
+# fonttable: FontTable
+# represent: RepresentsProperty
