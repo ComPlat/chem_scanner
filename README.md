@@ -5,6 +5,19 @@ The `ChemScanner` library attempts to extract and interpret reactions/molecules 
 
 # Installation
 
+## Prerequisites
+
+The gem is using [rdkit_chem](https://github.com/CamAnNguyen/rdkit_chem) gem, therefore it requires dependencies of [rdkit_chem](https://github.com/CamAnNguyen/rdkit_chem) gem
+  * cmake 3.8 or later
+  * curl
+  * tar, sed, make (those should be present anyway)
+  * SWIG 2 or later
+  * python header (`python-dev`)
+  * sqlite (`sqlite3-dev`)
+  * boost > 1.58 (`libboost-all-dev`)
+  * gcc -  **no later than 9.3.0, current code does not work with gcc-10**
+
+## Install
 Add this line to your application's Gemfile:
 
 ```ruby
